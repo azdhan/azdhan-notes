@@ -1,0 +1,17 @@
+# GOAT: The Greatest of All TIme (2024): Venkat Prabhu's Worst of All Time.
+
+**The de-aged Venkat Prabhu's hero is a colossal mess that tried to be everything from a Hollywood style Mission Impossible sprinkled with Indian Father-Son mellow sentiments turning toxic in a 'Animal' way (not at all in a good way).**
+
+GOAT asks you to sit till the interval to get into the main plot of the story. The long time and space taken for the character establishment doesn't only make this a drag, but it also reminds us of the utter failure of the bromance among the non-fantastic four: Prabhu Deva, Prashanth, Ajmal Ameer and Jayaram. This mess continues till the we-all-know-yet-long-due moment of Venkat Prabhu's hero coming back again to the Special Anti-Terrorism Squad Team after he left SATS for the sake of his wife Sneha and their daughter– only waiting for his wife to forgive him.
+
+The stronger villain is essential for the making of a big hero. The stronger villains come from stronger motivations. Here, the motivations of characters are standard and may need a bit more effortful writing. It is still unclear why Premgi Amaren and Vaibhav Reddy were under utilised. We know the comedy timing of Premgi. We know that Venkat Prabhu went full on fan-service mode. Then, why can't the characters be utilised for their strength?
+
+All characters written by Venkat Prabhu are so blandly written that it feels like we are entering into badly tailored made clothes neither made for Ilayathalapathy's fans nor for the sake of good cinema lovers; only leaving you as a disappointed badly dressed clown after credit rolls ends.
+
+The songs and music were also a huge disappointment. Yuvan Shankar Raja's music doesn't ring the ear as much as we got used to Vijay-Anirudh's combo.
+
+Venkat Prabhu proudly calls Vijay's GOAT as a 'A Venkat Prabhu Hero', similar to how Karthik Subbaraj calls 'The Karthik Subbaraj Padam' or SS Rajamouli stamping the posters with his trademark. There is an unusual confidence and an urge to create a mark. Nobody questions it as long as it is working for everyone. But, this time Venkat Prabhu's hero even failed at standard fan service. The moments created for the fans like the chewing-gum-popping-Vijay came out as an unnecessary gag out of nowhere; despite it being a much necessary mass moment from Thalapathy's movies. Even the Thala Dhoni moment in the theatre felt as an unnecessary drag.
+
+Therefore, he needs to question himself. Revisit the classic Venkat Prabhu who made Ajith Kumar into a villain-ish hero. This is true especially at the moment when the probable next title of Venkat Prabhu is again proudly tagged as 'GOAT VS OG- A VENKAT PRABHU VILLAIN'.
+
+I don't see the reveal of the probable sequel in a review as a big spoiler. Because, the announcement of a probable sequel at post-credits didn't come out as an enjoyable mind-boggler (as it did in Sandeep Reddy Vanga's Animal), it turned out to be an exasperated disappointment after the three-hour torment of mindless stunts of failed writing and lost imagination.

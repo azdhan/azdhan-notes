@@ -1,0 +1,19 @@
+# CTRL (2024): The Timely Reminder of Our OrwellianTech-Fears.
+
+At some point in our human civilization's timeline we discovered critical thinking and began building technology. CUT TO: Today. We are all aware where we are right now. The technology built by the human collective is growing at the pace that humans can't cope. What do we do to take back the CTRL of our life? That's the question Vikramaditya Motwane's directorial written by Avinash Sampath questions, but doesn't answer– because it can't.
+
+Nella Awasthi, played by Ananya Pandey, is the social media influencer whose line as a differentiator between real life and reel-life is almost non-existent. She has a boyfriend, Joe. They are the always happy reel-couple with always high-on energy. Their relationship is a subconscious act to allure brands for collaboration on social media. Anyway, everything is well and good until the moment finally comes and Joe has to leave Nella's life. So, what's next for Nella?
+
+Then, comes the saviour of the century, Artificial Intelligence (AI) into the scene to save Nella from sadness and chaos caused due to Joe's unfortunate departure. The AI with a name Allen and a face that resembles Ranveer Singh from Band Baaja Baaraat. If the plot-question is what will this AI Allen will do to Nella's life, the life-question is what can an AI can do to our life?
+
+CTRL is an all-digital-screen thriller where you feel like as if you are watching the screen recording of Nella's life events from the POV of cameras on her devices, either laptop or smartphone. This is not a new genre. The famous Searching (2018) by Aneesh Chaganty is the pioneer of this genre. Indian cinema too has tried this format during the COVID-19 lockdown quite effectively with Fahad Fasil's C U Soon (2020) directed by Mahesh Narayanan.
+
+Ananya Pandey being Ananya Pandey has already become the new stereotype of her own. She should really think about why she is choosing the characters that end up typecasting her to the same personality. Or, she also doesn't have a choice in life just like Nella in CTRL? Just a month ago, we saw her in Amazon Prime Original Call Me Bae playing a rich brat and a wanna-be social media influencer. There is nothing different in her character except the fact that her father in CTRL owns a cake baking shop, not a multi-crore villa in South Delhi.
+
+The editing by Jahaan Noble suits the theme of the overall movie. For an all-digital-screen movie like CTRL the editing takes quite an effort to maintain the dramatic impact of a thriller. The cinematography by Pratik Shah ends the cinema with the gloomy mood that fits better with the key pessimistic takeaway offered by the movie.
+
+The purpose of CTRL is quite clear. Vikramaditya Motwane might not be able to give tall answers for our concerns because we are yet to formulate a viable solution. Yet, Vikramaditya doesn't let you go off without making you question your stands of digital privacy, monopolisation of big-tech, AI's agency to think and make decisions of its own, erasure of digital footprint etc. Basically, he tried to weave in the tech concerns of our age for all the right reasons.
+
+[https://www.youtube.com/watch?v=KEfeMPGj-Dw](https://www.youtube.com/watch?v=KEfeMPGj-Dw)
+
+CTRL is now streaming on Netflix.
