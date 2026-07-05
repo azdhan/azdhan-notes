@@ -1,3 +1,17 @@
 @use "./variables.scss" as *;
 
 // put your custom CSS here!
+
+// Reduce the large default top gap (base.scss uses $topSpacing: 6rem)
+.sidebar {
+  padding-top: 2rem !important;
+}
+
+.page-header {
+  margin-top: 2rem !important;
+}
+
+// Slightly darker sepia for the sidebars vs. the lighter sepia page background
+.sidebar {
+  background-color: #ecdfc0 !important;
+}

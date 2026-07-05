@@ -21,15 +21,15 @@ configuration:
       code: IBM Plex Mono
     colors:
       lightMode:
-        light: "#faf8f8"
-        lightgray: "#e5e5e5"
-        gray: "#b8b8b8"
-        darkgray: "#4e4e4e"
-        dark: "#2b2b2b"
-        secondary: "#284b63"
-        tertiary: "#84a59d"
-        highlight: rgba(143, 159, 169, 0.15)
-        textHighlight: "#fff23688"
+        light: "#f4ecd8"
+        lightgray: "#e4d9bd"
+        gray: "#b8a67e"
+        darkgray: "#4e4534"
+        dark: "#2b2418"
+        secondary: "#7a5c3e"
+        tertiary: "#8a7355"
+        highlight: rgba(122, 92, 62, 0.15)
+        textHighlight: "#e8d48d88"
       darkMode:
         light: "#161618"
         lightgray: "#393639"
@@ -154,6 +154,9 @@ plugins:
     enabled: true
   - source: github:quartz-community/explorer
     enabled: true
+    options:
+      title: Tags
+      filterFn: "(node) => node.slug === 'tags' || (node.slug && node.slug.startsWith('tags/'))"
     layout:
       position: left
       priority: 50
@@ -180,6 +183,7 @@ plugins:
     layout:
       position: beforeBody
       priority: 10
+      condition: not-index
   - source: github:quartz-community/content-meta
     enabled: true
     layout:
@@ -221,14 +225,24 @@ plugins:
     layout:
       position: afterBody
       priority: 10
-  - source: github:quartz-community/footer
+  - source: ./local-plugins/footer
     enabled: true
     options:
-      links:
-        GitHub: https://github.com/jackyzha0/quartz
-        Discord Community: https://discord.gg/cRFFHYye7t
+      links: {}
+      licenseText: All notes in this garden are shared under a Creative Commons Attribution 4.0 International license (CC BY 4.0) — reuse or adapt freely, with attribution.
+      licenseUrl: https://creativecommons.org/licenses/by/4.0/
   - source: github:quartz-community/recent-notes
-    enabled: false
+    enabled: true
+    options:
+      title: Recent Notes
+      limit: 8
+      hideTagPages: true
+      hideFolderPages: true
+      showTags: true
+      linkToMore: false
+    layout:
+      position: left
+      priority: 60
   - source: github:quartz-community/spacer
     enabled: true
     options: {}
