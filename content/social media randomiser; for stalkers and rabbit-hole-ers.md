@@ -1,0 +1,18 @@
+
+The core idea is that public social media posts by serious thinkers, journalists, and policy commentators act as **primary historical sources**, not casual content. These posts capture opinions, uncertainties, and interpretations _at the moment events unfold_. However, existing platforms are built to prioritise recency, engagement, and virality, which makes them structurally hostile to historical analysis, retrospective understanding, and serious research.
+
+The central problem is that accessing this historical layer is currently tedious and inefficient. Tools like Twitter’s advanced search are keyword-driven, chronological, and mentally exhausting to use at scale. There is no native way to meaningfully randomise old posts, examine how ideas evolve across time, surface forgotten but relevant insights, or reconstruct what someone thought _before outcomes were known_. Platforms are anti-history by design; they want users scrolling forward, not thinking backward.
+
+The primary use case is for researchers, journalists, writers, historians, and policy analysts who want to answer questions such as: what did a particular person think when an event first happened; how did their stance evolve, harden, soften, or contradict itself over time; and what assumptions or predictions were made before regulatory, political, or technological consequences became clear. This is about understanding **thought-in-progress**, not post-hoc narratives.
+
+One initially considered approach—asking users to bring or upload their own data—was rejected because it recreates the very friction the product aims to eliminate. Expecting users to scrape, export, or manually assemble archives turns the tool into a data-collection burden rather than a thinking aid. For quick historical understanding, the user must arrive with a question, not a dataset.
+
+The viable MVP direction instead is a **selective public-interest indexing system** focused on specific individuals, bounded time periods, and defined topics. Rather than mirroring feeds, the system ingests narrowly scoped public posts, stores derived representations such as timestamps, topics, embeddings, and limited excerpts, and freezes them as historical snapshots. This avoids live-feed dynamics and reframes the product as retrospective analysis rather than content consumption.
+
+What differentiates this product is not search, but **temporal intelligence**. The value lies in slicing thought across time, enabling concept-based randomisation, detecting idea drift and internal contradictions, and aligning posts with external events. The goal is to interpret how meaning changes over time, not to simply retrieve text.
+
+From a legal and platform perspective, zero-risk design leads to irrelevance. The product must avoid full mirroring, feed substitution, or engagement replication, and instead operate clearly as a research, archival, and commentary tool. Some defensible risk is unavoidable; the focus must be on purpose limitation, narrow scope, and non-substitutability of the original platforms.
+
+The key insight is that this should be treated as **knowledge infrastructure**, not a social product. Framed as an “AI tweet explorer,” it will fail. Framed as a historical index of public thought-in-progress, designed for slow, serious understanding, it has a meaningful chance of working.
+
+i found this social media scraper tool's link in my notes (i think i saved it around 2020). might be useful, can explore: [JustAnotherArchivist/snscrape: A social networking service scraper in Python](https://github.com/JustAnotherArchivist/snscrape) 

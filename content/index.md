@@ -10,3 +10,9 @@ my social links where i am least active:  [linkedin](https://in.linkedin.com/in/
 
 see what i'm watching and reading here:   [letterboxd](https://letterboxd.com/AzdhanBasha/)  |  [serializd](https://www.serializd.com/user/Azdhanbasha/profile)  |  [story graph](https://app.thestorygraph.com/profile/azdhan2k)  
 
+--- 
+### somethings for you to explore
+- [[tools and apps that i have vibe coded]]
+- [[tech tools that makes my life easier]]
+- [[tools that i want to build which can also be startups (feel free to steal)]]
+

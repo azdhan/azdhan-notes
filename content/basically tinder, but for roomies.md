@@ -1,0 +1,5 @@
+
+The idea of the application is to connect the people who wants to have roommates based on their behaviors. The idea is that home is a very private place and they should not have a democratic idea of the home, democracy, diversity or anything. It can be authoritarian. The authoritarianism should stem from the comfort and the consent. So it is, if I am, if I don't like non-veg, there shouldn't be a situations where I should Compile to feel comfortable with the vegetarian people. Right.
+
+Purpose and the features: 
+- So the application's starting point should have a simple questionnaire that would assess the behavior camps or groups that can differentiate people into one segment or another and connect with them. The questionnaire should be very simple. I think Tinder or Tumble or any dating apps would be best to go to resources to understand and How to build these questionnaires that can understand the behavior of a one person

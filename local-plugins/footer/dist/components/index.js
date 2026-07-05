@@ -1,15 +1,4 @@
 import { jsx, jsxs } from "preact/jsx-runtime";
-import { readFileSync } from "fs";
-import { join } from "path";
-
-function getQuartzVersion() {
-  try {
-    const pkg = JSON.parse(readFileSync(join(process.cwd(), "package.json"), "utf-8"));
-    return pkg.version ?? "";
-  } catch {
-    return "";
-  }
-}
 
 const style = `
 footer.custom-footer {

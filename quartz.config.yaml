@@ -159,8 +159,8 @@ plugins:
       folderDefaultState: open
       filterFn: "(node) => node.slug === 'tags' || (node.slug && node.slug.startsWith('tags/'))"
     layout:
-      position: left
-      priority: 50
+      position: right
+      priority: 60
   - source: github:quartz-community/graph
     enabled: false
   - source: github:quartz-community/search
@@ -232,8 +232,8 @@ plugins:
   - source: ./local-plugins/recent-notes
     enabled: true
     options:
-      title: Recent Notes
-      limit: 8
+      title: Recently Updated Notes
+      limit: 5
       hideTagPages: true
       hideFolderPages: true
       showTags: false

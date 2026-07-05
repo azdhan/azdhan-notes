@@ -25,6 +25,14 @@
   border-radius: 0 !important;
 }
 
+// Remove the "highlighter" background Quartz gives ALL internal wikilinks by
+// default (base.scss: a.internal { background-color: var(--highlight) }).
+// Plain blue link color only, no colored box behind the text.
+a.internal {
+  background-color: transparent !important;
+  padding: 0 !important;
+}
+
 // Recent Notes: compact, no dates, tight spacing between entries
 // (tags removed via showTags: false in quartz.config.yaml, not CSS)
 .recent-notes > ul.recent-ul > li {
@@ -45,6 +53,16 @@
 .search > .search-button {
   background-color: var(--light) !important;
   border: 1px solid var(--lightgray) !important;
+}
+
+// Search: the expanded overlay (input box + results/preview panels) only
+// blurs the backdrop behind it — the panels themselves have no guaranteed
+// opaque background, making typed text/results hard to read. Force a solid
+// theme-matching background on every part of the search overlay.
+.search > .search-container > .search-space > input,
+.search > .search-container > .search-space > .search-layout,
+.search > .search-container > .search-space > .search-layout > div {
+  background-color: var(--light) !important;
 }
 
 // ============================================================================
@@ -79,12 +97,13 @@ h3 {
   font-weight: 600 !important;
 }
 
-// Tags/labels: 0.75-0.8125rem, 500, uppercase with slight letter-spacing so they
-// don't feel cramped at this small size
+// Tags/labels: 0.75-0.8125rem, 500, lowercase (matches the tag's actual casing;
+// the fix-up script in the recent-notes fork also rewrites truncated nested
+// tags like "reviews" back to their full path, e.g. "art/cinema/reviews")
 .tag-link {
   font-size: 0.8125rem !important;
   font-weight: 500 !important;
-  text-transform: uppercase;
+  text-transform: lowercase;
   letter-spacing: 0.03em;
 }
 
@@ -100,11 +119,31 @@ h3 {
   }
 }
 
+// Backlinks specifically: bump ~2px above the general sidebar size for
+// slightly easier reading (0.875rem -> 1rem).
+.backlinks {
+  font-size: 1rem !important;
+}
+
 // Metadata (dates, "currently reading"-style text): 0.875rem, 400, muted color
 .content-meta {
   font-size: 0.875rem !important;
   font-weight: 400 !important;
   color: var(--gray) !important;
+}
+
+// "Last updated on <date> | X min read" instead of the bare date + comma
+.content-meta time::before {
+  content: "Last updated on ";
+}
+
+.content-meta[show-comma="true"] > *:not(:last-child) {
+  margin-right: 8px !important;
+}
+
+.content-meta[show-comma="true"] > *:not(:last-child)::after {
+  content: "|" !important;
+  margin-left: 8px;
 }
 
 // Popover hover-preview cards: popover.scss resets font-size to browser default
@@ -144,20 +183,26 @@ h3 {
     gap: 0.75rem !important;
   }
 
-  // Tags and Recent Notes can get long — cap their height and let them
-  // scroll independently instead of pushing the actual article far down
-  // the page on mobile.
-  .sidebar.left .explorer-content,
+  // Recent Notes can get long — cap its height and let it scroll
+  // independently instead of pushing the actual article down the page.
   .sidebar.left .recent-notes > ul.recent-ul {
     max-height: 12rem;
     overflow-y: auto;
   }
 
-  // Right sidebar (Backlinks — TOC hides on mobile/tablet via base.scss)
-  // already switches to a row on mobile; give it breathing room.
+  // Right sidebar now holds Tags (Explorer, which manages its own full-screen
+  // mobile overlay independently) alongside Backlinks. Stack vertically and
+  // stop the base.scss "flex:1" rule from stretching Explorer's collapsed
+  // hamburger button to fill half the row.
   .sidebar.right {
+    flex-direction: column !important;
     gap: 0.75rem !important;
     padding: 1rem !important;
+  }
+
+  .sidebar.right > *:not(.explorer) {
+    flex: initial !important;
+    max-height: none !important;
   }
 
   // Body copy can afford to be a touch smaller on narrow screens so headings

@@ -118,18 +118,31 @@ export const RecentNotes = (userOpts) => {
   list-style: revert;
 }
 
-.recent-notes-details > .recent-notes > h3 {
-  display: none;
-}
-
 @media all and (min-width: 801px) {
   .recent-notes-details > .recent-notes {
     display: block !important;
   }
   .recent-notes-details > summary {
-    display: none;
+    cursor: default;
+    list-style: none;
   }
 }
+`;
+
+  RecentNotesComponent.afterDOMLoaded = `
+function fixTagLinkText() {
+  document.querySelectorAll('a.tag-link[href*="/tags/"]').forEach((el) => {
+    const href = el.getAttribute("href");
+    const match = href.match(/\\/tags\\/([^?#]+?)\\/?$/);
+    if (!match) return;
+    const fullTag = decodeURIComponent(match[1]).toLowerCase();
+    if (fullTag && el.textContent.toLowerCase() !== fullTag) {
+      el.textContent = fullTag;
+    }
+  });
+}
+document.addEventListener("nav", fixTagLinkText);
+fixTagLinkText();
 `;
 
   return RecentNotesComponent;
