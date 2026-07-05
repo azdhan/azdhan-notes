@@ -29,7 +29,6 @@ footer.custom-footer ul {
 `;
 
 export const Footer = (opts) => {
-  const version = getQuartzVersion();
   const links = opts?.links ?? {};
   const licenseText = opts?.licenseText ?? "";
   const licenseUrl = opts?.licenseUrl;
@@ -38,15 +37,6 @@ export const Footer = (opts) => {
     return jsxs("footer", {
       class: `custom-footer ${displayClass ?? ""}`,
       children: [
-        jsxs("p", {
-          children: [
-            "Created with ",
-            jsx("a", {
-              href: "https://quartz.jzhao.xyz/",
-              children: `Quartz${version ? ` v${version}` : ""}`,
-            }),
-          ],
-        }),
         jsx("hr", {}),
         jsx("p", {
           class: "license",
