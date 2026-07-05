@@ -1,0 +1,23 @@
+# Daaku Maharaj
+
+*Perfectly Fine-tuned Balayya Recipe with all the Right Masalas*
+
+**Bobby Kolli's Daaku Maharaj is a perfectly fine-tuned massy blend of every right masala that was proven to work in Balayya's recent filmography.**
+
+Take a look at the films of Nandamuri Balakrishna, you clearly see a template. There will be two Balayyas, a father and son, or two estranged brothers, or just one Balayya but with two stories– following the footsteps of oft-used *Baasha* syndrome. Along with two Balayyas you might also get two heroines– one with relevance in the story, another one as a throwaway role. You will also get smart punchy witty exchanges between Balayya and the bad-men. The dialogues are sometimes written only as a commentary on real world politics. Anyway, in between two Balayyas, you *should* have the bass thumping high decibel noise disguised as background score, sometimes bearable, sometimes unbearable. Daaku Maharaaj does all these right and in right proportions making it the perfect mix of masalas in this special massy Balayya's recipe.
+
+Nandamuri Balakrishna disguises as Driver Nanaji to enter the home of Vaishnavi, an important child that connects the Civil Engineer-turned Daaku (dacoit) with the family of Sachin Khedekar, who owns the estate of tea plantations. Balayya bursts a secret drug racket operating behind the back of Khedekar and reaches the main villains, Trio of Thakurs led by younger brother Balwant Singh Thakur (Bobby Deol), who coincidentally happens to be the same villains in "second" Balayya's story as Seetharam– where he inherits the mythical legend, Daaku Maharaaj, the legend of oppressed and exploited people of Bajrangpur village in Madhya Pradesh.
+
+Balayya at the age of 64, having his phenomenal years at the box office with the series of hits only relying on the mass avatar that he is. In Daaku Maharaaj too he delivers the fantastical screen presence with the persona that was built around the hysteria of "Jai Balayya." This mass persona was amplified by the decibels of Thaman S. The theme music composed by Thaman comes off as the right catalyst to elevate the action scenes choreographed by V Venkat and directed by Bobby Kolli.
+
+The action sequences at the interval block– the most important part of Balayya template, even more important than the climax– beautifully shot by Vijay Kartik Kannan in the neon-lit darkest jungles with the wildfires is definitely going to be one of the best shots of 2025. The production designed by Avinash Kolla is also impressive and narrowly depicts the era of 1996, but doesn't quite get into the detailed nuances of the 1990s.
+
+Daaku Maharaj highly relies on the persona of Balayya. Despite the star-reliance, Bobby Kolli's story co-written by screenwriter K Chakravarthy Reddy offers sizable space for the (back) story of IES (Indian Engineering Services) Seetharam's story to build a dam in drought-prone Bajrangpur village. The uprising of commoners against the exploitative Thakurs is a very interesting plot that could have utilised to say a lot more without restricting to the plot to tell the story of how Seetharam became the legend of Daaku Mahaaraj.
+
+However, the writing conveniently underwrites female roles, especially Urvashi Rautela's role as police officer reduced just to a 'sexy' doll that can dance to the beatings of Balayya. Pragya Jaiswal's role as Seetharam's wife got a fight that splashes blood on her face. It seemed more like a consolation prize for the underwriting of another character in Balayya-Boyapati's Akhanda. Shraddha Srinath had a brief role as Collector of Bajrangpur and as the wife of villonus Balwant Singh Thakur (Bobby Deol). Even though her role has the prime importance in the story that alters the screenplay, the lack of background story of why and how she, an IAS aspirant in AP's Madanapalle, might have fallen in love with cruel Balwant Singh Thakur.
+
+Having said all things, a Balayya movie should be watched with a cautionary notion of it being a Balayya's movie. Balayya's template comes with its own terms and conditions. You have no choice left, except to accept it wholeheartedly if you want to enjoy *the Balayya Experience.* So, hibernate your brain for 150-minutes and activate your senses to feel Thaman's pulsating background score complimented with Balayya's captivating massey screen presence.
+
+[https://www.youtube.com/watch?v=V0ARlFc_ndE](https://www.youtube.com/watch?v=V0ARlFc_ndE)
+
+*Daaku Maharaaj is now playing in theatres.*

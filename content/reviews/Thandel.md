@@ -1,0 +1,17 @@
+# Thandel
+
+*Naga Chaitanya Shoulders Chandoo Mondeti's Depthless Forced Emotions*
+
+**Thandel would have been far better than what it is right now– a depthless forced emotion– if Chandoo Mondeti hadn't dealt with the serious subjects as he dealt in Thandel.**
+
+22 fishermen go to Gujarat for 9 months for fishing. One of them is our hero, Raju, who ~~slowly~~ suddenly becomes the thandel (leader) of the clan. Our hero has a lover at his home, Sathya (Sai Pallavi). Unfortunately, our hero gets stuck in Pakistan's prison and the geo-politics of India and Pakistan. What could be more dramatic than this, especially when added with the romantic drama of lovers who only meet 3 months in a year after 9 months of work in Gujarat's Veraval Port. Yet, despite the large scope for a serious and intense romantic drama, Thandel falls to even engage– if not impress– with its amateurish treatment of dealing with complex topics like religion, patriotism, citizenship etc.
+
+The credit must be given for kickstarting the buzz for Thandel with his melody Hailessa song. It has a good ring for your ears. You can easily recall the musical bit. But, such a good bit also loses its purpose when it is placed in the pretentious love drama. The background score other than this musical bit feels like nothing but the BGM fillers.
+
+Naga Chaitanya and Sai Pallavi gave their best performance. The efforts are evident. However, the tanned skin and the rugged beard doesn't make a character- or a story– rooted. It needs the essence of the world that they are living in. The world of Thandel is set in Srikakulam, rails, boats, and in Pakistan. Yet, the world doesn't expose anything relevant for you to root with the characters. The 22 fishermen went missing from their village. You don't feel anything. Because, the world that Chandoo Mondeti built is not authentic enough to make you learn anything relevant about the fishermen community. The spoken language also feels a bit unnatural. Even the distant phone call conversations between Raju and Sathya were also used as establishing scenes of their restless excitement, but nothing beyond it.
+
+Chandoo Mondeti took a few extreme steps in the attempt to catch the Nationalism train. In the process of catching the running train of national sentiments, he hopped onto the bogie of jingoism. Till now, you might have felt only the world of Srikakulam is bad. But, the world of Pakistan is much worse. You don't get to see anything, literally anything that has to do with Pakistan– and their prisons, bureaucracy, people etc– except the extremists peeing on India/Hindustan, forced circumcision of underaged children. And, the hero too reacts to the villain by the same peeing euphemism saying that if we Indians peed on Pakistan, the nation would wipe out. Why are we still stuck with the lines from 2002's Khadgam?!
+
+If there was a even partial sincerity that we saw with the brutal portrayal of Randeep Hooda as an innocent prisoner in Aishwarya Rai's Sarabjit and the insatiable escapist bureaucracy in Aishwarya Rajesh's Ka Pae Ranasingam, Thandel would have been far more better than what it is right now– a depthless forced emotion.
+
+***TF Rating: 2/5***

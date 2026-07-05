@@ -17,12 +17,6 @@
   background-color: var(--lightgray) !important;
 }
 
-// Tuck the graph view away: shrink its footprint (priority in quartz.config.yaml
-// already pushes it to the bottom of the right sidebar, below TOC/backlinks)
-.graph .graph-outer {
-  max-height: 8rem !important;
-}
-
 // Tags: plain text links that blend into the UI, no pill/highlighter background.
 // Blue link color (var(--secondary)) still applies since that's just the normal link style.
 .tag-link {
@@ -159,8 +153,8 @@ h3 {
     overflow-y: auto;
   }
 
-  // Right sidebar (Backlinks/Graph) already switches to a row on mobile via
-  // base.scss; give it breathing room so the two boxes don't touch edge-to-edge.
+  // Right sidebar (Backlinks — TOC hides on mobile/tablet via base.scss)
+  // already switches to a row on mobile; give it breathing room.
   .sidebar.right {
     gap: 0.75rem !important;
     padding: 1rem !important;
