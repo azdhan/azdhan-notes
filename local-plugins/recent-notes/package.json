@@ -1,0 +1,32 @@
+{
+  "name": "recent-notes",
+  "version": "1.0.0",
+  "type": "module",
+  "private": true,
+  "main": "./dist/index.js",
+  "exports": {
+    ".": "./dist/index.js",
+    "./components": "./dist/components/index.js"
+  },
+  "quartz": {
+    "name": "recent-notes",
+    "displayName": "Recent Notes",
+    "category": "component",
+    "version": "1.0.0",
+    "defaultOptions": {
+      "title": "Recent Notes",
+      "limit": 8,
+      "hideTagPages": true,
+      "hideFolderPages": true,
+      "showTags": false,
+      "linkToMore": false
+    },
+    "components": {
+      "RecentNotes": {
+        "displayName": "Recent Notes",
+        "defaultPosition": "left",
+        "defaultPriority": 60
+      }
+    }
+  }
+}

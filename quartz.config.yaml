@@ -229,7 +229,7 @@ plugins:
       links: {}
       licenseText: All notes in this garden are shared under a Creative Commons Attribution 4.0 International license (CC BY 4.0) — reuse or adapt freely, with attribution.
       licenseUrl: https://creativecommons.org/licenses/by/4.0/
-  - source: github:quartz-community/recent-notes
+  - source: ./local-plugins/recent-notes
     enabled: true
     options:
       title: Recent Notes

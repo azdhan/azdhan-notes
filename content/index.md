@@ -2,11 +2,11 @@
 
  hi, i'm azdhan. i write about tech policy at [medianama](https://www.medianama.com/author/azdhan-basha/). this website exists as my second public brain and auto-synced 4 times a day with my obsidian vault, where i store my notes. you are free to explore my notes (sometimes organised and structured; sometimes random dump.). these notes are under creative commons 4.0 licence. read the terms and what it means [here](https://creativecommons.org/licenses/by/4.0/deed.en). 
 
-you can also explore my digital resume [here](https://azdhan.vercel.app/about).
+visit my digital resume [here, deployed on vercel](https://azdhan.vercel.app/about)
 
 explore the website using the tags or search feature. will build a note randomiser soon along with a clear get started section soon, till then feel free to find your own rabbit hole. 
 
-my social links where i am least active:  [linkeidn](https://in.linkedin.com/in/azdhan-basha-33b6a4300)  |  [twitter](https://x.com/AzdhanB) (yep, will continue to call it twitter, not x)  
+my social links where i am least active:  [linkedin](https://in.linkedin.com/in/azdhan-basha-33b6a4300)  |  [twitter](https://x.com/AzdhanB) (meh, not x)
 
 see what i'm watching and reading here:   [letterboxd](https://letterboxd.com/AzdhanBasha/)  |  [serializd](https://www.serializd.com/user/Azdhanbasha/profile)  |  [story graph](https://app.thestorygraph.com/profile/azdhan2k)  
 
