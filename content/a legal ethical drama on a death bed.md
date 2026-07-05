@@ -1,7 +1,4 @@
 #writing/stories 
-
-#azdhan 
-# a legal ethical drama on a death bed
 a rural uneducated old villageman knows all the legal and ethical stuff he knows about the policy and rights, all through the cinema and youtube. he becomes more philosophical as he grows older and he finds the socrates-like debating companion in the neighbouring village, a small but young curious kid who is generally kicked out of any sociable event for his unfiltered but polite rebellious nature. 
 
 as the kids of the villageman avoid and leave him, very naturally and understanably, the youthful guy becomes the everything for the lonely old man. he finds comfort in the internet and a companion in the young boy. 

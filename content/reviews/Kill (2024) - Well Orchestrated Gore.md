@@ -1,0 +1,13 @@
+# Kill (2024): Well Orchestrated Gore
+
+**Kill made by Nikhil Nagesh Bhat, is a full on action ride, just a ride, but a good one- if you prefer guns over greens.**
+
+Army hero coming to save the world beyond the borderline is not a new story line. In fact, the storyline isn't even a USP of this movie. The USP of the movie is the unabashed unleash of bloody violence.
+
+Amit Rathod (Lakshya) is an army man who is the solo saviour of the train that is being robbed by bandit-goons who had no value for human life. And, the hero takes the issue to heart when his lover and friend are killed (not a spoiler) and solves the issue by violently murdering the passengers.
+
+There is nothing really in the movie except the gorey violence. And, the filmmakers aren't even guilty about it. They wanted to make one and they made it with good perfection.
+
+When I was watching the movie, the one thing that I felt lacking was Anirudh-Ravichander-esque style of music that just elevates the experience beyond the appreciation for well choreographed action set pieces and the bloody gore. However, I can't criticise the movie based on what is not in the movie, but, the music by Shashwat Sachdev is just at the surface level of maintaining the mood, but not elevating it. We don't get the rush we got for Uri though music alone. The camera-work by Rafey Mehmood is just simply astonishing. Despite making it in a set, made very meticulously by Tushar Kapoor, Sabyasachi Misra, is just astonishing. The movement of the camera was very impressive. It must have been a very difficult task to perform.
+
+Overall, Kill is not for the faint hearts who can see the violence. And, this film luckily got zero cuts from CBFC. If you love gore, this is a must watch movie for the flavour of Indian-ness to the Hollywood style action sequences.
