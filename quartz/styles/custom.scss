@@ -11,7 +11,14 @@
   margin-top: 2rem !important;
 }
 
-// Slightly darker sepia for the sidebars vs. the lighter sepia page background
+// Subtle, theme-aware tint for the sidebars (uses the same --lightgray token
+// the rest of the site already uses, so it tracks light/dark mode automatically)
 .sidebar {
-  background-color: #ecdfc0 !important;
+  background-color: var(--lightgray) !important;
+}
+
+// Tuck the graph view away: shrink its footprint (priority in quartz.config.yaml
+// already pushes it to the bottom of the right sidebar, below TOC/backlinks)
+.graph .graph-outer {
+  max-height: 8rem !important;
 }
