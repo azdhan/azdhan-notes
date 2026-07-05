@@ -134,10 +134,10 @@
       "installedAt": "2026-07-05T06:54:52.032Z"
     },
     "footer": {
-      "source": "github:quartz-community/footer",
-      "resolved": "https://github.com/quartz-community/footer.git",
-      "commit": "6ed61928d3c0178d7cef972ebcbca6a206a2f065",
-      "installedAt": "2026-07-05T06:54:56.388Z"
+      "source": "./local-plugins/footer",
+      "resolved": "A:\\Azdhanvibing\\azdhan-notes\\local-plugins\\footer",
+      "commit": "local",
+      "installedAt": "2026-07-05T17:13:57.190Z"
     },
     "github-flavored-markdown": {
       "source": "github:quartz-community/github-flavored-markdown",
@@ -217,10 +217,10 @@
       "installedAt": "2026-07-05T06:54:56.249Z"
     },
     "recent-notes": {
-      "source": "github:quartz-community/recent-notes",
-      "resolved": "https://github.com/quartz-community/recent-notes.git",
-      "commit": "3c3d104335e2fc5ff62371ead157667adb79b046",
-      "installedAt": "2026-07-05T06:54:56.466Z"
+      "source": "./local-plugins/recent-notes",
+      "resolved": "A:\\Azdhanvibing\\azdhan-notes\\local-plugins\\recent-notes",
+      "commit": "local",
+      "installedAt": "2026-07-05T17:13:57.193Z"
     },
     "remove-draft": {
       "source": "github:quartz-community/remove-draft",
