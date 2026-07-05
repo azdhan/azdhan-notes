@@ -25,6 +25,18 @@
   border-radius: 0 !important;
 }
 
+// Our Explorer (repurposed as "Tags") always contains a real "Tag Index" entry
+// at its root, since every tag folder has its own tags/index page. That made
+// our own outer "Tags" header + toggle look like a second, redundant dropdown
+// sitting right above it. Hide our header; "Tag Index" is the single entry point.
+.sidebar.right .explorer button.desktop-explorer {
+  display: none !important;
+}
+
+.sidebar.right .explorer-content {
+  margin-top: 0 !important;
+}
+
 // Remove the "highlighter" background Quartz gives ALL internal wikilinks by
 // default (base.scss: a.internal { background-color: var(--highlight) }).
 // Plain blue link color only, no colored box behind the text.
