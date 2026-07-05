@@ -1,0 +1,10 @@
+So, the american CIA team [wanted](https://www.nytimes.com/interactive/2025/12/13/world/asia/cia-nuclear-device-himalayas-nanda-devi.html) to spy on the chinese's atomoic bomb tests by trying to catch the siganls through a mini plutonium-based generator at the 25,645 feet high, Nanda Devi mountain in himalaya. this was kept as a top secret since very long time. the CIA came again in 1070 to establish one ore such spy toool but by that time the satellite-based surveillance got so powerful to catch the signals and no need to set a domestic setup that requires the co operation from the local govt also--where the indain govt coporated quite well and sent captian kohli to support the mission, he later wrote the [book](https://www.abebooks.com/9780700612239/Spies-Himalayas-Secret-Missions-Perilous-0700612238/plp) as well. apparently, everyone who read the book [knew](https://x.com/ShekharGupta/status/2000138809963655585?s=20) it before the NYT seems to have broken the story and shekar gupta seems to have already did a cut the clutter [episode](https://www.youtube.com/watch?v=0XDWxl5OdmY) he already did. 
+
+who was th law maker who talked about this on socail media? it was nishikant dubey and he even blames the us for the natural disasters thats been happening (not sure). the UK tourism minister wants to restore it, but then the Modi govt had no idea such thing happened back then and the dept of atomic energy seems to be not replying now. classic.
+
+interestingly, back then the indian govt did a committe and published a report as per the captain kohli's records. but, did the present govt did any such thing when the pegasus type of thing is happening?
+
+this [image](https://x.com/hsu_steve/status/1999501247636770855?s=20) has some covert behaviours of the US govt in dealing with the journalists who write on foreign policy.
+
+## unrelated to above story but to CIA
+1. CIA's [manual](https://www.docdroid.net/s1Kjrrf/cia-manual-trickery-deception-2009-pdf) of trickery and deception 

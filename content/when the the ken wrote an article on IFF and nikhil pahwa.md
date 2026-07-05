@@ -1,0 +1,5 @@
+- original [article](https://the-ken.com/story/indias-save-the-internet-breaks-up/) 
+- this google [results](https://www.google.com/search?q=%22India%E2%80%99s+Save+The+Internet+breaks+up%22&sourceid=chrome&ie=UTF-8) are good resource for more digging- 
+- kiran jonnalagadda's [response](https://x.com/jackerhack/status/1054972723686973441?s=20) and it also has srikanth's tweet too. 
+- 
+- 

@@ -238,7 +238,7 @@ plugins:
       limit: 8
       hideTagPages: true
       hideFolderPages: true
-      showTags: true
+      showTags: false
       linkToMore: false
     layout:
       position: left

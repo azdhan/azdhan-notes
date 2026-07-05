@@ -1,0 +1,37 @@
+#philosphy/rationality/atheism #politics/india/bjp
+# The population fear
+The fear of threat usually comes with the scale and power of the organisation/religion. If we go by the pure numbers, mumslims constitute 14.23% of total indian population as per[ the 2011's census](https://www.census2011.co.in/religion.php) (old stats, but official stats.)
+
+It is true that the number doesn't (and shouldn't matter) if the minority of the population has the means to destroy the majority. Remember, though there is no official count of naxalites in india, their population might be still less than the population of musilms (17.22 Crores) and yet naxalism is/was considered as the biggest national threat. in 2009, then congress PM manmohan singh called naxalism as the[ "india's greatest internal threat." ](https://www.thehindu.com/news/national/Manmohan-naxalism-the-greatest-internal-threat/article16886121.ece) (the full speech can be watched [here](https://youtu.be/bKsixRmnYP8?si=OVCTXbr_TYI9Fkqy)). So, the numbers really shouldn't matter when we are measuring the real national threats. So, then, are muslims the national threat? 
+
+To understand this, lets explore some aspects: 
+## The population bomb
+BJP and their leaders often use population bomb to instill fear that muslim population is/can out-number the hindu population. But, is it true that muslims are having more and more children? the fertility rates across all the religions have been dropping, as per the[ National Family Health Survey (NFHS-5), in 2019-21](https://www.ideasforindia.in/topics/social-identity/hindu-muslim-fertility-differentials-in-india-an-update). Hindu's total fertility rate in 1992 was 3.3 and for muslims it was 4.4. these figures in 2021 stands as 2.4 for muslims and 1.9 for hindus. 
+
+This 0.5 difference between  hindus and muslims might narrow even more considering the more aware sexual education (like usage of condoms and contraceptive pills) and the increased unaffordability of raising a child, especially in urban economy might further this difference. even if it does, what would be the impact of this 0.5 difference would do to the population which is merely over 14.23%?
+## are muslims even influential?
+Lets see some numbers: 
+1.  [24 Muslim (4.4%)](https://www.thehindu.com/data/data-eighteenth-lok-sabha-has-lowest-share-of-muslim-mps-in-six-decades/article68285104.ece) out of 543 total MPs  in the Lok Sabha (2025). This number has been [consistently](https://www.theindiaforum.in/politics/decline-muslim-legislative-representation-and-its-consequences) around 4-6% from 1952-2024, peaking at 9.04% in 1980 and seeing the lowest ever in 2024 since indepedence. In rajya sabha, the number [appears](https://www.theindiaforum.in/politics/decline-muslim-legislative-representation-and-its-consequences) to be at 7%. 
+2. there are only two mislims in india's top 100 richest people, as per the forbes data and they are azim premji, [M.A. Yusuff Ali](https://www.forbes.com/profile/ma-yusuff-ali/?list=india-billionaires) (lulu mall, but he is dubai-based). So, if they dont't even have the political power and if they dont have the capital/money power, how can they overpower the majority hindus? 
+3. so, we come to the islamic terrorrism and radicalisation argument-- which is quite legit concern. here the people are idiots are lunatics. they just need the mask of religion as a justification to boose their egos and establish their power. to understand the lunacy of these idiots, we can look the various types of violent terrorists across all the religions. Spoiler alert: even buddists has/had terrorists.
+# violent terrorism across the religions 
+to begin with, making Buddha the god is itself is an idiot choice that humans did. that dude literally said that there is no god and search for the godly things within yourself and yet we made him god. speak of irony. anyway, Myanmar, Singapore, Sri Lanka, and Thailand were some victims of the buddhist violence and terrorism. 
+
+according to the scholars who [wrote](https://direct.mit.edu/isec/article-abstract/49/4/119/130813/Monks-Behaving-Badly-Explaining-Buddhist-Violence?redirectedFrom=fulltext) on internatioal security journal, the buddhist-led violence can depend when the state and the religion are intertwined-- a red flag that we can evidence on india right now (2014-2025)
+
+in Thailand, where the Sangha has the power to do some atrocities as it is closer to the state. BTW, [these](https://www.facebook.com/100083299660885/posts/during-a-protest-in-thailand-buddhist-monks-were-seen-clashing-with-police-a-str/794310860022229/) are powerful pics of buddhists resisting the police brutality in a protest against corruption and economic issues. the orgins of violence in budhism goes back to the world war one where their supeme patriarch then talked about the need of violence in order to protect the people.
+
+However, even in thailand, the main villains are the malaysia's militant saparatist groups, which doesn't have the jihadist tendedncies. their issues are very local.
+# religion and the discipline 
+
+   
+# But, why fear and hate christians?
+the hate-hate relationship between these two communities go back to the centuries. the sins of our forefathers and grandfathers and our contemporary citizens still lingers around both the communities, only furthering the already polarised communities. even today, pakistan remains one of the biggest threat to india's national security. so, it is somewhat understandable. but, why are we hating the christians-- who are just[ 2.3% of indian population?](https://www.census2011.co.in/data/religion/3-christianity.html)
+
+as i write this short essay, some christians are being [harassed](https://x.com/i/status/2003820609554502119) in india on the eve of christmas. according to UK-based telegraph daily, india recorded atleast 60 incidents of christian celebrations are shut down, or tried to shut down. its pure public nuisance and harrasment and also a violation of right to practise any religion under [article 25 of indian constitution. ](https://indiankanoon.org/doc/631708/)
+
+So, again, back to the question, why are we doing this? because, as they say, you can't clap with one hand and therefore need two hands, in politics, you always need an opponent/villain. In a country that does the politics in the name of religion, the "other" religions becomes the essential villain. therefore, we (all religion-driven politics) find the villains in so-called "other religions."
+
+this is not only pertitent to christmas, even the ram navami also also[ become the hate-filled chest-thumping ](https://caravanmagazine.in/politics/hindutva-pop-hate)display of religious supremacy. At the worst, with the [really really derogatory hate-filled music](https://www.thehindu.com/opinion/op-ed/hindutva-pop-selling-hate-through-music/article66967878.ece) that one would be [hesitant to play those lyrics out loud in front of family.](https://www.dw.com/en/india-soundtrack-of-hate/video-64544108) Kunal purohit wrote an entire [book](https://www.amazon.in/H-Pop-Secretive-World-Hindutva-Stars-ebook/dp/B0CKP9VB8T) on the H-pop music, hindutva pop music. but, we are dancing to the same vulgarity and calling it the pride of religion? is this what the religion has degraded to? what happened to all the modesty that is preached in the religious book? are we reading the wrong books? oooh wait, are we even reading? are we even thinking?
+# intelligent religion matters not the fear-filled dogma
+

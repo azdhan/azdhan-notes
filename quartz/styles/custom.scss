@@ -22,3 +22,162 @@
 .graph .graph-outer {
   max-height: 8rem !important;
 }
+
+// Tags: plain text links that blend into the UI, no pill/highlighter background.
+// Blue link color (var(--secondary)) still applies since that's just the normal link style.
+.tag-link {
+  background-color: transparent !important;
+  padding: 0 !important;
+  border-radius: 0 !important;
+}
+
+// Recent Notes: compact, no dates, tight spacing between entries
+// (tags removed via showTags: false in quartz.config.yaml, not CSS)
+.recent-notes > ul.recent-ul > li {
+  margin: 0.35rem 0 !important;
+
+  .section > .meta {
+    display: none !important;
+  }
+
+  .section > .desc > h3 {
+    margin: 0 !important;
+  }
+}
+
+// Search: give the collapsed search box a solid background matching the main
+// content area, so it reads clearly instead of a transparent/blurred box
+// sitting on the tinted sidebar.
+.search > .search-button {
+  background-color: var(--light) !important;
+  border: 1px solid var(--lightgray) !important;
+}
+
+// ============================================================================
+// Typography scale
+// ============================================================================
+
+// Body text: 1.125-1.25rem, 400 weight, 1.6-1.7 line-height
+body {
+  font-size: 1.125rem !important;
+}
+
+article {
+  line-height: 1.65 !important;
+}
+
+// H1 (page title): 2-2.5rem, 600-700 weight — one per page, sets the note's identity
+h1,
+.article-title {
+  font-size: 2.25rem !important;
+  font-weight: 700 !important;
+}
+
+// H2 (major sections): 1.5-1.75rem, 600
+h2 {
+  font-size: 1.625rem !important;
+  font-weight: 600 !important;
+}
+
+// H3 (subsections): 1.25rem, 600
+h3 {
+  font-size: 1.25rem !important;
+  font-weight: 600 !important;
+}
+
+// Tags/labels: 0.75-0.8125rem, 500, uppercase with slight letter-spacing so they
+// don't feel cramped at this small size
+.tag-link {
+  font-size: 0.8125rem !important;
+  font-weight: 500 !important;
+  text-transform: uppercase;
+  letter-spacing: 0.03em;
+}
+
+// Sidebar (nav, backlinks, TOC): 0.875rem, meant to be scanned quickly, not
+// read continuously — smaller than body text is correct here
+.sidebar {
+  font-size: 0.875rem !important;
+
+  h2,
+  h3 {
+    font-size: 0.875rem !important;
+    font-weight: 500 !important;
+  }
+}
+
+// Metadata (dates, "currently reading"-style text): 0.875rem, 400, muted color
+.content-meta {
+  font-size: 0.875rem !important;
+  font-weight: 400 !important;
+  color: var(--gray) !important;
+}
+
+// Popover hover-preview cards: popover.scss resets font-size to browser default
+// ("initial") for body text — fix that to match the site's body scale.
+.popover > .popover-inner {
+  font-size: 1.125rem !important;
+  line-height: 1.65 !important;
+}
+
+// The popover's own h1 rule (1.5rem) was intentionally smaller than a full page's
+// H1, sized for a compact 30rem-wide card. Our global "h1{font-size:2.25rem}" rule
+// above unintentionally bled into popovers too (same layer/importance, and it's
+// declared later), making titles inside the small card look oversized. Pin popover
+// h1 back to its own fixed, proportionate size — still a deliberate, consistent
+// value, just scaled for the card rather than the full page.
+.popover > .popover-inner h1 {
+  font-size: 1.5rem !important;
+  font-weight: 700 !important;
+}
+
+// ============================================================================
+// Mobile layout fixes (max-width: 800px, matches $mobile in variables.scss)
+// ============================================================================
+
+@media all and (max-width: 800px) {
+  // Base Quartz forces the ENTIRE left sidebar into flex-direction:row on
+  // mobile — fine for a small icon toolbar, but ours also holds full-content
+  // blocks (Tags tree, Recent Notes list), which were being squeezed into
+  // that same horizontal row and wrapping into a broken jumble above the
+  // actual toolbar. Stack top-level sections vertically instead; the toolbar
+  // (search/darkmode/reader-mode) keeps its own internal row layout since
+  // that's a separate nested flex group, untouched by this.
+  .sidebar.left {
+    flex-direction: column !important;
+    align-items: stretch !important;
+    padding: 1rem !important;
+    gap: 0.75rem !important;
+  }
+
+  // Tags and Recent Notes can get long — cap their height and let them
+  // scroll independently instead of pushing the actual article far down
+  // the page on mobile.
+  .sidebar.left .explorer-content,
+  .sidebar.left .recent-notes > ul.recent-ul {
+    max-height: 12rem;
+    overflow-y: auto;
+  }
+
+  // Right sidebar (Backlinks/Graph) already switches to a row on mobile via
+  // base.scss; give it breathing room so the two boxes don't touch edge-to-edge.
+  .sidebar.right {
+    gap: 0.75rem !important;
+    padding: 1rem !important;
+  }
+
+  // Body copy can afford to be a touch smaller on narrow screens so headings
+  // and paragraphs don't feel oversized relative to viewport width.
+  body {
+    font-size: 1rem !important;
+  }
+
+  h1,
+  .article-title {
+    font-size: 1.75rem !important;
+  }
+
+  h2 {
+    font-size: 1.375rem !important;
+  }
+}

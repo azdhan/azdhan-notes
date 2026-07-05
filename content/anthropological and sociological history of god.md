@@ -1,0 +1,17 @@
+#philosphy/rationality/atheism  #psychology
+
+Robert Sapolsky’s [lecture](https://youtu.be/4WwAQqWUkpI?si=Ybj_JK-7IgsUk6yz) focuses on the biological underpinnings of religiosity from an evolutionary perspective. One of his central points is that there are no inherently “bad” genes, only genes expressed in bad or unfavorable environments. The environment determines whether a genetic trait becomes adaptive or maladaptive. He illustrates this with the example of the sickle cell gene, which is dangerous in one context but protective against malaria in another.
+
+He extends this idea to maladaptiveness by discussing schizophrenia. Schizophrenia is a psychiatric condition involving extreme imagination and altered perceptions of reality. Sapolsky draws associations between schizophrenia-related traits and religiosity. He is not focusing on full-blown schizophrenia, but on schizotypal traits. Schizotypal individuals often show social withdrawal, solitary behavior, and patterns that can be observed in people with high religious engagement.
+
+He discusses magical thinking and scientific fantasies as core components of schizotypy, noting that these traits are also common in religious belief systems. People with schizotypal traits tend to interpret abstract concepts in a highly concrete and rigid way. Their thinking operates at an abstract level, but the interpretations are extremely focused and reinforced. Examples include literal beliefs such as the world being created in seven days or strict ritual requirements like chanting a specific mantra a precise number of times at a particular moment.
+
+Sapolsky also mentions metaphysical thinking and refers to some forms of it as “half-crazy,” using examples such as individuals claiming they can communicate with the dead. He contrasts classic schizophrenia with adaptive traits, noting that individuals with schizophrenia tend to have fewer offspring, making such traits less evolutionarily adaptive over time. In this context, he cites a quote suggesting that primitive religions resemble organized forms of schizophrenia.
+
+He then discusses the ritualistic aspects of religion, arguing that they are largely driven by anxiety. These rituals often resemble obsessive-compulsive patterns, marked by extreme precision and mathematical specificity. Examples include detailed instructions about how rituals must be performed. He argues that this aligns with the idea that religion intensifies during periods of uncertainty or fear, such as famine, when traditions like Hindu yagnas and other rituals are performed.
+
+According to this view, ritualistic practices do not resolve anxiety but instead amplify it. The anxiety becomes shared across the community, transforming individual fear into collective anxiety. This collective amplification can have serious social consequences, particularly in societies like India, but also in other contexts.
+
+
+4. there are monotheists in the desert regions but you can find multiple polytheists in non-desert and forest-like regions: [neuroscientist](https://x.com/ByRakeshSimha/status/2003898789460050291) Robert Sapolsky. he has tonnes of videos on youtube on the history of god from human behaviour perspective. this [description](https://www.youtube.com/watch?v=4WwAQqWUkpI) also has tonnes of references that we can explore later. 
+5. WHY RITUALS: because, the repeated behaviours [gives](https://bigthink.com/smart-skills/why-your-brain-needs-everyday-rituals/) us calm, clarity and less chaos in head, more like a meditative mood. 

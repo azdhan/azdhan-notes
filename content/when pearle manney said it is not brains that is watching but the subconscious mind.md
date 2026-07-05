@@ -1,0 +1,7 @@
+#psychology/media
+
+This [interview](https://youtu.be/bfEdcA54lc8?si=Sm2G3mgycFCzUmxb) taught me a lot about  the importance of studying the media psychology. Pearle manney is a really genius without even knowing. she says that viewers are not watching, but their subconscious minds are watching so they need cuing through facial expressions. for example, the viewer might not know to laugh or feel shocked/surprised, but, when you (host)  laughs, they also laugh/enjoy. 
+
+i think its like a TV sitcom with laughs behind. i think the purpose of that was also that to cue the passive viewers who might be watching the sitcom while they are eating dinner or just trying to relax. the modern smartphone is like a walking TV with a too much powerful remote fuelled with algorithmic programming. 
+
+this interview also noted that vishal menon uses AI to write reviews and he said that infront of Anupama Chopra, his editor. it also revealed that Baddy edits the portions where he checks his notes for questions, he doesnt remember all the questions. Anupama also candidly said that bollywood people now cant do roundtables because they dont want to see each other anymore-- recalling the 2019's first film companion's roundtable interview. 
