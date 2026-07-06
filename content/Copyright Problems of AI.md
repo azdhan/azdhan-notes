@@ -7,6 +7,7 @@ Under the copyright debate, these are the few aspects that can be used to bring 
 
 # why they say AI models should get all the data?
 1. lawyers [argue](https://www.medianama.com/2025/06/223-us-court-anthropic-ai-training-purchased-books/) that the LLM are akin to human brain and since you dont bill each time a person reads a book multiple times and recalls the information from the memory , LLMs shouldn't be biled based on the number of times they have recalled the information. 
+2. apparently, with AI suddenly the ai companies are in [favour](https://x.com/pranesh/status/2073811737502273540?s=20) of open source, why? what changed? how does AI environment and the copyright problems gets benefitted or solved because of the opensource models?
 
 # why AI models shouldn't get all the data
 1. the original creators should matter, their efforts and the hard work too. otherwise, what is the incentive?
@@ -36,7 +37,7 @@ Under the copyright debate, these are the few aspects that can be used to bring 
 
 
 # ongoing in india 
-- openai vs ANI: what happened?
+- openai vs ANI: what happened? the court appears to have reserved the judgement in april 2026 but hasnt pronounced yet. it appears to be in favour of ANI, as per an [op ed in DH](https://www.deccanherald.com/opinion/reframing-copyright-for-the-ai-age-4061487)
 
 # ongoing elsewhere 
 1. [getty images versus stability AI in UK.](https://www.medianama.com/2025/06/223-getty-images-vs-stability-ai-lawsuit/)  Getty images of withdraw its allegations of copyright infringement against stability AI due to the lack of evidence And after stability AI removing the textual prompt that would generate the trademark of getting images on AI generated images

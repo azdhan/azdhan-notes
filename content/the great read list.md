@@ -3,8 +3,6 @@
 
 ## some rabbit holes 
 - [[when the the ken wrote an article on IFF and nikhil pahwa]]
-
-
 - [Think better. Decide better. Live better.](https://fs.blog/) 
 -  [site:medianama.com net neutrality - Google Search](https://www.google.com/search?q=site%3Amedianama.com%20net%20neutrality&sourceid=chrome&ie=UTF-8) 
 - [The Cluetrain Manifesto](https://www.cluetrain.com/) 
@@ -18,5 +16,8 @@
 6. youtube course on [poker](https://www.youtube.com/watch?v=7cAzgUIKI68) 
 7. the [history](https://www.medianama.com/2018/04/223-constitutional-validity-of-aadhaar-day-28-perceived-privacy/) of Aadhar proceedings in SC
 
+
 ## scripts 
 1. the [girlfriend](https://drive.google.com/file/d/1Y36OOKLmKkAfXc-xMPq_wAop333kR2BW/view) by rahul ravindran
+
+

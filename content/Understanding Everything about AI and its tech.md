@@ -17,6 +17,10 @@
 5. [[CINEMA and books on AI and tech]]
 6. [[predictions on AI]]
 
+## interviews to look out 
+1. [(3) Why AI Agents Are a Privacy Nightmare - Signal President Meredith Whittaker - YouTube](https://www.youtube.com/watch?v=aMNWOqXpxcc) 
+2. 
+
 
 ## digital books
 1. [Welcome to Learn Harness Engineering | Learn Harness Engineering](https://walkinglabs.github.io/learn-harness-engineering/en/)
