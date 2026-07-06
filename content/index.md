@@ -12,6 +12,7 @@ follow what i'm watching and reading here:   [letterboxd](https://letterboxd.c
 
 --- 
 ### somethings for you to explore
+- 
 - [[tools and apps that i have vibe coded]]
 - [[tech tools that makes my life easier]]
 - [[tools that i want to build which can also be startups (feel free to steal)]]

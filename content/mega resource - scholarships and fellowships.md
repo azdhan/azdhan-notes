@@ -17,3 +17,6 @@ complete machine readable resumes can built with LaTeX on [overleaf](https://www
 3. https://heyremote.io 
 4. https://problogger.com 
 5. [YOUR REMOTE WORK KIT - Google Drive](https://drive.google.com/drive/folders/1nTcoWMQ7KiiS-HfkTI8oHEBb1NB_fdQE) 
+
+
+[[career in OTT sector]]
