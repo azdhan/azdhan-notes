@@ -9,7 +9,6 @@
 
 ## ai related fellowships 
 
-
   Education:  
 - [https://fast.ai](https://fast.ai/)  
 - [https://learnmechinterp.com/topics/](https://learnmechinterp.com/topics/)  

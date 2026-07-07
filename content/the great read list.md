@@ -16,7 +16,8 @@
 6. youtube course on [poker](https://www.youtube.com/watch?v=7cAzgUIKI68) 
 7. the [history](https://www.medianama.com/2018/04/223-constitutional-validity-of-aadhaar-day-28-perceived-privacy/) of Aadhar proceedings in SC
 
-
+## people inside rabbit holes
+1. [S Anand](https://www.s-anand.net/) 
 ## scripts 
 1. the [girlfriend](https://drive.google.com/file/d/1Y36OOKLmKkAfXc-xMPq_wAop333kR2BW/view) by rahul ravindran
 
