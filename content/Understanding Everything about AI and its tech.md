@@ -36,6 +36,7 @@
 6. A [compilation](https://x.com/adxtyahq/status/2062090077296283932?s=20) of where we can learn: RAG, agentic rag, ai agents, lang graph. 
 7. [The AI Resist List](https://airesistlist.org/)
 8. [Intro | Putting the "You" in CPU](https://cpu.land/) 
+9. [The Joy of Cryptography](https://joyofcryptography.com/) 
 
 ## books 
 - [A Philosophy of Software Design](https://www.amazon.in/A-Philosophy-of-Software-Design/dp/1732102201) - referred by andrej karparthy in one youtube speech.
