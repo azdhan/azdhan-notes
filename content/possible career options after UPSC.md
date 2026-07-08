@@ -1,3 +1,5 @@
+
+*written by claude's Fable 5*
 # From PSIR to Policy: A Complete Career-Contingency Report for a Two-Time-Prelims UPSC Aspirant (July 2026)
 
 ## TL;DR
