@@ -118,6 +118,15 @@ export const RecentNotes = (userOpts) => {
   list-style: revert;
 }
 
+.recent-notes-details > .recent-notes {
+  overflow: hidden;
+}
+
+.recent-ul {
+  max-height: 16rem;
+  overflow-y: auto;
+}
+
 @media all and (min-width: 801px) {
   .recent-notes-details > .recent-notes {
     display: block !important;
