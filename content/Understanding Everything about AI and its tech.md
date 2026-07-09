@@ -9,7 +9,8 @@
 ### Problems with AI :
 1. [[Copyright Problems of AI]]
 	1. [[privacy and ai data training problems of AI training]]
-	2. 
+	2. [[ai and national security]]
+	3. 
 2. [[ai and the media]]
 3. [[ai and the deepfake problem]]
 	1. [[personality rights problems with AI]]

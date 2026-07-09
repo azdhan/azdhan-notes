@@ -14,3 +14,5 @@
 - amazon prime video apologised for the tandav remarks. 
 - jio hotstar removed the john oliver's episode on modi 
 - BBC also didnt release the documentary on modi's involvement in gujrat 2002 riots. 
+
+[[unreleased and yet to be released movies in india]]

@@ -1,4 +1,10 @@
 
+# july 2026
+- there is something [fishy](https://x.com/AzdhanB/status/2075167371283841353?s=20) going on someone is claiming the copyrights to original content creators and taking away the content
+- https://x.com/its_trinay/status/2074944043910582732?s=20 
+- https://x.com/shristhikhanna/status/2075030217505059053?s=20
+
+
 # may 2026 
 - [X Withholds Cockroach Janta Party Account in India](https://www.medianama.com/2026/05/223-x-withholds-cockroach-janta-party-account-india-days-after-launch/) 
 	- they blocked the website too it seems. [Insta](https://x.com/abhijeet_dipke/status/2057855685128270191?s=20) [hacked](https://x.com/abhijeet_dipke/status/2058020658169143685?s=20)
