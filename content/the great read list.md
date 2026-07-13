@@ -2,6 +2,7 @@
 
 
 ## some rabbit holes 
+- [Billion Dollar PDFs](https://billiondollarpdf.com/)
 - [[when the the ken wrote an article on IFF and nikhil pahwa]]
 - [Think better. Decide better. Live better.](https://fs.blog/) 
 -  [site:medianama.com net neutrality - Google Search](https://www.google.com/search?q=site%3Amedianama.com%20net%20neutrality&sourceid=chrome&ie=UTF-8) 

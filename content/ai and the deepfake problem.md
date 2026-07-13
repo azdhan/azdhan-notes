@@ -1,6 +1,8 @@
 #technology/AI #techpolicy/ai/deepfakes
 
-
+## how do you detect AI images 
+1. [Verify OpenAI-generated images | OpenAI](https://openai.com/research/verify/) 
+2. 
 
 [10 cases that show India’s deepfake rules are not being enforced](https://www.medianama.com/2026/06/223-10-instances-india-deepfake-rules-enforcement-failures/)
 
