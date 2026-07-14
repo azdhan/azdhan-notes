@@ -1,0 +1,1 @@
+**To combine two columns:** Type =A2 & " " & B2 (replacing with your specific cell references)  

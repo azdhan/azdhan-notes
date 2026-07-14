@@ -1,6 +1,12 @@
 #philosphy/quotes
 
 
+## business and leadership 
+ "When a management with a reputation for brilliance tackles a business with a reputation for bad economics, it is the reputation of the business that remains intact." --warren buffet (from book intelligent investor and also quoted in [[reading aadhaar effect; notes and references]])
+
+What this might [mean](https://www.reddit.com/r/StockMarket/comments/8thomy/comment/e17j8g7/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button) is that some business (like govt) have complex and broken systems, even a good leadership cant fix it. 
+
+
 CRITICISM & ART
 1. the critic’s symbol should be the tumble-bug: he deposits his egg in somebody else’s dung, otherwise he could not hatch it. - [mark twain](https://www.themarginalian.org/2013/03/04/criticism/)
 
