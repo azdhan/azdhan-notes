@@ -1,4 +1,4 @@
  #philosphy/life/work/medianama
 
-1. [[june 2026]]
+1. [[july 2026]]
 2. 
