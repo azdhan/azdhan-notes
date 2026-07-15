@@ -56,6 +56,10 @@ Thanks to  EleutherAI's SOAR team for sending this list after my rejection for [
 5. [YOUR REMOTE WORK KIT - Google Drive](https://drive.google.com/drive/folders/1nTcoWMQ7KiiS-HfkTI8oHEBb1NB_fdQE) 
 
 
+## misc.  
+- winners of [AI for Decision Making in Public Goods Grants Program 2026 · AI4PG · AI4PG](https://www.ai4pg.com/grants/ai4pg-2026) 
+
+
 [[career in OTT sector]]
 
 
