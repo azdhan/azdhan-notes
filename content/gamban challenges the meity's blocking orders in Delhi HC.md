@@ -47,4 +47,6 @@ The petition also asked for the compensation of the costs because of the arbitra
  - [Section 69A: More Ministries May Get Takedown Powers](https://www.medianama.com/2026/03/223-centre-plans-expand-social-media-blocking-powers-multiple-ministries-report/) 
  - [MEITY says Section 69A orders cannot be disclosed, subject to 'strict confidentiality'](https://www.medianama.com/2021/05/223-meity-section-69a-confidential/) 
  - [India’s Content Takedown System: What Went Wrong](https://www.medianama.com/2026/04/223-indias-content-takedown-framework-built-gone-wrong-nama/)
+
+[[gamban petition in delhi hc]] 
  

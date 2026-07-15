@@ -58,6 +58,10 @@ Thanks to  EleutherAI's SOAR team for sending this list after my rejection for [
 
 ## misc.  
 - winners of [AI for Decision Making in Public Goods Grants Program 2026 · AI4PG · AI4PG](https://www.ai4pg.com/grants/ai4pg-2026) 
+## cinema related resources 
+- 500+ criterion [booklets](https://drive.google.com/drive/folders/1UFOXLfhv1WveLhwmWTqDoEr0uTalRzHV) -- [source](https://x.com/paranmaung/status/2076019100242063456?s=20)
+
+
 
 
 [[career in OTT sector]]
