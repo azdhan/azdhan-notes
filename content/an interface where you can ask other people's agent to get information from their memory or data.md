@@ -1,0 +1,4 @@
+
+So, the idea is this:  i have a doubt, i google it or LLM-it. Or, with high context capable models, what i can do is i take a couple or more websites or books of experts and see what do they think on that particular perspective. but, what about the data that is not yet in the public domain and that is not yet written publicly. what if the data is present somewhere hidden, like someone's personal obsidian. why shouldn't i have agentic access to that where i can query it? its like query-ing a different individual and different individual digital brain. 
+
+i think this can also be converted to a community driven platform where people can select people and query their digital brain and just to see what everyone is thinking about everyone. 

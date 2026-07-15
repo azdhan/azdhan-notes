@@ -1,3 +1,5 @@
+# Explainer: Everything we know about BSNL's Satellite Phone
+
 Despite being [available](https://www.pib.gov.in/PressReleasePage.aspx?PRID=2226565&reg=48&lang=2) for public as Global Satellite Phone Service since 2018, a single social media post along with a price tag of Rs. 1,34,166 state owned-BSNL brought the attention to its satellite phone. "Designed for challenging environments, making it an ideal solution for Defence, Maritime, Disaster Response, Mining, Remote Operations and Adventure Travel," [reads](https://x.com/BSNLCorporate/status/2075176315448447149?s=20) its post on X. 
 
 **What is BSNL's satellite phone?** "This BSNL's device is a dedicated handset with a physical antenna that has to be pulled out before you can make a call, unlike a conventional smartphone, where the antenna is built into the body of the phone. It also uses a separate SIM, meaning a separate phone number from your regular mobile number, and connects directly to the geostationary satellite for voice and SMS. This is a conventional satellite phone, not satellite connectivity added to an ordinary smartphone," explained telecom expert Parag Kar in a YouTube explainer video. Watch his full video [here](https://www.youtube.com/watch?v=K8v6OPDkR8E). 
@@ -16,6 +18,10 @@ He also said that communicating with the satellites is different from the geo-st
 
 "Satellite voice calls are considerably harder to support than satellite messaging. Apple's emergency satellite messaging feature on the iPhone works because text messages are stored on the device and then the phone attempts to send them and retries on failure, without needing an instant, continuous connection. A short delay in an SMS is barely noticeable. However, voice calls are different as they require continuous, real-time, two-way communication with essentially no room to pause and retry without the conversation sounding broken. That's a large part of why Apple has only implemented emergency text messaging via satellite so far, not voice calls."
 
+Also Read:
+- [How Strict Satcom Rules Might Dampen Google's Find Hub Plans](https://www.medianama.com/2025/05/223-satcom-rules-google-find-hub/)
+- [Draft spectrum rules leave Starlink & rival broadband operators out](https://www.medianama.com/2026/06/223-dot-draft-spectrum-rules-leave-starlink-rival-broadband-operators-out/)
+- [India examines security risks linked to Starlink, OneWeb and SES](https://www.medianama.com/2026/06/223-india-security-risks-starlink-oneweb-ses/)
 
 
 
@@ -26,3 +32,4 @@ He also said that communicating with the satellites is different from the geo-st
 
 
 [[claude-cleaned english transcript of parag kar's video explainer on bsnl satellite on youtube]]
+
