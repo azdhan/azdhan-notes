@@ -1,5 +1,7 @@
 
 # july 2026
+- [Instagram Takes Down The Wire's Reports on Lawrence Bishnoi and 'Chauhaan' Without Prior Intimation - The Wire](https://thewire.in/media/instagram-takes-down-the-wires-reports-on-lawrence-bishnoi-and-chauhaan-without-prior-intimation) 
+- arrested for calling a Chief Minister a[ "delivery person"](https://x.com/IndLibertarians/status/2077272727623463027) on TV, especially two years after the remark was made.
 - there is something [fishy](https://x.com/AzdhanB/status/2075167371283841353?s=20) going on someone is claiming the copyrights to original content creators and taking away the content
 - https://x.com/its_trinay/status/2074944043910582732?s=20 
 - https://x.com/shristhikhanna/status/2075030217505059053?s=20
