@@ -19,3 +19,9 @@ follow what i'm watching and reading here:   [letterboxd](https://letterboxd.c
 
 
 
+--- 
+
+[[wiki of azdhan's digital garden]]
+
+
+
