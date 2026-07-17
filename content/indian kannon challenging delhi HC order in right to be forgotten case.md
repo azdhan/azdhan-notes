@@ -75,3 +75,8 @@ Also Read:
 - [Privacy or Free Press? SC to Examine Right to Be Forgotten in India](https://www.medianama.com/2026/02/223-supreme-court-right-to-be-forgotten-indian-express-privacy-case/)
 - [Delhi Court Orders Google to De-Index URLs in Major ‘Right to Be Forgotten’ Case](https://www.medianama.com/2025/11/223-delhi-court-google-de-index-urls-right-to-be-forgotten-case/)
 
+
+Related 
+- [[fundamental right to privacy puttaswamy judgement]]
+- [[petition filed by indian kanoon]]
+- 

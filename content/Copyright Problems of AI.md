@@ -57,3 +57,6 @@ Under the copyright debate, these are the few aspects that can be used to bring 
 - a vegetable vendor [training](https://www.instagram.com/reel/DYeiFmOzo2W/?igsh=MTZmNmN0c203bDByYQ==) AI.
 - LATimes [story](https://x.com/NilChristopher/status/1985363894454350196) on cloth folding workers in tamil nadu karur workers. 
 - BBC [story](https://www.bbc.com/news/articles/cqjevxvxw9xo) on how rural india is training ai
+
+MISC
+- [The Most Streamed and Top-Earning AI Music Artists](https://www.kapwing.com/resources/the-most-streamed-and-top-earning-ai-music-artists/) 

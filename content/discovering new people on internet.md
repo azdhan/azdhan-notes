@@ -1,3 +1,7 @@
+## on instagram
+1. https://www.instagram.com/alsonambyaar/reels/ 
+2. 
+
 # in telugu cinema 
 
 # female actors 
