@@ -4,7 +4,7 @@
 
 visit my digital resume [here, deployed on vercel](https://azdhan.vercel.app/about)
 
-explore the website using the tags or search feature. will build a note randomiser soon along with a clear get started section soon, till then feel free to find your own rabbit hole. 
+explore the website using the tags or search feature. will build a note randomiser soon along with a clear get started section soon, till then feel free to find *everyyour* own rabbit hole. 
 
 my social links where i am least active:  [linkedin](https://in.linkedin.com/in/azdhan-basha-33b6a4300)  |  [twitter](https://x.com/AzdhanB) (meh, not x)
 

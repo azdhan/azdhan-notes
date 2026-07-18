@@ -3,9 +3,6 @@
 #technology/ai
 
 
-
-
-1. 
 ### Problems with AI :
 1. [[Copyright Problems of AI]]
 	1. [[privacy and ai data training problems of AI training]]
@@ -18,6 +15,8 @@
 5. [[CINEMA and books on AI and tech]]
 6. [[predictions on AI]]
 
+
+[[AI and india]]
 ## misc. 
 - technologists [talking](https://x.com/FLI_org/status/2074100812901441779?s=20) about the dangers of AI and the impact on humanity
 
