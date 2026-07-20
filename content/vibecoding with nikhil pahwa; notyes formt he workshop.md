@@ -1,5 +1,6 @@
 
 
+[[full transcript of nikhil pahwa's workshop o ai vibecoding ]]
 
 ## the pre-prepp given by nikhil pahwa before the workshop 
 

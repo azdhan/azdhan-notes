@@ -17,6 +17,7 @@ follow what i'm watching and reading here:   [letterboxd](https://letterboxd.c
 - [[tech tools that makes my life easier]]
 - [[tools that i want to build which can also be startups (feel free to steal)]]
 - [[links for cinema and books  (piracy)]]
+- [[library of azdhan]]
 - 
 
 

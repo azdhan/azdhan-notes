@@ -60,3 +60,4 @@ Under the copyright debate, these are the few aspects that can be used to bring 
 
 MISC
 - [The Most Streamed and Top-Earning AI Music Artists](https://www.kapwing.com/resources/the-most-streamed-and-top-earning-ai-music-artists/) 
+- Copyright is NOT "property". And "free-riding" isn't [inherently](https://x.com/pranesh/status/2077717281111683435) bad, and is not only necessary but is also often socially beneficial. -- [pdf](https://law.stanford.edu/wp-content/uploads/2015/06/MarkALemleyPropertyIntell.pdf) 
