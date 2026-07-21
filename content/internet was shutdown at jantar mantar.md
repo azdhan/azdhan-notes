@@ -25,3 +25,25 @@ _This is a developing story compiled from posts on X and news reports._
 
 
 UPDATE: 
+
+Documenting Delhi police violence at Jantar Mantar in one place during CJP protests.  
+
+We all know what's happening at Jantar Mantar in Delhi right now. They [shut down the internet there yesterday](https://www.medianama.com/2026/07/223-internet-shutdown-delhi-jantar-mantar-protest-march/), so a lot of content just wasn't reachable while it was actually happening. Now, social media is slowly filling up with posts about the police violence and brutality by Delhi police and god knows who else.
+
+I'm trying to pull all of this together in one place, the atrocities, the police violence, so it becomes a proper archive. Anyone who needs to refer back to it can, journalists, researchers, lawyers, human rights activists, anyone.
+
+This is the website: [****https://delhi-police-violence.vercel.app****](https://delhi-police-violence.vercel.app)
+
+If you have links to posts documenting this, please send them over on the website. You can submit one URL, or if you've been collecting several, just put one URL per line in a text file and upload it. I'll go through it myself and make sure it gets added.
+
+Feel free to add the ones where civilians might be acting against police (if you find any).
+
+The archive also lets you export everything in one click, all the URLs along with the archived content itself, so anyone doing real work with this doesn't have to dig through it by hand.
+
+check out the archive of delhi police violence. added this post to the list. 
+
+link to the archive: https://delhi-police-violence.vercel.app 
+
+
+PIB [factchekcing](https://x.com/PIBFactCheck/status/2079501162647314846?s=20) 
+iitroorkie [email](https://x.com/jintaestine/status/2079466060261326928?s=20)
