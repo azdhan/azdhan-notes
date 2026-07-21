@@ -1,0 +1,2 @@
+- [Himanshi on X: "@Paitheticlife Worst media ever! And when you try to show people the truth this is what they do to your stories/posts. WTF is wrong with these creatures? https://t.co/sMkPuqgCST" / X](https://x.com/Himansh10423434/status/2079421044822257941/photo/1) 
+- 
