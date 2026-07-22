@@ -1,0 +1,28 @@
+#  Citing IT Rules Meta Blocks Maktoob Hindi's Instagram reel on Jantar Mantar protests,
+
+Meta-owned Instagram has restricted access in India to a two-minute reel posted by **Maktoob Hindi** covering the ongoing Delhi protests, after receiving what it describes as a legal requirement under India's Information Technology (Intermediary Guidelines and Digital Media Ethics Code) Rules, 2021.
+
+Users attempting to view the post from India are met with a notice stating:
+
+> **"The post is unavailable in India:** We restricted access to this content pursuant to legal requirements under India's Information Technology (Intermediary Guidelines and Digital Media Ethics Code) Rules. Log in to continue.."
+
+The video remains viewable to users outside India, and to those accessing it via VPN. [Here is the URL of the video](https://www.instagram.com/reels/DbDYE7jTyMI/) that Meta took down based on an order from whom, only Meta knows. We downloaded the video and uploaded the video in our archives. You can watch the video [here](https://www.medianama.com/wp-content/uploads/2026/07/meta-geo-blocked-maktoob-hindi-reel.mp4). 
+
+https://x.com/AzdhanB/status/2079805848336093454?s=20 
+
+**What inside the video:** Now geo-blocked Maktoob's video was filmed against the backdrop of the ongoing protests in Delhi, where thousands of students, under the banner of the Cockroach Janta Party (CJP) and allied student organisations, have been demonstrating at Jantar Mantar and marching toward Parliament Street since early June, demanding accountability over the 2026 NEET paper leak. The demonstrations saw a heavy police crackdown, including tear gas and baton charges, on July 20, with visuals of injured students circulating widely on social media, along with internet shutdown. 
+
+In the video, the speaker argues that the media narrative historically used to delegitimise protesters, invoking previous instances like farmer protests during the 2020–21 farm law protests, and of students during the anti-CAA/NRC protests of 2019–20. He says that such discrediting campaign is also being run now, but is failing to gain traction as audiences have understood these tactics and are less receptive to narratives dismissing protesters as externally instigated or anti-national. The video also features Faiz Ahmed Faiz's song version  of his poem _Bol Ke Lab Azaad Hain_.
+
+A few excerpts from MediaNama's reporting related to censorship of Maktoob's content: 
+- - **Maktoob Media’s Founding Editor, Aslah Kayyalakkath, wrote:** “Two days ago, @MaktoobMedia received an email from X stating that the platform had been issued a blocking order by the Ministry of Information and Broadcasting under Section 69A of the Information Technology Act, 2000, regarding our video explainer on the Kunan Poshpora mass rape,” he [posted](https://x.com/aslahtweets/status/2039009546912575871?s=20) on X.  The said post is now [no longer available on X](https://x.com/MaktoobMedia/status/2025722272628306109). However, Maktoob’s recent reel on Kunan Poshpora case can still be viewed on [Instagram](https://www.instagram.com/reels/DVFF0wyjZ1B/) and [YouTube](https://www.youtube.com/shorts/ilpvHblP6PQ). Explore March 2026's full censorship tracker [here](https://www.medianama.com/2026/04/223-india-online-censorship-march-2026-tracker/).
+- Authorities blocked X accounts belonging to Maktoob Media during its crackdown against removal of 3,000 apps from the Play Store. Read the full report [here](https://www.medianama.com/2025/09/223-india-3000-apps-ban-section-69a/).
+- On May 9, 2025, X accounts of independent news organisations, [Maktoob Media](https://x.com/MaktoobMedia), [The Kashmiriyat](https://x.com/TheKashmiriyat) and [Free Press Kashmir](https://x.com/FreePressK) are no longer accessible in India. Later on May 19, 2025, the government has [unblocked](http://x.com/aslahtweets/status/1923698748972204536?s=48&t=M7o3t8yzf9jXE_Rp8XWPtA) Maktoob Media’s X handle. This comes as the publication was about to file a petition in the Supreme Court challenging the blocking order after receiving no response from the government. Explore MediaNama's censorship tracker after the  Terrorist Attack in Kashmir in May 2025 [here](https://www.medianama.com/2025/05/223-pahalgam-attack-social-media-ban-list/).
+- In May 2025, the government also blocked the X accounts of independent news organisations Maktoob Media, The Kashmiriyat, and Free Press Kashmir during its crackdown of so-called Pakistani-origin content on OTT streaming sites. Read the MediaNama's coverage [here](https://www.medianama.com/2025/05/223-india-orders-ott-platforms-to-block-pakistani-origin-content/).
+ 
+Follow the censorship in India using the following tags: [Freedom of Expression](https://www.medianama.com/tag/freedom-of-expression/), [freedom of speech](https://www.medianama.com/tag/freedom-of-speech/), [Censorship](https://www.medianama.com/tag/censorship/), [censorship 2026](https://www.medianama.com/tag/censorship-2026/), [Digital, Censorship](https://www.medianama.com/tag/digital-censorship/), [India Censorship](https://www.medianama.com/tag/india-censorship/)
+
+Also Read: 
+- - [Full List: Digital Censorship After Terrorist Attack in Kashmir](https://www.medianama.com/2025/05/223-pahalgam-attack-social-media-ban-list/)
+- [India Crackdown After Pahalgam Attack: Blocks 4PM News, Neha Rathore, Dr Medussa](https://www.medianama.com/2025/04/223-pahalgam-attack-media-crackdown-4pm-youtube-ban-neha-singh-dr-medusa-sedition-charges/)
+- [India Blocks 16 Pakistani YouTube Channels After Pahalgam Terrorist Attack](https://www.medianama.com/2025/04/223-india-16-pakistani-youtube-channels-pahalgam-terrorist-attack/) 
