@@ -59,6 +59,7 @@ Amit shah and modi response [here](https://x.com/AmitShah/status/208017641652480
 - 
 ## surveillance at the protest sites
 - [Court orders preservation of CCTV in pleas citing police 'brutality'](https://theprint.in/judiciary/delhi-hc-orders-preservation-of-cctv-videos-cited-in-pleas-on-police-brutality-during-cjp-protest/2993520/)   |  [Delhi Police says Jantar Mantar protest videography is for law and order, not surveillance](https://www.medianama.com/2026/07/223-delhi-police-jantar-mantar-protest-videography-law-order-surveillance/) \
+- mishi sflc on [surveillance](https://x.com/mishichoudhary/status/2080385269493293500?s=20) \ [two](https://x.com/mishichoudhary/status/2080385838077407531?s=20)
 
 - raj kumar rao [agreed](https://x.com/Amockx2022/status/2080024614416388119?s=20) the pressure the govt to do a jumbo jumbo
 - patel chowk 
@@ -67,5 +68,6 @@ Amit shah and modi response [here](https://x.com/AmitShah/status/208017641652480
 ## PR tactics 
 - main [video](https://www.instagram.com/p/DbEI79RASVa) that exposed everything and started
 - [Priyanka Sharma on X: "Now they are stooping to this level. https://t.co/sGCgfNCWcL" / X](https://x.com/priyankamudit/status/2080167361152422107) 
+- [Indians on X: "EXPOSED: They offered me money to delete my last reel… They really thought they could buy my silence I just received an email from a paid collaboration marketing agency with a disgusting offer. They want me to delete my last reel where I showed you the ground reality of what https://t.co/vmKtHCBFcG" / X](https://x.com/voicesindians/status/2080360301082591269) 
 - 
 
