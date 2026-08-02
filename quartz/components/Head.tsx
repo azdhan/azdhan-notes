@@ -14,7 +14,9 @@ export default (() => {
   }: QuartzComponentProps) => {
     const titleSuffix = cfg.pageTitleSuffix ?? ""
     const title =
-      (fileData.frontmatter?.title ?? i18n(cfg.locale).propertyDefaults.title) + titleSuffix
+      (fileData.slug === "index"
+        ? cfg.pageTitle
+        : (fileData.frontmatter?.title ?? i18n(cfg.locale).propertyDefaults.title)) + titleSuffix
     const description =
       fileData.frontmatter?.socialDescription ??
       fileData.frontmatter?.description ??
@@ -29,7 +31,34 @@ export default (() => {
 
     // Url of current page
     const socialUrl =
-      fileData.slug === "404" ? url.toString() : joinSegments(url.toString(), fileData.slug!)
+      fileData.slug === "404" || fileData.slug === "index"
+        ? `${url.toString().replace(/\/$/, "")}/`
+        : joinSegments(url.toString(), fileData.slug!)
+    const canonicalUrl = socialUrl
+    const publishedDate = fileData.dates?.published ?? fileData.dates?.created
+    const modifiedDate = fileData.dates?.modified ?? publishedDate
+    const jsonLd = {
+      "@context": "https://schema.org",
+      "@type": fileData.slug === "index" ? "WebSite" : "Article",
+      name: title,
+      headline: title,
+      description,
+      url: canonicalUrl,
+      isPartOf: {
+        "@type": "WebSite",
+        name: cfg.pageTitle,
+        url: url.toString(),
+      },
+      author: {
+        "@type": "Person",
+        name: "Azdhan Basha",
+        url: "https://azdhan.github.io/azdhan-notes/",
+      },
+      license: "https://creativecommons.org/licenses/by/4.0/",
+      inLanguage: cfg.locale,
+      datePublished: publishedDate?.toISOString(),
+      dateModified: modifiedDate?.toISOString(),
+    }
 
     const usesCustomOgImage = ctx.cfg.plugins.emitters.some(
       (e) => e.name === CustomOgImagesEmitterName,
@@ -61,6 +90,7 @@ export default (() => {
         )}
         <link rel="preconnect" href="https://cdnjs.cloudflare.com" crossOrigin="anonymous" />
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <meta name="robots" content="index, follow, max-snippet:-1, max-image-preview:large" />
 
         <meta name="og:site_name" content={cfg.pageTitle}></meta>
         <meta property="og:title" content={title} />
@@ -85,6 +115,7 @@ export default (() => {
 
         {cfg.baseUrl && (
           <>
+            <link rel="canonical" href={canonicalUrl} />
             <meta property="twitter:domain" content={cfg.baseUrl}></meta>
             <meta property="og:url" content={socialUrl}></meta>
             <meta property="twitter:url" content={socialUrl}></meta>
@@ -94,6 +125,10 @@ export default (() => {
         <link rel="icon" href={iconPath} />
         <meta name="description" content={description} />
         <meta name="generator" content="Quartz" />
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
+        />
 
         {css.map((resource) => CSSResourceToStyleElement(resource, true))}
         {js

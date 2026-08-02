@@ -14,7 +14,8 @@
 // Subtle, theme-aware tint for the sidebars (uses the same --lightgray token
 // the rest of the site already uses, so it tracks light/dark mode automatically)
 .sidebar {
-  background-color: var(--lightgray) !important;
+  background-color: color-mix(in srgb, var(--lightgray) 62%, var(--light)) !important;
+  border-inline: 1px solid color-mix(in srgb, var(--lightgray) 72%, transparent);
 }
 
 // Tags: plain text links that blend into the UI, no pill/highlighter background.
@@ -45,6 +46,22 @@ a.internal {
   padding: 0 !important;
 }
 
+a {
+  text-underline-offset: 0.18em;
+}
+
+article a:hover,
+article a:focus-visible {
+  text-decoration: underline;
+}
+
+a:focus-visible,
+button:focus-visible,
+input:focus-visible {
+  outline: 2px solid var(--secondary);
+  outline-offset: 3px;
+}
+
 // Recent Notes: compact, no dates, tight spacing between entries
 // (tags removed via showTags: false in quartz.config.yaml, not CSS)
 .recent-notes > ul.recent-ul > li {
@@ -56,7 +73,40 @@ a.internal {
 
   .section > .desc > h3 {
     margin: 0 !important;
+    line-height: 1.3 !important;
   }
+}
+
+.recent-notes > h3,
+.toc > h3,
+.backlinks > h3 {
+  color: var(--dark);
+  font-weight: 700 !important;
+}
+
+.toc,
+.backlinks,
+.explorer,
+.recent-notes {
+  padding-block: 0.15rem;
+}
+
+.toc ul,
+.backlinks ul,
+.recent-notes ul {
+  padding-left: 1rem;
+}
+
+.toc a,
+.backlinks a,
+.recent-notes a {
+  color: var(--darkgray);
+}
+
+.toc a:hover,
+.backlinks a:hover,
+.recent-notes a:hover {
+  color: var(--secondary);
 }
 
 // Search: give the collapsed search box a solid background matching the main
@@ -84,10 +134,27 @@ a.internal {
 // Body text: 1.125-1.25rem, 400 weight, 1.6-1.7 line-height
 body {
   font-size: 1.125rem !important;
+  background:
+    linear-gradient(
+        90deg,
+        color-mix(in srgb, var(--lightgray) 42%, transparent) 0 1px,
+        transparent 1px
+      )
+      center / min(100%, 74rem) 100% no-repeat,
+    var(--light) !important;
 }
 
 article {
   line-height: 1.65 !important;
+  padding-bottom: 2rem;
+}
+
+.center {
+  padding: 0 0.75rem;
+}
+
+.page > #quartz-body {
+  column-gap: 1.5rem !important;
 }
 
 // H1 (page title): 2-2.5rem, 600-700 weight — one per page, sets the note's identity
@@ -142,6 +209,7 @@ h3 {
   font-size: 0.875rem !important;
   font-weight: 400 !important;
   color: var(--gray) !important;
+  letter-spacing: 0;
 }
 
 // "Last updated on <date> | X min read" instead of the bare date + comma
