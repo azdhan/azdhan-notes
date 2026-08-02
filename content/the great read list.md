@@ -22,4 +22,7 @@
 ## scripts 
 1. the [girlfriend](https://drive.google.com/file/d/1Y36OOKLmKkAfXc-xMPq_wAop333kR2BW/view) by rahul ravindran
 
+## links from whats app 
+[[links shared from whatsapp]]
+
 
