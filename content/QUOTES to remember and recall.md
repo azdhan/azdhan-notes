@@ -1,5 +1,8 @@
 #philosphy/quotes
 
+"Civilization advances by extending the number of important operations which we can perform without thinking about them." -- Alfred North Whitehead - on [x](https://x.com/krishnanrohit/status/2083967010246169036?s=20)
+
+
 
 ## business and leadership 
  "When a management with a reputation for brilliance tackles a business with a reputation for bad economics, it is the reputation of the business that remains intact." --warren buffet (from book intelligent investor and also quoted in [[reading aadhaar effect; notes and references]])
