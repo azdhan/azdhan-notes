@@ -187,6 +187,12 @@ plugins:
     layout:
       position: beforeBody
       priority: 20
+  - source: ./local-plugins/page-actions
+    enabled: true
+    layout:
+      position: beforeBody
+      priority: 4
+      condition: not-index
   - source: github:quartz-community/tag-list
     enabled: true
     layout:

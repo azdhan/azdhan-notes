@@ -1,0 +1,24 @@
+{
+  "name": "page-actions",
+  "version": "1.0.0",
+  "type": "module",
+  "private": true,
+  "main": "./dist/index.js",
+  "exports": {
+    ".": "./dist/index.js",
+    "./components": "./dist/components/index.js"
+  },
+  "quartz": {
+    "name": "page-actions",
+    "displayName": "Page Actions",
+    "category": "component",
+    "version": "1.0.0",
+    "components": {
+      "PageActions": {
+        "displayName": "Page Actions",
+        "defaultPosition": "beforeBody",
+        "defaultPriority": 4
+      }
+    }
+  }
+}
