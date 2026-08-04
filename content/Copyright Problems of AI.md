@@ -38,6 +38,7 @@ Under the copyright debate, these are the few aspects that can be used to bring 
 
 # ongoing in india 
 - openai vs ANI: what happened? the court appears to have reserved the judgement in april 2026 but hasnt pronounced yet. it appears to be in favour of ANI, as per an [op ed in DH](https://www.deccanherald.com/opinion/reframing-copyright-for-the-ai-age-4061487)
+	- there was a [judgement](https://www.medianama.com/2026/07/223-ani-openai-copyright-dispute-delhi-high-court-interim-relief/) in this case. ikigai law's analysis is [here](https://www.linkedin.com/posts/ikigai-law-analysis-on-ani-v-openai-ugcPost-7490350899295526912-LVdv/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEz9Dt8BII9-_WstHAWR98i_nFRHb6xfrLk)
 
 # ongoing elsewhere 
 1. [getty images versus stability AI in UK.](https://www.medianama.com/2025/06/223-getty-images-vs-stability-ai-lawsuit/)  Getty images of withdraw its allegations of copyright infringement against stability AI due to the lack of evidence And after stability AI removing the textual prompt that would generate the trademark of getting images on AI generated images
