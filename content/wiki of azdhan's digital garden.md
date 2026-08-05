@@ -4,10 +4,13 @@
 [[legal resources]]
 
 # understanding series 
-- [[Understanding Everything about AI and its tech
+- [[Understanding Everything about AI and its tech]]
 - [[understanding india's fintech and UPI]]
 - [[how spam works in india]]
-- 
+
+## everything series 
+1. [[everything about modi]]
+2. 
 
 
 

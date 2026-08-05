@@ -1,0 +1,19 @@
+[[censorship on Indian media and internet]] 
+- journalists [gagged](https://www.inventiva.co.in/stories/saga-of-journalists-gagged-by-adani/) by adani
+- reporters covering j&k were [called](https://x.com/tallstories/status/2013235320771473565?s=20) in to police by delhi police
+- umar khalid [and](https://thewire.in/law/delhi-high-court-bail-denied-gulfisha-fatima-sharjeel-imam) nine others is still in jail for [this](https://x.com/RahulSeeker/status/1963279939631022298) speech where he spoke about gandhi and peace. 
+- TRAI blocked the YT link from sending to the receiver's end of  paranjoy guha thakurtha's 
+- eveything that you may hear about Modi on internet may be only [orchestrated](https://x.com/free_thinker/status/1968176886053474741) by the media/PR/IT cell. people like [viswanath anand](https://x.com/Vtxt21/status/1968133518594334981) are also victims of this. this can be an interesting article on [[how modi controls media]]
+- adani got the court orders to remove the links on internet that he didnt like. why should the courts/govt protect a private richest man?
+- The government [blocked Juice Media’s](https://www.medianama.com/2024/06/223-indian-govt-blocks-youtube-satire-video-juice-media/) India video on YouTube using provisions of the Indian Penal Code.
+- Internet service providers censored Tamil outlet [Vikatan’s website](https://www.medianama.com/2025/02/223-website-vikatan-inaccessible-cartoon-pm-modi-takedown-order/) after it published a cartoon of Prime Minister Modi. 
+- Instagram also removed the meme page [Savala Vada](https://www.medianama.com/2025/06/223-india-savala-vada-instagram-free-speech/) after it mocked the government, without offering any legal explanation.
+- the government wants to remove [every](https://x.com/pranesh/status/1971086197180203520) post from social media that it wishes using sahyog portal and, Karnataka HC [upholds](https://www.medianama.com/2025/09/223-why-karnataka-hc-sahyog-portal-x-allegations/) it. disgrace. X said it will [challenge](https://x.com/GlobalAffairs/status/1972519203816247323) it 
+- in 2002, in an interview with BBC, he admits that he didn't handle media very well. BBC also documented that the police ust stood there and didnt reacted when there were riots and lootings. later in 2024, BBC's documentary on 2002's gujrat riots was banned. 
+- never gave any press conference to media, first ever PM to avoid press in independent india
+- and he was caught on camera as well with written questions and answers as well. 
+- he launched namo tv just before the elections only to disappear later after the elections
+- he believes that karna was born as a genetically engineered person, and ganesh was the plastic surgery; he said this at the reliance hospital. 
+- he doesnt even have the original degree to show and the worst thing is that the court doesnt want to disclose it to the public saying that its a privacy related thing. 
+- the murder of narendra dhabolkar and gauri lankesh is also threatening to the national freedom of speech and expression. 
+- 

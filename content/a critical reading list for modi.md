@@ -1,0 +1,3 @@
+
+
+Newslaundry series on Modi (jul-aug 2026): [One](https://www.newslaundry.com/2026/07/10/the-film-will-make-you-rs-100-cr-look-at-kashmir-files-inside-the-quiet-capture-of-bollywood) ([archived](https://justpaste.it/f38pv)) | [two](https://www.newslaundry.com/2026/07/10/the-film-will-make-you-rs-100-cr-look-at-kashmir-files-inside-the-quiet-capture-of-bollywood) ([archived](https://justpaste.it/ekn2r)) |  [three](https://www.newslaundry.com/2026/07/17/the-bollywood-pracharaks-who-found-their-place-in-modis-orbit)  ([archived](https://justpaste.it/dg9b4)) | 

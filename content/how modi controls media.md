@@ -1,0 +1,5 @@
+HIREN JOSHI: a bureaucrat who helped once modi during one of the campaign, he became the go-to person as the modi's communication strategist (including mann ki baat programme's mandate where the state's CM are responsible to the arranging people while modi is speaking). he was also responsible for the daily reports on what was being discussed in the tv debates and also on the twitter. so, the identical tweets that we see can be the result of this guy. these were told in rajdeep sardesai's exerpt from his 2024's [book](https://www.youtube.com/watch?v=CUElBce4bWU). the wire's [piece](https://thewire.in/politics/hiren-joshi-narendra-modi-pmo) on him that detailed his operations very deep. 
+
+also, the sudden [removal](https://x.com/veenavenugopal/status/1996491734013157408) the print's coverage on pawan khera's press meet also raises questions on the censorship controls that he and modi has on the media.
+
+the namo tv didnt even had the [license](https://theprint.in/politics/namo-tv-has-no-broadcast-licence-didnt-even-apply-for-one/216470/) to broadcast.  
