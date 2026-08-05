@@ -1,4 +1,4 @@
-#philosphy/rationality/atheism #politics/india/bjp
+#philosphy #rationality #atheism #politics #india #bjp
 # The population fear
 The fear of threat usually comes with the scale and power of the organisation/religion. If we go by the pure numbers, mumslims constitute 14.23% of total indian population as per[ the 2011's census](https://www.census2011.co.in/religion.php) (old stats, but official stats.)
 
@@ -34,4 +34,6 @@ So, again, back to the question, why are we doing this? because, as they say, yo
 
 this is not only pertitent to christmas, even the ram navami also also[ become the hate-filled chest-thumping ](https://caravanmagazine.in/politics/hindutva-pop-hate)display of religious supremacy. At the worst, with the [really really derogatory hate-filled music](https://www.thehindu.com/opinion/op-ed/hindutva-pop-selling-hate-through-music/article66967878.ece) that one would be [hesitant to play those lyrics out loud in front of family.](https://www.dw.com/en/india-soundtrack-of-hate/video-64544108) Kunal purohit wrote an entire [book](https://www.amazon.in/H-Pop-Secretive-World-Hindutva-Stars-ebook/dp/B0CKP9VB8T) on the H-pop music, hindutva pop music. but, we are dancing to the same vulgarity and calling it the pride of religion? is this what the religion has degraded to? what happened to all the modesty that is preached in the religious book? are we reading the wrong books? oooh wait, are we even reading? are we even thinking?
 # intelligent religion matters not the fear-filled dogma
+- Savarkar's grandson says in Bombay HC that cow dung and urine shouldn't be consumed and be only used as an useful animal: [Savarkar Objected To Cow Worship, Treated It Only As A Useful Animal : Grandnephew Tells Pune Court](https://www.livelaw.in/news-updates/savarkar-objected-to-cow-worship-treated-it-only-as-a-useful-animal-grandnephew-tells-pune-court-544349) 
+- 
 

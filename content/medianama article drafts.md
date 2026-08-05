@@ -1,6 +1,7 @@
 ## august 2026 
-1. 
-2. [[when whatsapp asking for age declarations in india]]
+1. [[bomaby hc ordred the takedown of nitn gadkari's deepfake videos]]
+2. [[how saregama is using genAI for vingate music production]] 
+3. [[when whatsapp asking for age declarations in india]]
 
 
 ## july 2026

@@ -7,8 +7,15 @@ there is reference to the right to be forgotten in [[fundamental right to privac
 
 
 A few more resources: 
+- What are the arguments of IndianKanoon against RTBF: 
 - The Resistance of Memory: Could the European Union's Right to be Forgotten Exist in the United States? -- [pdf](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2590158) (this was referenced in puttaswamy judgement)
 - Reconceptualizing the Right to Be Forgotten to Enable Transatlantic Data Flow -- [pdf](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2627383)  (this was referenced in puttaswamy judgement) 
+
+
+## court orders 
+- July 2026 - Karnataka HC orders Indian Kanoon to remove a woman's name from the records -- [PDF](https://www.livelaw.in/pdf_upload/2026/08/05/download-5-691755.pdf)
+- When Delhi HC delivered a landmark judgement in 31 cases: [Right to be forgotten: Delhi HC orders against Google & Indian Kanoon](https://www.medianama.com/2026/06/223-google-de-indexing-indian-kanoon-search-restrictions-right-to-be-forgotten/) 
+
 ## what i think
 
 The problem with the right to be forgotten is that one person’s right to be forgotten can conflict with another person’s right to remember. Remembering often happens through documentation. If that documentation exists in public, the issue becomes complex.

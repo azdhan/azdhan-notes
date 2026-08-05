@@ -1,4 +1,6 @@
 
+[[whats wrong with aadhaar]]
+
 ## interesting points
 - after the work on aadhar was started BJP was opposing it and even called for the dismantling of aadhaar and nandan nilekani also particpated in elections as a cngress member and lost with 2 lakh votes
 - 
