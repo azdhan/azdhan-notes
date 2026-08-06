@@ -1,6 +1,14 @@
 
 
-
+## aug 2026 
+- https://x.com/SFLCin/status/2085320450452894000?s=20 
+- [Rofl Gandhi 2.0 🏹 Commentary on X: "PMO summoned Meta officials yesterday under the pretext of PM Modi's video takedown. But the real motive was to tighten the grip around Genz & anti-govt content. Anything remotely critical of PM Modi gets taken down instantly, even if you don't name him. Several of my https://t.co/Z2w5Yfj16E" / X](https://x.com/RoflGandhi_/status/2085316111776788711) 
+	- [Mohammed Zubair on X: "Same with my Instagram account. #MetaCensorsIndia https://t.co/uo8ntMYgjP" / X](https://x.com/zoo_bear/status/2085344040137142502)
+- [Apurva M Asrani on X: "I have repeatedly reported 5 accounts on Instagram that have issued me abusive threats and threats of bodily harm. They are still active & still threatening others. @Meta has done nothing about it. The Meta account of Arvind Kejriwal, a three-time Chief Minister of Delhi, has" / X](https://x.com/Apurvasrani/status/2085229278225141979)
+- [shrishti on X: "This post was taken down. Of course it was. My god, this is getting scary and we all need to push back. https://t.co/T5j8dMJjFp" / X](https://x.com/shristhikhanna/status/2085340912503390709)
+	- [shrishti on X: "My main Instagram account has been suspended. Then, just a while ago, it was banned in India by government order, with 103k followers. I've been talking about India-Israel relations and making pro-Palestine videos for a while. As well as anti-Hindutva videos and content on Indian" / X](https://x.com/shristhikhanna/status/2085273331516015051)
+- 
+- 
 # july 2026
 - [[possible censorship after CJP protests at jantar mantar]]
 - [Instagram Takes Down The Wire's Reports on Lawrence Bishnoi and 'Chauhaan' Without Prior Intimation - The Wire](https://thewire.in/media/instagram-takes-down-the-wires-reports-on-lawrence-bishnoi-and-chauhaan-without-prior-intimation) 

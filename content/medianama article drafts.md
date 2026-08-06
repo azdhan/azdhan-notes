@@ -1,8 +1,9 @@
 ## august 2026 
-1. [[bank of baroda 1TB data breach]]
-2. [[bomaby hc ordred the takedown of nitn gadkari's deepfake videos]]
-3. [[how saregama is using genAI for vingate music production]] 
-4. [[when whatsapp asking for age declarations in india]]
+1. [[banker book of records amendments]]
+2. [[bank of baroda 1TB data breach]]
+3. [[bomaby hc ordred the takedown of nitn gadkari's deepfake videos]]
+4. [[how saregama is using genAI for vingate music production]] 
+5. [[when whatsapp asking for age declarations in india]]
 
 
 ## july 2026
