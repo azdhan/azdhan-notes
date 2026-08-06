@@ -29,7 +29,9 @@
 11. [chiranjeevi](https://x.com/idlebrainjeevi/status/1982050077062357065?t=_QV5mYnDCMEox3KxTMk1HA&s=19)
 12. sonu nigam 
 13. nagarjuna 
-12[. ajay devgan ](https://www.livelaw.in/high-court/delhi-high-court/ajay-devgn-personality-rights-protected-take-down-obscene-content-311389)
-14. ilayaraja
-15. raj shamani 
-16. 
+14. [ ajay devgan ](https://www.livelaw.in/high-court/delhi-high-court/ajay-devgn-personality-rights-protected-take-down-obscene-content-311389)
+15. ilayaraja
+16. raj shamani 
+17. [physicswallah](https://www.livelaw.in/high-court/delhi-high-court/physics-wallah-personality-rights-protection-alakh-pandey-544223) alok [pandey](https://www.barandbench.com/news/delhi-high-court-orders-takedown-of-derogatory-content-on-physicswallah-founder-alakh-pandey)
+18. yuvraj [singh](https://dailypioneer.com/news/delhi-hc-protects-personality-rights-of-cricketer-yuvraj-singh)
+19. 
