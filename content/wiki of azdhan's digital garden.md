@@ -7,6 +7,7 @@
 - [[Understanding Everything about AI and its tech]]
 - [[understanding india's fintech and UPI]]
 - [[how spam works in india]]
+- [[sahyog portal and everything about it]]
 
 ## everything series 
 1. [[everything about modi]]

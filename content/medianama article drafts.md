@@ -1,10 +1,11 @@
 ## august 2026 
-1. [[BJP MP to introduce a bill seeking social media ban without parental consent for children]]
-2. [[banker book of records amendments]]
-3. [[bank of baroda 1TB data breach]]
-4. [[bomaby hc ordred the takedown of nitn gadkari's deepfake videos]]
-5. [[how saregama is using genAI for vingate music production]] 
-6. [[when whatsapp asking for age declarations in india]]
+1. [[sahyog portal and the supreme court - hearing 1]]
+2. [[BJP MP to introduce a bill seeking social media ban without parental consent for children]]
+3. [[banker book of records amendments]]
+4. [[bank of baroda 1TB data breach]]
+5. [[bomaby hc ordred the takedown of nitn gadkari's deepfake videos]]
+6. [[how saregama is using genAI for vingate music production]] 
+7. [[when whatsapp asking for age declarations in india]]
 
 
 ## july 2026
