@@ -1,6 +1,36 @@
 
 
 ## aug 2026 
+- [Saket Gokhale on X: "The cowardly Modi-Shah Govt has directed X to withhold my post. What was it? It was a screenshot from a video posted by the BJP. This is beyond the worst kind of censorship. This nonsense of taking down posts without ANY violation of the law needs to stop. I’m coming for https://t.co/8R2aZyPNes" / X](https://x.com/SaketGokhale/status/2085727745779073349)
+    
+- [Ashutosh Ranka on X: "So Meta has restricted 4 of my videos in India. One video showed how police was stopping food from reaching Jantar Mantar. The other was made when @Wangchuk66 was forcefully picked up. @Meta - I know this govt fears us, but last I checked, you were still preaching about free https://t.co/8wzVzxRr6r" / X](https://x.com/AshutoshRanka/status/2085734652892139699)
+    
+- NEWS IS TAKEN DOWN: [Priyanshi Sharma on X: "Our interview with 23-year-old Shradha Singh who is being abused online over a reel has been deleted AGAIN on Instagram. We first posted it on Monday night, it got deleted on Tuesday. We then posted it again Tuesday evening, and it was removed yesterday again, no reason given." / X](https://x.com/Priyanshi50/status/2085223168135049290)
+    
+- [AAP on X: "No explanation. No accountability. Just silence. Democracy demands transparency, not secret restrictions and automated acknowledgements. @Meta, stop hiding behind silence. Tell India why accounts are being restricted on your platforms and whose orders you are acting on. https://t.co/p8tIi97ynw" / X](https://x.com/AamAadmiParty/status/2085279711798939673) 
+    
+- I dedicated 13 yrs to build The Jigni Post, but now the Govt of India has restricted it under IT Act. This feels so unfair to my years of hard work. I humbly request you to please review this and help restore my page! -- [LINK](https://x.com/TheJigniPost/status/2085411156903244023?s=20)
+    
+- Meta has banned a video in India of Kanwariyas smashing a car in Uttarakhand. Meta has stated that we have done this in accordance with notices issued by the Government of India/law enforcement agencies. The VIDEO was confirmed. Uttarakhand Police had also arrested one Kanwariya. Meaning, even valid information is causing trouble for governments. Why? -- [LINK](https://x.com/Sachingupta/status/2085369839938662609?s=20)
+    
+- [Anurag Dhanda on X: "Looks like @Meta @metaindia surrendered to every illegal demand of BJP and Modi Govt. My post on E20 is unavailable in India now. #MetaCensorsIndia https://t.co/EAcFqGN7zb" / X](https://x.com/anuragdhanda/status/2085315899511468398)
+    
+- [Indian Youth Congress on X: "Modi ji, IYC se Dar Gaye Kya… Meta se overtime kara rahe ho… Aur Spineless @Meta walon, Tum Platform ho Ya BJP IT CELL ki Franchise? https://t.co/Y7awNsZOcF" / X](https://x.com/IYC/status/2085433701593502095) 
+    
+- [Saurav Das on X: "Turns out my content on Instagram too was restricted in India. What is this blanket ban on protest related and Modi related content? It is unconstitutional and illegal. It is absolutely ridiculous. We appeal to @Meta to not succumb to such high-handed pressure from the https://t.co/GxjQ70kx9q" / X](https://x.com/SauravDassss/status/2085403946689212769)
+    
+- SCROLL NEWS TAKEN DOWN: [shrishti on X: "This post was taken down. Of course it was. My god, this is getting scary and we all need to push back. https://t.co/T5j8dMJjFp" / X](https://x.com/shristhikhanna/status/2085340912503390709)
+    
+- [Pawan Khera 🇮🇳 ಪವನ್ ಖೇರಾ on X: "It's rather amusing that @X perhaps at the government's behest, has put a "graphic content" warning on Rahul Gandhi's posts demanding accountability from Amit Shah for violence against students. Interestingly, one of those videos literally shows nothing except Amit Shah's face. https://t.co/xVBIghCV3c" / X](https://x.com/Pawankhera/status/2085249721174720731)
+    
+- [Suresh Kochattil on X: ".@Meta is deliberately targetting right wing handles and reducing their reach. On the other hand, @x deliberately targets any pro @narendramodi and @BJP4India tweets and shadow bans them. On the other hand, pro @RahulGandhi and abusive posts by handles like @INCKerala against" / X](https://x.com/kochattil/status/2084987709232476247)
+    
+- [Meta ramps up censorship of protest, political reels - The Hindu](https://www.thehindu.com/news/national/meta-ramps-up-censorship-of-protest-political-reels/article71317806.ece) 
+    
+- BLOCKED NEWS REPORT  -[The Hindu on X: "Meta has restricted access to a report in India on Kashmir pellet victim Insha Mushtaq from its platform, Instagram. ✍️ @peerashiq https://t.co/LqoRTrLWej" / X](https://x.com/the_hindu/status/2086010789824237901)
+    
+
+**
 - https://x.com/SFLCin/status/2085320450452894000?s=20 
 - [Rofl Gandhi 2.0 🏹 Commentary on X: "PMO summoned Meta officials yesterday under the pretext of PM Modi's video takedown. But the real motive was to tighten the grip around Genz & anti-govt content. Anything remotely critical of PM Modi gets taken down instantly, even if you don't name him. Several of my https://t.co/Z2w5Yfj16E" / X](https://x.com/RoflGandhi_/status/2085316111776788711) 
 	- [Mohammed Zubair on X: "Same with my Instagram account. #MetaCensorsIndia https://t.co/uo8ntMYgjP" / X](https://x.com/zoo_bear/status/2085344040137142502)

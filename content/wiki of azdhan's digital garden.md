@@ -16,6 +16,8 @@
 - [[darkweb and the inside deep internet]]
 - 
 
+## disagreeing series 
+- [[judgements where i disagreed with and why]]
 
 
 - [[political philosophy and the history]]
