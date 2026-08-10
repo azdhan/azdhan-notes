@@ -56,7 +56,7 @@
 	- comments  --[ shashi tharoor](https://x.com/jaypanicker/status/2057868878706085992?s=20)  | [EGI](https://x.com/janusmyth/status/2058523561644695987?s=20) |  
 
 # April 2026
-[[content take downs by indian government in april 2026 with pics ]]
+
 - https://x.com/khanumarfa/status/2041446260193071384?s=20
 - https://x.com/ROHITYADAV93052/status/2040696638273192080?s=20 
 - PVR screen quality - [URL](https://x.com/_mrchaturvedi/status/2041166357728018557?s=20 )-  removed [PIC](https://ibb.co/sd7skbz6)  parth's [comment](https://x.com/_mrchaturvedi/status/2041449498548060403?s=20)
