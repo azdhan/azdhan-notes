@@ -24,6 +24,7 @@
 ## Transcribing tools 
 - [Vibe]([Vibe.](https://thewh1teagle.github.io/vibe/)) does stuff on device 
 - Turboscribe - can transcribe 90 minutes per day (30 Mins x 3 files)
+	- 60 min/day; 5 files/day -- [link](https://freetotranscribe.com)
 	- use this in combo with this [split-video]([Split Video Online - Split video in a browser(Free & Secure)](https://split-video.com/)) tool to split the longer files. 
 	- at MediaNama, we use HappyScribe. nothing to say bad about it specifically. it works.
 - [NoteGPT](https://notegpt.io/youtube-subtitle-downloader): generates YouTube subtitles/transcript 

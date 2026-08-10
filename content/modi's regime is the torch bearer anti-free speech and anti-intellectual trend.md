@@ -1,4 +1,5 @@
 [[censorship on Indian media and internet]] 
+- [[arrested for having books]]
 - journalists [gagged](https://www.inventiva.co.in/stories/saga-of-journalists-gagged-by-adani/) by adani
 - reporters covering j&k were [called](https://x.com/tallstories/status/2013235320771473565?s=20) in to police by delhi police
 - umar khalid [and](https://thewire.in/law/delhi-high-court-bail-denied-gulfisha-fatima-sharjeel-imam) nine others is still in jail for [this](https://x.com/RahulSeeker/status/1963279939631022298) speech where he spoke about gandhi and peace. 
