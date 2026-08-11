@@ -1,6 +1,7 @@
 
 
 ## aug 2026 
+- First time seeing this. "It's in violation of X's rules, but we've deemed it to have public interest, so it will continue to be displayed." -- [LInk](https://x.com/6yhsdsiswmcd/status/2086885117281063034?s=20) | [Screenshot](https://ibb.co/zH81Jxqw)
 - [Saket Gokhale on X: "The cowardly Modi-Shah Govt has directed X to withhold my post. What was it? It was a screenshot from a video posted by the BJP. This is beyond the worst kind of censorship. This nonsense of taking down posts without ANY violation of the law needs to stop. I’m coming for https://t.co/8R2aZyPNes" / X](https://x.com/SaketGokhale/status/2085727745779073349)
     
 - [Ashutosh Ranka on X: "So Meta has restricted 4 of my videos in India. One video showed how police was stopping food from reaching Jantar Mantar. The other was made when @Wangchuk66 was forcefully picked up. @Meta - I know this govt fears us, but last I checked, you were still preaching about free https://t.co/8wzVzxRr6r" / X](https://x.com/AshutoshRanka/status/2085734652892139699)
