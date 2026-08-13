@@ -6,24 +6,25 @@
 
 [10 cases that show India’s deepfake rules are not being enforced](https://www.medianama.com/2026/06/223-10-instances-india-deepfake-rules-enforcement-failures/)
 
-1. [Oppressor on X: "NDTV News aired edited and AI-generated videos to defame the student protesters. https://t.co/pd20oDp0Wn" / X](https://x.com/TyrantOppressor/status/2079499762345328899)
-2. [Desi Faces, Foreign Servers: Inside the AI Economy Undressing Women](https://www.decodeinternet.in/life/investigation/desi-faces-foreign-servers-inside-the-ai-economy-undressing-women-31691) 
-3. actor vijay's hologram was [used](https://x.com/Vasudha156/status/2043518387121512734?s=20) in political rallies, something [similar](https://www.medianama.com/2025/10/223-eci-bans-ai-deepfakes-guidelines-bihar-assembly-elections-2025/) happened in TN politics also happened - dead DMK or jayalalitha was brought in alive during a political rally. Narendra Modi used this technique very very loong ago. in 2014 ig
-4. prabhas and anushka AI series [teaser](https://youtu.be/yfyYnkT7vX8?si=RILoBKGGGwoiRrX3)
-5. how BJP is [using](https://x.com/NewsLabIndia/status/2039248783662522728?s=20) AI against muslims + MeitY vaishnaw [said](https://x.com/AroonDeep/status/2038834171460874631) that deepfake videos are behind the takedowns. 
-6. HCL Tech CEO [says](https://x.com/mikejava85/status/2019431632441339938) that they met with Delhi LG, which LG denies (seems like AI)
-7. India Today is [using](https://youtu.be/8ZHoTM2ulZE?si=GG3tnuehKev0r5pF) AI generated images of Modi and rajnath singh with labels. 
-8. Grok deepfaking women in bikinis and govt asked for it to submit action taken report after the extended the date, govt says its detailed but inadequete. 
+1. Nirmala Seetharam - [One](https://x.com/PIBFactCheck/status/2087543256066433390?s=20) | 
+2. [Oppressor on X: "NDTV News aired edited and AI-generated videos to defame the student protesters. https://t.co/pd20oDp0Wn" / X](https://x.com/TyrantOppressor/status/2079499762345328899)
+3. [Desi Faces, Foreign Servers: Inside the AI Economy Undressing Women](https://www.decodeinternet.in/life/investigation/desi-faces-foreign-servers-inside-the-ai-economy-undressing-women-31691) 
+4. actor vijay's hologram was [used](https://x.com/Vasudha156/status/2043518387121512734?s=20) in political rallies, something [similar](https://www.medianama.com/2025/10/223-eci-bans-ai-deepfakes-guidelines-bihar-assembly-elections-2025/) happened in TN politics also happened - dead DMK or jayalalitha was brought in alive during a political rally. Narendra Modi used this technique very very loong ago. in 2014 ig
+5. prabhas and anushka AI series [teaser](https://youtu.be/yfyYnkT7vX8?si=RILoBKGGGwoiRrX3)
+6. how BJP is [using](https://x.com/NewsLabIndia/status/2039248783662522728?s=20) AI against muslims + MeitY vaishnaw [said](https://x.com/AroonDeep/status/2038834171460874631) that deepfake videos are behind the takedowns. 
+7. HCL Tech CEO [says](https://x.com/mikejava85/status/2019431632441339938) that they met with Delhi LG, which LG denies (seems like AI)
+8. India Today is [using](https://youtu.be/8ZHoTM2ulZE?si=GG3tnuehKev0r5pF) AI generated images of Modi and rajnath singh with labels. 
+9. Grok deepfaking women in bikinis and govt asked for it to submit action taken report after the extended the date, govt says its detailed but inadequete. 
 	1.  just 11 days after Musk's post, Grok [sexualized](https://arstechnica.com/tech-policy/2026/01/asking-grok-to-delete-fake-nudes-may-force-victims-to-sue-in-musks-chosen-court/) more than 3 million images, of which 23,000 were of children
-9. pakistan uses deepfakes [against](https://www.perplexity.ai/discover/you/deepfake-videos-targeting-indi-fBhxZjiXS8Wlgn5rzEozjQ) indiam politicians
-10. people share the [prompts](https://x.com/i/status/2001833380082843919) to create the images of women but, what if the AI generates the original person? or, what does the rights/dignity of a person who doesnt exist?
-11.   Congress [claims](https://www.hindustantimes.com/india-news/smart-corruption-congress-claims-ai-images-used-to-bag-national-water-award-mp-administration-rejects-charge-101767064536322.html) AI images used to bag national water award; MP administration rejects charge
-12. [some](https://www.reddit.com/r/AI_India/s/dyrKEGjom4) deepfake AI model has become an influencer now
-13. greek ka finance minister's face and voice is being [used](https://x.com/yanisvaroufakis/status/2001240762592243795?s=20) on YT and he cant do anything about it. his [interview](https://x.com/i/status/2006063260416544873) on the same
-14. Actresses who spoke against AI deepfakes: [Nivetha Thomas](https://x.com/i_nivethathomas/status/2001270967860146378?s=20) when she [posted](https://x.com/i_nivethathomas/status/2000915489519005875?s=20) these beautiful [pics](https://x.com/OnlyHeroines/status/2001125980665229702?s=20).
-15. they fan-[made](https://x.com/i/status/1998600576465285325) F1 movie with tamil actors
-16. ARRESTS: Bihar man is [arrested](https://www.hindustantimes.com/india-news/bihar-man-held-for-creating-ai-deepfake-of-president-pm-cyber-case-registered-101767422289040-amp.html) for deepfaking modi and murmu and someone else from 2 years ago also got arrested for rashmika mandanna deefakes?
-17. politician chidambaram [fell](https://x.com/i/trending/2007122783503847825) for AI gen images
+10. pakistan uses deepfakes [against](https://www.perplexity.ai/discover/you/deepfake-videos-targeting-indi-fBhxZjiXS8Wlgn5rzEozjQ) indiam politicians
+11. people share the [prompts](https://x.com/i/status/2001833380082843919) to create the images of women but, what if the AI generates the original person? or, what does the rights/dignity of a person who doesnt exist?
+12.   Congress [claims](https://www.hindustantimes.com/india-news/smart-corruption-congress-claims-ai-images-used-to-bag-national-water-award-mp-administration-rejects-charge-101767064536322.html) AI images used to bag national water award; MP administration rejects charge
+13. [some](https://www.reddit.com/r/AI_India/s/dyrKEGjom4) deepfake AI model has become an influencer now
+14. greek ka finance minister's face and voice is being [used](https://x.com/yanisvaroufakis/status/2001240762592243795?s=20) on YT and he cant do anything about it. his [interview](https://x.com/i/status/2006063260416544873) on the same
+15. Actresses who spoke against AI deepfakes: [Nivetha Thomas](https://x.com/i_nivethathomas/status/2001270967860146378?s=20) when she [posted](https://x.com/i_nivethathomas/status/2000915489519005875?s=20) these beautiful [pics](https://x.com/OnlyHeroines/status/2001125980665229702?s=20).
+16. they fan-[made](https://x.com/i/status/1998600576465285325) F1 movie with tamil actors
+17. ARRESTS: Bihar man is [arrested](https://www.hindustantimes.com/india-news/bihar-man-held-for-creating-ai-deepfake-of-president-pm-cyber-case-registered-101767422289040-amp.html) for deepfaking modi and murmu and someone else from 2 years ago also got arrested for rashmika mandanna deefakes?
+18. politician chidambaram [fell](https://x.com/i/trending/2007122783503847825) for AI gen images
 
 # interesting stuff 
 1. one minute[ short film](https://x.com/bymaximise/status/2019822220407894360?s=20) on AI and deepfake trust. 
