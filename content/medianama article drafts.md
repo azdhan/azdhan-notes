@@ -1,16 +1,18 @@
-## august 2026 
-1. [[explaining parag kar's video on TRAI consultation paper on network strength in 5g network slicing]]
-2. [[tamil nadu petrol bunks deny to accept UPI payments]]
-3. [[meity's GAC ordered dhruv rathe's video to be blocked in india]]
-4. [[claude puts watermarks and C2PA for media]]
-5. [[Delhi Police standardises guidelines for internet activity monitoring]]
-6. [[sahyog portal and the supreme court - hearing 1]]
-7. [[BJP MP to introduce a bill seeking social media ban without parental consent for children]]
-8. [[banker book of records amendments]]
-9. [[bank of baroda 1TB data breach]]
-10. [[bomaby hc ordred the takedown of nitn gadkari's deepfake videos]]
-11. [[how saregama is using genAI for vingate music production]] 
-12. [[when whatsapp asking for age declarations in india]]
+
+1. [[how scammers are exploiting meta copyright management systems]]
+2. [[road ministry says no tipping prompt for ride aggregators]]
+3. [[explaining parag kar's video on TRAI consultation paper on network strength in 5g network slicing]]
+4. [[tamil nadu petrol bunks deny to accept UPI payments]]
+5. [[meity's GAC ordered dhruv rathe's video to be blocked in india]]
+6. [[claude puts watermarks and C2PA for media]]
+7. [[Delhi Police standardises guidelines for internet activity monitoring]]
+8. [[sahyog portal and the supreme court - hearing 1]]
+9. [[BJP MP to introduce a bill seeking social media ban without parental consent for children]]
+10. [[banker book of records amendments]]
+11. [[bank of baroda 1TB data breach]]
+12. [[bomaby hc ordred the takedown of nitn gadkari's deepfake videos]]
+13. [[how saregama is using genAI for vingate music production]] 
+14. [[when whatsapp asking for age declarations in india]]
 
 
 ## july 2026
