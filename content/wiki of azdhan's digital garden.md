@@ -8,6 +8,7 @@
 - [[understanding india's fintech and UPI]]
 - [[how spam works in india]]
 - [[sahyog portal and everything about it]]
+- [[ott and media policy in india]]
 
 ## everything series 
 1. [[everything about modi]]

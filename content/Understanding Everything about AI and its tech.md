@@ -42,6 +42,7 @@
 - [A Philosophy of Software Design](https://www.amazon.in/A-Philosophy-of-Software-Design/dp/1732102201) - referred by andrej karparthy in one youtube speech.
 - [AI Book Club](https://www.aitechprivacy.com/ai-book-club) | [list of 39 AI books](https://x.com/LuizaJarovsky/status/2087282988295860557/photo/1)
 - YT [channels](https://x.com/ihtesham2005/status/2026086425561645489) 
+- [Deep Unlearning | Book by Timnit Gebru | Official Publisher Page | Simon & Schuster](https://www.simonandschuster.com/books/Deep-Unlearning/Timnit-Gebru/9781668093078) 
 
 ## substack accounts to follow: 
 1. Reasoned by Nikhil Pahwa

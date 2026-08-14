@@ -1,22 +1,25 @@
+**# ‘Personality rights is acquiring amoebic proportions,’ says Delhi HC in Aaradhya Bachchan case
 
-#technology/AI 
+"The concept of personality rights is acquiring amoebic proportions. Everything is personality rights. But whose personality rights?" asked Justice Anup Jairam Bhambhani of Delhi HC. He made this remark while hearing 14-year-old Aaradhya Bachchan's personality rights case, filed through her father Abhishek Bachchan in 2023. [Bar and Bench](https://www.barandbench.com/news/litigation/how-far-does-reputation-of-a-famous-family-name-extend-delhi-hc-asks-in-aaradhya-bachchan-case) reported this case first.
 
+Some background: Bachchan's lawsuit aims to stop various YouTube channels and unnamed defendants (John Doe) from publishing content that harms the Bachchan family's reputation, including publishing private information, or is defamatory content. The lawsuit cites videos falsely claiming Aaradhya was seriously ill, hospitalized, or even deceased, and alleged the Bachchans failed to provide her with timely medical care. 
 
-# Arguments
-##  celebrities are cultural products as part of cultural grammar, so personality rights should be exempted?
-- you cant shut free speech just because they use their personality rights. - [madras](https://www.barandbench.com/news/litigation/no-takedown-of-social-media-posts-without-establishing-commercial-exploitation-of-personality-rights-madras-high-court) HC [order](https://images.assettype.com/barandbench/2026-01-08/73x4i1fr/Rangaraj_Vs_Joy_Crizildaa.pdf) 
-- because the content is already in the public domain. so the consumers have the right to impersonate or adapt or make content based on the content they have created.
-	- moreover, the celebs earn money because of their public presence, can they even [claim](https://www.medianama.com/2024/11/223-right-to-publicity-gen-ai-personality-rights/) privacy selectively? 
-- they (top-down) can't have the cultural monopoly of shaping the culture. 
-- another arguement is that they acquire the fame though the luck and accidents and unreasonable attention from the masses. so, do THEY deserve the exclusive rights to their fame?
-	- shouldn't the rajini fan (who aided in making rajni into THE superstar rajni) have the right to stylise himself as rajini?
-- celebs crave and strive on attention and when the attention is not monetarily benefitting them and if the content is not approved by them (read critical)
-- the case against commoners using/misusing personality rights are no longer valid the moment they start monetising the "privacy." thast's why a[ lot of celebrities](https://www.medianama.com/2025/09/223-karan-johar-aishwarya-abhishek-personality-rights-delhi-hc/) are going to courts to protect their personality rights  
-- 
+According to the Bar and Bench's reporting of court proceedings, Justice Bhambhani has raised the following questions: 
 
+- "If a family name is akin to having a reputation attached to a trademark, how far down the generations does such reputation of family name [inure](https://www.merriam-webster.com/dictionary/inure)?"
+    
+- "Does fake news, even if of egregiously despicable nature, amount to an intellectual property (IP) rights violation? If yes, then what kind of IP right is violated?"
+    
+- "Can the jurisprudential concept of defamation (slander and libel) or any other form of injury to reputation be conflated with the recognised concept of intellectual property rights?"
+    
 
-# people who have claimed personality rights in courts: 
+"These are the general questions in my mind. This is not exhaustive," clarified Justice Bhambani. 
 
+"Reputation is not only in a trademark. Passing off law protects much wider than trademarks. The whole family's pictures are used, words are used to give an impression that this young girl has died and has cancer. Both fake, causing so much of harm. Using the name Bachchan and pictures of the family. Abhishek Bachchan is also a party to the matter." – Justice Anup Jairam Bhambhani (Delhi HC)
+
+In February 2025, in the same Aaradhya 's case, Delhi HC  [issued](https://www.medianama.com/2025/02/223-aaradhya-bachchan-case-health-misinformation-online-harms/) notices to multiple YouTube channels, and websites for circulating false information about Aaradhya's health status. According to then ANI's reporting, some websites and YouTube channels posted videos claiming that Bachchan was critically ill or had died. These videos included morphed photographs, such as one showing her surrounded by wreaths. At the time, the court had issued notices to the platforms spreading this misinformation. 
+
+---
 
 A brief updated list of Indian celebrities who claimed personality rights: 
 
@@ -143,27 +146,10 @@ November 2022:
 - Amitabh Bachchan, Hindi actor — [[Read](https://www.medianama.com/2022/11/223-why-did-the-delhi-high-court-restrict-use-of-amitabh-bachchans-image-and-voice/)]
     
 
-**
+  
 
+Also Read: 
 
-1. a list is [here](https://www.medianama.com/2026/05/223-fake-allu-arjun-ai-chatbots-live-delhi-hc-personality-rights/) 
-2. sadhguru
-3. sri sri ravi shankar 
-4. jackie shorff 
-5. anil kapoor 
-6. rajat sharma 
-7. arjit singh 
-8. abhishek and aishwarya bachchan 
-9. mohan babu 
-10. karan johar 
-11. [chiranjeevi](https://x.com/idlebrainjeevi/status/1982050077062357065?t=_QV5mYnDCMEox3KxTMk1HA&s=19)
-12. sonu nigam 
-13. nagarjuna 
-14. [ ajay devgan ](https://www.livelaw.in/high-court/delhi-high-court/ajay-devgn-personality-rights-protected-take-down-obscene-content-311389)
-15. ilayaraja
-16. raj shamani 
-17. [physicswallah](https://www.livelaw.in/high-court/delhi-high-court/physics-wallah-personality-rights-protection-alakh-pandey-544223) alok [pandey](https://www.barandbench.com/news/delhi-high-court-orders-takedown-of-derogatory-content-on-physicswallah-founder-alakh-pandey)
-18. yuvraj [singh](https://dailypioneer.com/news/delhi-hc-protects-personality-rights-of-cricketer-yuvraj-singh)
-
-
-19. 
+- [Delhi HC refuses blanket takedown of fan pages in Janhvi, Khushi Kapoor personality rights suits](https://www.medianama.com/2026/08/223-delhi-hc-personality-rights-janhvi-khushi-kapoor/)
+    
+- [Delhi HC issues notice on false YT videos about Aaradhya Bachchan](https://www.medianama.com/2025/02/223-aaradhya-bachchan-case-health-misinformation-online-harms/)**

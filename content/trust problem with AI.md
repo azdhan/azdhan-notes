@@ -15,6 +15,9 @@
 2. when asked YT-gemini asst to give answers about the [investments](https://ibb.co/k6ksh7yk) of sam altman-- which the [video](https://www.youtube.com/watch?v=l0K4XPu3Qhg&list=TLPQMjAxMjIwMjVaJc4eE384tg&index=3&pp=gAQBiAQBsAgC) was talking about. 
 3. when asked about when i [asked](https://ibb.co/nTdX7TT) about the question on what did he spoke about martin luther in the video where the topic is about the human behaviour behind the religiousity. 
 
+# prompt injections: 
+[Jason Koebler on X: "A person representing themselves in court hid a prompt injection attack in a filing asking an AI system to side with them. Really good stuff here https://t.co/P5p7oj5DD0" / X](https://x.com/jason_koebler/status/2087969892611899418) 
+
 ## trust problem with companies that use kill switch 
 1. a robot vaccum cleaner stopped working and a person who digged deep into this [learnt](https://x.com/thatindicmonk/status/2004425607426593004?s=20) that there was a kill code in the log files that the company remotely ran. this is similar to iphone incident that deliberately slowed down the older phones and drained their batteries. 
 fjbfjn

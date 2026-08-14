@@ -76,3 +76,9 @@ RBI statement after breach, not related to BoB directly: [RBI governor says IT s
 
 ## not to be reported: 
 [Whodunnit — BoB Breach: 15 Likely Scenarios | CashlessConsumer](https://bobbreach.cashlessconsumer.in/pages/whodunnit.html) -- [archived](https://web.archive.org/web/20260806045547/https://bobbreach.cashlessconsumer.in/pages/whodunnit.html)
+
+
+[Bob / Reveals / Cyber Insurance Moral Hazard — CashlessConsumer — Fintech, DPI & Civic-Tech Research](https://cashlessconsumer.zo.space/bob/reveals/cyber-insurance-moral-hazard) 
+
+
+https://www.dexpose.io/global-secret-group-targets-hinduja-tech-in-major-ransomware-attack 
