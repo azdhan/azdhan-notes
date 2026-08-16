@@ -2,7 +2,9 @@
 
 "Civilization advances by extending the number of important operations which we can perform without thinking about them." -- Alfred North Whitehead - on [x](https://x.com/krishnanrohit/status/2083967010246169036?s=20)
 
+## india / history / politics 
 
+1. 'Only industrialisation can give millions of people in India the opportunity to rise above the "life ofa brute".' —B.R. Ambedkar 
 
 ## business and leadership 
  "When a management with a reputation for brilliance tackles a business with a reputation for bad economics, it is the reputation of the business that remains intact." --warren buffet (from book intelligent investor and also quoted in [[reading aadhaar effect; notes and references]])
@@ -10,10 +12,10 @@
 What this might [mean](https://www.reddit.com/r/StockMarket/comments/8thomy/comment/e17j8g7/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button) is that some business (like govt) have complex and broken systems, even a good leadership cant fix it. 
 
 
-CRITICISM & ART
+# CRITICISM & ART
 1. the critic’s symbol should be the tumble-bug: he deposits his egg in somebody else’s dung, otherwise he could not hatch it. - [mark twain](https://www.themarginalian.org/2013/03/04/criticism/)
 
-CENSORSHIP & FREEDOM OF EXPRESSION: 
+# CENSORSHIP & FREEDOM OF EXPRESSION: 
 1. in india internet is not a space to express your art, it is a platform to increase the highscore in your bank account - samay raina \ [YT](https://youtu.be/LhpZJwUboeI?si=X6WALn0jau5-Z_f6&t=740)
 2. A just/ discriminating censorship is impossible - [SUSAN SANTOG](https://www.themarginalian.org/2012/06/26/susan-sontag-on-censorship/)
 3. Do not fear to be eccentric in opinion, for every opinion now accepted was once eccentric. - [bertand russel](https://www.themarginalian.org/2012/05/02/a-liberal-decalogue-bertrand-russell/)
