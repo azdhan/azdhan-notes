@@ -4,7 +4,7 @@
 
 # active right now
 
-
+- https://cpjorg.bamboohr.com/careers/104?source=aWQ9NDM%3D 
 
 1. [ ] **Netflix** – [NextGen India Writers' Program](https://nextgen.netflix.net/en-in) for aspiring screenwriters.  
 2. [ ] **The Caravan** – [Assistant Editor](https://caravanmagazine.in/pages/assistant-editor-2026) role in Delhi (full-time, deadline 25 July 2026).  
