@@ -11,7 +11,7 @@ Indian companies:
 - [Eros International](https://erosmediaworld.com/investor-relations-eros/) -- Not being updated
 - [Balaji Telefilms Limited : Television, Motion Pictures](https://www.balajitelefilms.com/quarterly-report.php) 
 
-prompt to identify stories:
+prompt to identify stories: 
 
 # Earnings Call Transcript Analyzer — MediaNama
 
@@ -94,3 +94,22 @@ Every time you reference a statement, quote, or claim from the transcript, you *
 > — [Speaker Full Name], [Designation / Title]
 
 Do not paraphrase without attribution. Do not use "Management" or "Company" as the speaker name.
+
+
+# aug 2026 
+
+1. TIPS - [pdf](https://www.tips.in/investors-presentation)
+    
+2. balaji telefilms [YT](https://www.youtube.com/watch?v=FlOtf6u5c8s)
+    
+3. HT media earnings calll [pdf](https://www.htmedia.in/wp-content/uploads/2026/08/HT-Media-Group-Q1FY27-Transcript.pdf)
+    
+4. **Zee media --** **[YT call](https://www.youtube.com/watch?v=Zk2d4rnULMA)** [](https://www.youtube.com/watch?v=Zk2d4rnULMA)
+    
+5. spotify -- [pdf](https://s29.q4cdn.com/175625835/files/doc_financials/2026/q2/Q2-26-Earnings-Call-Prepared-Remarks.pdf)
+    
+6. Reddit -- [pdf](https://s203.q4cdn.com/380862485/files/doc_financials/2026/q2/Reddit-Q2-26-Earnings-Call_Transcript.pdf)
+    
+7. [UNIVERSAL MUSIC GROUP B.V. (UMG.VI) Q2 FY2026 earnings call transcript](https://finance.yahoo.com/quote/UMG.VI/earnings/UMG.VI-Q2-2026-earnings_call-638465.html?guccounter=1)
+    
+8. shemaro earnings [pdf](https://www.shemarooent.com/uploads/pdf/conference_call_transcript_pdf/june2026concalltranscript.pdf) -- DONE
