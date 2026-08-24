@@ -29,6 +29,7 @@ Some of the instances when India's Critical infrastructure was cyber-attacked:
 
 
 
+
 Also read: 
 - [Kudankulam Nuclear Data Leaked On Dark Web: What We Found](https://www.medianama.com/2026/07/223-reliance-data-breach-kudankulam-files-dark-web/)
 - [Ten things wrong with India's cybersecurity system: what the experts say](https://www.medianama.com/2026/07/223-india-cybersecurity-problems/)
