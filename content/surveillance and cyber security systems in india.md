@@ -17,3 +17,8 @@ what is netra?
 
 
 [[using US tech is not safe]] 
+
+
+## webinars and lectures on surveillance in india
+
+[[State surveillance of student protests]]
