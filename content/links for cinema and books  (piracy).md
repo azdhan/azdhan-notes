@@ -19,4 +19,7 @@
 - [TeraBox - Free Cloud Storage Up To 1 TB, Send Large Files Online](https://dm.1024terabox.com/main?category=all) 
 - [MEGA ](https://mega.nz/fm/K4I2TBAI) 
 - [Mega Personal book library](https://drive.google.com/drive/folders/1-ZcBBnIsflC270UgXWhiPn0ge2-3gUPy)
-- 
+
+
+# websites: 
+- a [list](https://x.com/PiracyCentral/status/2094453011196108949?s=20) from x 

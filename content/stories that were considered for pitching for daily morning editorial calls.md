@@ -1,36 +1,183 @@
  #philosphy/life/work/medianama
 
+# september 2026 
+
+
 ## august 2026
 
-2. Effective April 10, 2026, the National Highways Authority of India (NHAI) officially stopped accepting cash at all National Highway fee plazas nationwide. Toll payments must now be made digitally through FASTag as the primary mode or via the Unified Payments Interface (UPI) as a fallback option
+1. [StratCom | NATO Strategic Communications Centre of Excellence Riga, Latvia](https://stratcomcoe.org/publications/social-media-manipulation-20212022-assessing-the-ability-of-social-media-companies-to-combat-platform-manipulation/242)
     
-3. YouTube [terminates](https://x.com/parthpunter/status/2083991023471198692?s=20) Delhi slum-dweller's page following overnight success, social media protests
+2. State surveillance of student protests @ Fri Aug 28, 2026 6:30pm
     
-4. The Azad Kashmir, the nominally self-governing political territory administered by Pakistan.  has remained under curfew and a complete [internet blackout](https://x.com/DropSiteNews/status/2084061985126121701?s=20) since June 5, 2026. Food and medicine have been blocked from entering, while grocery stores have been prohibited from opening. Announcements broadcast from local mosque loudspeakers warn that anyone violating the curfew, including women and children, will be shot.
+    1. Usha Ramanathan, Independent Legal Researcher
+        
+        Apar Gupta, IFF
+        
+        Aditi Aggarwal, Journalist
+        
+        Srinivas Kodali, Cybersecurity Researcher
+        
+3. **[A call for collective action on cyber defense | OpenAI](https://openai.com/collective-cyberdefense/)**
     
-5. [Srinivas Kodali on X: "The Delhi Police and Ministry of Home Affairs actually uses electoral rolls as a source for #facialrecognition. This violates purpose limitation test of fundamental right to privacy. https://t.co/MJrfP3RkmG https://t.co/cAaUs0U1Np" / X](https://x.com/digitaldutta/status/2082409283782861039)
+4. Every time you open an app, your phone reveals more than you might think. Even with HTTPS, the domain name you're connecting to is visible to your ISP, your WiFi network, and anyone else watching - [tweet](https://x.com/Jigsaw/status/2092990118848078042?s=20) 
+    
+5. Australia gov: Opportunities for AI in cyber [defence](https://www.cyber.gov.au/business-government/secure-design/artificial-intelligence/opportunities-for-ai-in-cyber-defence) Use of AI by cyber security teams
+    
+6. **Team #Toxic For the Legal Notice on** **[My](https://x.com/dhanyarajendran/status/2092921699717300690?s=20)** **Review.** **[notice](https://drive.google.com/file/d/1mFpFUVYLHeTaWCVrfdG-c7xRH7BcjthF/view)**
+    
+7. FBI, US-NSA issues [advisory](https://x.com/FBICyberDiv/status/2092703916362223742) against alleged chinese thereat group, claims hacking since 2018 in US critical infra  [ DOJ [press release](https://www.justice.gov/opa/pr/justice-department-and-fbi-seize-platforms-operated-and-used-china-state-sponsored-hackers)
+    
+8. Approved [List](https://mnre.gov.in/en/document/1wind-turbine-models-included-in-the-rlmm-i-e-renamed-as-approved-list-of-models-and-manufacturer-almm-wind-as-per-amendment-to-rlmm-procedure-dated-31-07-2025-as-on-03-03-2026/) of Models and Maufacturers ( ALMM-Wind) | [PIB?  |](https://www.pib.gov.in/PressReleasePage.aspx?PRID=2149442&reg=3&lang=2) [Cyril](https://corporate.cyrilamarchandblogs.com/2025/08/winds-of-change-mnre-prioritises-quality-and-security-with-new-almm-rules/)
+    
+9. [Flock’s CEO Is Lying to Cops About 404 Media's Reporting on Abortion Case](https://www.404media.co/flocks-ceo-is-lying-to-cops-about-404-medias-reporting-on-abortion-case/)  
+    MIB [Organises](https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2303224&reg=48&lang=1) National Conference with States/UTs I&PR Secretaries to Strengthen Centre-State Coordination
+    
+    **[Vodafone Idea, BSNL Formalise Infrastructure Sharing](https://telecomtalk.info/vodafone-idea-bsnl-formalise-infrastructure-sharing/1011222/)**
+    
+10. [Slovak government proposes banning social networks until age of 16 | Reuters](https://www.reuters.com/technology/slovak-government-proposes-banning-social-networks-until-age-16-2026-08-26/?taid=6a8f0fecda5a71000128975f)
+    
+11. [AI Content Is Everywhere on Social Media, Especially LinkedIn | Pangram](https://www.pangram.com/blog/ai-in-your-feed)
+    
+12. [Iran-linked hackers behind cyber attack that shut down power plant, reports say](https://www.bbc.com/news/articles/ce9793g34yvo)
+    
+13. [IHC moved to regulate social media use by children - Pakistan - DAWN.COM](https://www.dawn.com/news/2024659)
+    
+14. RTI -- [Participants at MeitY child safety consultation call for regulation beyond content takedowns - The Economic Times](https://economictimes.indiatimes.com/tech/technology/participants-at-meity-child-safety-consultation-call-for-regulation-beyond-content-takedowns/articleshow/133387403.cms?giftid=1w4w20hdl2ce7tkun5me1unh9cbv0vu6&from=mdr)
+    
+    1. [Banning social media for children a policy decision: Delhi High Court asks Centre to examine PIL](https://www.barandbench.com/news/banning-social-media-for-children-a-policy-decision-delhi-high-court-asks-centre-to-examine-pil)
+        
+15. CCPA imposes ₹5 lakh [penalty](https://images.assettype.com/barandbench/2026-08-21/i1cyd2rf/Flipkart_CCPA_order.pdf) on Flipkart for sale of non-BIS-compliant toys
+    
+16. Rajasthan HC lays down [rules](https://images.assettype.com/barandbench/2026-08-22/ev6q7od0/Balaji_Enterprises_Vs_RBI.pdf) against indefinite bank account freezing; calls it arbitrary state action
+    
+17. [Office of Public Affairs | Justice Department Secures $400M Settlement with TikTok and ByteDance to Resolve Children’s Privacy Litigation | United States Department of Justice](https://www.justice.gov/opa/pr/justice-department-secures-400m-settlement-tiktok-and-bytedance-resolve-childrens-privacy)
+    
+18. [Delhi HC moots de-registration of ISPs for failing to remove porn material on Jaya Bachchan](https://www.barandbench.com/news/delhi-hc-moots-de-registration-of-isps-for-failing-to-remove-porn-material-on-jaya-bachchan)
+    
+19. Jio hotstar [removed](https://www.reddit.com/r/Piracy/s/mbC3a79MVg) malayalam [premalu](https://www.hotstar.com/in/movies/premalu/1271295279?utm_source=gwa) movie ahead its hindi remake release. Could be non renewal of contracts might be a reason. Or maybe not 🤷 (its telugu dub is still on aha btw). Earlier: [helen](https://www.reddit.com/r/MalayalamMovies/comments/y24kx7/whats_up_with_original_content_being_removed_from/)
+    
+20. Acharya Balkrishna [invoked](https://x.com/bansalavani/status/2090023033499234485) persoonality rights to takedown leaflet's reporting
+    
+21. [Rahul Shivshankar on X: "DOES GEN-Z "LIKE" YOU? MODI SETS NEW KRA FOR CABINET "Not just votes for your work. In the age of Instagram, X and Facebook, your digital connect matters too." Top government sources tell @payalmehta100 the overall social media performance ranking of Union ministers was shared" / X](https://x.com/RShivshankar/status/2090054321400602702)
+    
+22. US FTC seeks [comments](https://www.ftc.gov/news-events/news/press-releases/2026/08/ftc-seeks-comment-enforcement-policy-statement-regarding-personalized-pricing?utm_campaign=ftc_seeks_comment_on_enfo&utm_content=1787157716&utm_medium=social&utm_source=facebook,instagram,linkedin,twitter) on the new [policy](https://www.ftc.gov/system/files/ftc_gov/pdf/p034101-ftc-enforcement-policy-statement-re-personalized-pricing-proposed-for-public-comment.pdf) statement regarding personalised pricing 
+    
+23. meity is hirśing for director general for CERT-In
+    
+24. egazzette notiofcations: [delhi-1, delhi (2)](https://egazette.gov.in/\(S\(yxywnbgd44pbx5r4bltkp1q5\)\)/ViewPDF.aspx), [jaipur](https://egazette.gov.in/\(S\(yxywnbgd44pbx5r4bltkp1q5\)\)/ViewPDF.aspx), [mumbai](https://egazette.gov.in/\(S\(yxywnbgd44pbx5r4bltkp1q5\)\)/ViewPDF.aspx), [kolkata](https://egazette.gov.in/\(S\(yxywnbgd44pbx5r4bltkp1q5\)\)/ViewPDF.aspx) and [goa](https://egazette.gov.in/\(S\(yxywnbgd44pbx5r4bltkp1q5\)\)/ViewPDF.aspx)
+    
+25. event on finfluencers - 
+    
+26. SEBI's caution against social media  ‘live trading strategies; past 30 days markets data shouldn't be used for advice/recommendations - [PDF](https://www.sebi.gov.in/media-and-notifications/press-releases/aug-2026/caution-to-investors-regarding-display-of-live-trading-strategies-on-social-media-platforms_103729.html)
+    
+27. [Supreme Court Directs Meta To Restore AAP Gujarat's Facebook, Instagram Pages](https://www.livelaw.in/top-stories/supreme-court-directs-meta-to-restore-aap-gujarats-facebook-instagram-pages-546088)
+    
+28. [Delhi High Court Directs Meta To Disclose Material Behind Disabling Stock Market Advisor's Instagram Account](https://www.livelaw.in/high-court/delhi-high-court/delhi-high-court-financial-analyst-account-disbaled-meta-546054)
+    
+29. RTIs QRP, terms of references and ask for the guidelines for the given to them.. any SOPs.. this stuff will be checked by the process and what is the process. 
+    
+30. The Ministry of Information and Broadcasting has directed every central ministry and department to constitute a QRT to detect fake content on social media in real time and counter misinformation within two hours of its origin, an official order said on Monday. -- [NIE](https://www.newindianexpress.com/india/2026/Jul/29/secretaries-told-to-check-fake-news-in-two-hours) | [BS](https://www.business-standard.com/india-news/govt-departments-form-qrts-to-counter-fake-misleading-social-media-content-126081600250_1.html)
+    
+31. Min-of-Power cyb sec rules 
+    
+32. ASK to [FB corp](https://www.barandbench.com/news/litigation/chandigarh-court-directs-meta-to-remove-ai-generated-video-of-punjab-mla-sukhpal-khaira) com - ask them whether the content was labeled and ai generated. 
+    
+33. [The DEF CON® Media Server - Archives of the conferences](https://media.defcon.org/DEF%20CON%2034/DEF%20CON%2034%20presentations/DEF%20CON%2034%20presentations/)
+    
+34. [Chris Wysopal on X: "This is a pretty big shift in U.S. cyber policy. The White House is setting up a program that would let private cybersecurity companies conduct government-authorized operations against foreign cybercriminal groups, including surveillance and disruption of their infrastructure." / X](https://x.com/WeldPond/status/2087713067517755464)
+    
+    1. [FBI Cyber Division on X: "Operation Riptide demonstrated the power of coordinated action, combining infrastructure disruption, financial targeting, arrests and extraditions, and intelligence sharing to impose costs on cybercriminals. Every action was driven by one objective: protecting the American https://t.co/0pwv9GNeTf" / X](https://x.com/FBICyberDiv/status/2087584957463953576)
+        
+35. Tesla on indian roads: https://x.com/IndianTechGuide/status/2087509513066746294?s=20 
+    
+36. [Secretly filmed, humiliated online: Makes smart glasses abuse-proof! — HateAid](https://hateaid.org/petition-smart-glasses-missbrauchssicher-machen/?mtm_campaign=smart-glasses-missbrauchssicher&mtm_kwd=instagram-wir-zeigen-meta-rayban-an&fbclid=PAcGRvZgJleHRuA2FlbQIxMQBzcnRjBmFwcF9pZA85MzY2MTk3NDMzOTI0NTkAAae3ZBluTHDxsA5132z2cZXuHeMvBTNsRoTNjRRwO8S9uABO4RW07Jt9Welztw_aem_jJp5acVBJrCHhlm9XNIpdw)
+    
+37. [road ministry asks to remove tipping prompts -- 1786532826_y7Cm8mbmmL.pdf](https://morth.gov.in/backend/documents/uploaded/1786532826_y7Cm8mbmmL.pdf)
+    
+38. **[Sarvam on X: "Announcing our partnership with the Government of Maharashtra. Sarvam has partnered](https://x.com/SarvamAI/status/2087533012091379715)** [with the Government of Maharashtra to bring Indus into the daily work of 2,500 officials across the state. Officials will use Indus to research policies and precedents, draft notes and replies," / X](https://x.com/SarvamAI/status/2087533012091379715)
+    
+39. [Wendy Davis on X: ".@Google, @Meta and @tiktok_us renew bid to halt California law banning algorithmic recommendations. Meta engineer says banning recommendations could make services "unrecognizable." prior: https://t.co/czr3DjN0WD https://t.co/OiFGP3innW" / X](https://x.com/wendyndavis/status/2087244839091867683)
+    
+40. [Can social media platforms suspend accounts based on copyright strikes? Delhi High Court to examine](https://www.barandbench.com/news/can-social-media-platforms-suspend-accounts-based-on-copyright-strikes-delhi-high-court-to-examine)
+    
+    1. [Why are scammers getting Meta’s copyright protection tool but not creators? Delhi High Court asks](https://www.barandbench.com/news/litigation/why-are-scammers-getting-metas-copyright-protection-tool-but-not-creators-delhi-high-court-asks)
+        
+41. review, slides and questions. 
+    
+42. flow of the talk and discussion.   
+    check if the 
+    
+43. cloudfalre kitesurf 
+    
+44. [Delhi Police get 5-step workflow, guide on how to analyse internet activity amid 'spike in IDPR analysis' | Latest News Delhi](https://www.hindustantimes.com/cities/delhi-news/delhi-police-get-5-step-workflow-guide-on-how-to-analyse-internet-activity-amid-spike-in-idpr-analysis-101786297869930.html)
+    
+45. SC stayed all the pending hearings in related to sahyog portal hearing on [aug10](https://api.sci.gov.in/jonew/cl/2026-08-10/M_J_1.pdf)
+    
+46. [Internet Archive to New York: Don’t Kill the Good Bots in the Fight Against Bad Bots | Internet Archive Blogs](https://blog.archive.org/2026/08/04/internet-archive-to-new-york-dont-kill-the-good-bots-in-the-fight-against-bad-bots/)
+    
+47. [Chandra R. Srikanth on X: "Anthropic delegation meets Karnataka CM; state proposes opening govt datasets to develop AI-powered public solutions https://t.co/ooZLfgFg2b" / X](https://x.com/chandrarsrikant/status/2085301905820123434)
+    
+    1. proposed securely opening government datasets to enable development of AI-powered public solutions while ensuring data residency and sovereignty, as it explores a long-term partnership with AI startup Anthropic.
+        
+48. [Aseem Manchanda on X: "META officials to give presentation on technical aspects of algorithms,deepfake and automatic handling of complaints. Details Here." / X](https://x.com/aseemmanchanda/status/2085341534199898598)
+    
+    1. [ANI on X: "Meta’s global team will remain in India for a few more days. Three to four additional meetings are expected to take place. The upcoming round of discussions will also cover issues related to WhatsApp. The central agenda of these meetings is to assess whether Meta’s platforms are" / X](https://x.com/ANI/status/2085329964279517337)
+        
+    2. [ANI on X: "#WATCH | Delhi: On Meta CEO Mark Zuckerberg's apology over the temporary removal of PM Modi's video, Cyber expert Pavan Duggal says, "If you commit an offense and you say sorry, is that enough? The answer is a crystal-clear no… I don't think sorry would work in the Indian https://t.co/9fAd9NTpII" / X](https://x.com/ANI/status/2085050478887592237)
+        
+49. kpaul@techtransparencyproject.org at the TTP may be able to share [more](https://www.medianama.com/2026/08/223-meta-ai-generated-csam-ads-india-investigation/) on CSAM on Meta 
+    
+50. The Central Consumer Protection Authority (CCPA) has penalised nine digital platforms, including IndiGo, Zepto, FirstCry, Physics Wallah and SpiceJet, for deploying “dark patterns”, or deceptive user interface designs that manipulate consumer choices, the government [told](https://www.hindustantimes.com/india-news/zepto-indigo-spicejet-physicswallah-among-9-digital-platforms-penalised-for-deceiving-consumers-government-101785924169402-amp.html) the Rajya Sabha. 
+    
+51. [Delhi High Court Orders Takedown Of Content Infringing Rights Of Physics Wallah Founder Alakh Pandey](https://www.livelaw.in/high-court/delhi-high-court/alakh-pandey-physics-wallah-relief-takedown-infringing-content-personality-rights-544399)
+    
+
+52. [Savarkar Objected To Cow Worship, Treated It Only As A Useful Animal : Grandnephew Tells Pune Court](https://www.livelaw.in/news-updates/savarkar-objected-to-cow-worship-treated-it-only-as-a-useful-animal-grandnephew-tells-pune-court-544349) 
+    
+53. [Playing IPRS-Owned Music In Hotel Rooms Without Licence Is Copyright Infringement: Calcutta High Court   -](https://www.livelawbiz.com/copyright/playing-iprs-owned-music-in-hotel-rooms-without-licence-is-copyright-infringement-calcutta-high-court-544378) [PDF](https://www.livelawbiz.com/pdf_upload/2026/08/05/iprs-hotel-appolo-691708.pdf)
+    
+54. Karnataka HC on Google right to be forgotten case -- [pdf](https://www.livelaw.in/pdf_upload/2026/08/05/download-5-691755.pdf)
+    
+55. Open Source Software: Security Principles and Practices -- [PDF](https://www.cisa.gov/sites/default/files/2026-07/open-source-software-security-principles.pdf)
+    
+56. [Public consultation on the draft BEREC Further Guidance on 5G Network Slicing | BEREC](https://www.berec.europa.eu/en/public-consultations-calls-for-inputs/public-consultation-on-the-draft-berec-further-guidance-on-5g-network-slicing?language_content_entity=en)
+    
+57. [Incident Report: unsanctioned agent behaviour during cyber testing | AISI Work](https://www.aisi.gov.uk/blog/incident-report-unsanctioned-agent-behaviour-during-cyber-testing)
+    
+
+58. [Global Government Affairs on X: "X received an order to restrict access in Türkiye to the official Presidential Candidacy Office account of the now-detained Mayor of Istanbul. Although Türkiye’s laws force us to comply with the order, we are challenging the order in court and, in the spirit of full transparency, https://t.co/shbxPLYJHm" / X](https://x.com/GlobalAffairs/status/2084783605067260407)
+    
+59. [Andrew Curran on X: "15 Attorneys General have sent a letter to Sam Altman demanding that OpenAI preserve all records related to the Hugging Face incident, including all materials relating in any way to any instance in which an OpenAI model or agent "left notes apparently for future versions of https://t.co/hrzIypYQ5V" / X](https://x.com/AndrewCurran_/status/2084420761033564657)
+
+60. Effective April 10, 2026, the National Highways Authority of India (NHAI) officially stopped accepting cash at all National Highway fee plazas nationwide. Toll payments must now be made digitally through FASTag as the primary mode or via the Unified Payments Interface (UPI) as a fallback option
+    
+61. YouTube [terminates](https://x.com/parthpunter/status/2083991023471198692?s=20) Delhi slum-dweller's page following overnight success, social media protests
+    
+62. The Azad Kashmir, the nominally self-governing political territory administered by Pakistan.  has remained under curfew and a complete [internet blackout](https://x.com/DropSiteNews/status/2084061985126121701?s=20) since June 5, 2026. Food and medicine have been blocked from entering, while grocery stores have been prohibited from opening. Announcements broadcast from local mosque loudspeakers warn that anyone violating the curfew, including women and children, will be shot.
+    
+63. [Srinivas Kodali on X: "The Delhi Police and Ministry of Home Affairs actually uses electoral rolls as a source for #facialrecognition. This violates purpose limitation test of fundamental right to privacy. https://t.co/MJrfP3RkmG https://t.co/cAaUs0U1Np" / X](https://x.com/digitaldutta/status/2082409283782861039)
     
     1. IFF statement on [doxxing](https://x.com/internetfreedom/status/2083529405801136439?s=20)
         
-6. [X Censorship of Breach Research — BoBBreach | CashlessConsumer](https://bobbreach.cashlessconsumer.in/pages/censorship.html)
+64. [X Censorship of Breach Research — BoBBreach | CashlessConsumer](https://bobbreach.cashlessconsumer.in/pages/censorship.html)
     
-7. [The World's Biggest Anime Torrent Site Faces a Landmark New Crackdown](https://www.cbr.com/nyaa-torrent-uploader-arrest-coda-crackdown/) 
+65. [The World's Biggest Anime Torrent Site Faces a Landmark New Crackdown](https://www.cbr.com/nyaa-torrent-uploader-arrest-coda-crackdown/) 
     
-8. [Submissions – Parliament of Australia: what were the recommenations ahead the AUS?](https://www.aph.gov.au/Parliamentary_Business/Committees/Senate/Environment_and_Communications/StrengtheningSMMA48P/Submissions)
+66. [Submissions – Parliament of Australia: what were the recommenations ahead the AUS?](https://www.aph.gov.au/Parliamentary_Business/Committees/Senate/Environment_and_Communications/StrengtheningSMMA48P/Submissions)
     
-9. [Chandigarh court denies bail to Hyderabad man arrested for "scandalous" tweet on PM Modi](https://www.barandbench.com/news/chandigarh-court-denies-bail-to-hyderabad-man-arrested-for-scandalous-tweet-on-pm-modi)
+67. [Chandigarh court denies bail to Hyderabad man arrested for "scandalous" tweet on PM Modi](https://www.barandbench.com/news/chandigarh-court-denies-bail-to-hyderabad-man-arrested-for-scandalous-tweet-on-pm-modi)
     
-10. [Edition 32: WhatsApp tests age self-declaration in India](https://thetechtrace.substack.com/p/edition-32-whatsapp-tests-age-self-declaration-in-india)
+68. [Edition 32: WhatsApp tests age self-declaration in India](https://thetechtrace.substack.com/p/edition-32-whatsapp-tests-age-self-declaration-in-india)
     
-11. DMK MP Dayanidhi Maran [questioned](https://www.reddit.com/r/TheBetterIndia/s/GmyhPdo3sB) the Delhi Police's use of Meta smart glasses to monitor student protesters.
+69. DMK MP Dayanidhi Maran [questioned](https://www.reddit.com/r/TheBetterIndia/s/GmyhPdo3sB) the Delhi Police's use of Meta smart glasses to monitor student protesters.
     
-12. [Hyderabad cybercrime police book Meta India head over posts targeting PM Modi by users on Facebook and Instagram - The Hindu](https://www.thehindu.com/news/national/hyderabad-cybercrime-police-book-meta-india-head-over-posts-targeting-pm-modi/article71289036.ece)
+70. [Hyderabad cybercrime police book Meta India head over posts targeting PM Modi by users on Facebook and Instagram - The Hindu](https://www.thehindu.com/news/national/hyderabad-cybercrime-police-book-meta-india-head-over-posts-targeting-pm-modi/article71289036.ece)
     
-13. **HOLD**: [Google India nodal officer booked after investor loses ₹7.95 lakh via alleged fake trading app - Storyboard18](https://www.storyboard18.com/digital/google-india-nodal-officer-booked-after-investor-loses-%e2%82%b97-95-lakh-via-alleged-fake-trading-app-106013.htm) 
+71. **HOLD**: [Google India nodal officer booked after investor loses ₹7.95 lakh via alleged fake trading app - Storyboard18](https://www.storyboard18.com/digital/google-india-nodal-officer-booked-after-investor-loses-%e2%82%b97-95-lakh-via-alleged-fake-trading-app-106013.htm) 
     
     1. [Government to question Meta global team on issues around algorithmic bias, role in public order - The Hindu](https://www.thehindu.com/news/national/government-to-question-meta-global-team-on-issues-around-algorithmic-bias-role-in-public-order/article71290530.ece#google_vignette)
         
-14. drone camera on camera and we filed RTI with every police station in CAA NRC. in jan 2020 and they denied using drones and in UP police they are using facial recognition denied. in parl amit shah said and every individual they ahve everyone on video and there is a gap between and what is said and we see and what we confirm. 
+72. drone camera on camera and we filed RTI with every police station in CAA NRC. in jan 2020 and they denied using drones and in UP police they are using facial recognition denied. in parl amit shah said and every individual they ahve everyone on video and there is a gap between and what is said and we see and what we confirm. 
     
     1. lucknow safecity tender. we need to up the game in tenders. 
         
@@ -42,13 +189,13 @@
         
     5. in another instances, we spoke with multiple police dept on phone cracking, 15-20 softwares sent by chandigadh police to open the phones to crack the phones without passwords
         
-15. **how tech was used by both protestors and police.** 
+73. **how tech was used by both protestors and police.** 
     
-16. guide on things we can do
+74. guide on things we can do
     
-17. 23 july internet shutdowns - [one](https://x.com/humorosaurus/status/2080256782765891652?s=20) 
+75. 23 july internet shutdowns - [one](https://x.com/humorosaurus/status/2080256782765891652?s=20) 
     
-18. [SNEGO](https://x.com/AzdhanB/status/2080323817084432780?s=20) 
+76. [SNEGO](https://x.com/AzdhanB/status/2080323817084432780?s=20) 
     
 
 ## july 2026 

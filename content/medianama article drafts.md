@@ -1,5 +1,12 @@
 
-1. 
+## september 2026
+
+1. [[meta to limit reach of ai generated profiles]] 
+2. [[darkweb listing contracts dodo payments]]
+
+
+## august 2026
+1. [[india orders wind turbine makers for cybersecurity measures]]
 2. [[amazon claims safe harbor in a book piracy case]]
 3. [[inside meity tender on ai automations and agents]]
 4. [[how ai agents escaped sandbox environment to infiltrate hugging face]]
