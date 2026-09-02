@@ -6,14 +6,15 @@
 ### Problems with AI :
 1. [[Copyright Problems of AI]]
 	1. [[privacy and ai data training problems of AI training]]
-	2. [[ai and national security]]
-	3. 
-2. [[ai and the media]]
-3. [[ai and the deepfake problem]]
+2. [[ai and national security]]
+3. [[ai and cybersecurity]]
+4. [[ai and the media]]
+5. [[ai and the deepfake problem]]
 	1. [[personality rights problems with AI]]
-4. [[trust problem with AI]]
-5. [[CINEMA and books on AI and tech]]
-6. [[predictions on AI]]
+6. [[trust problem with AI]]
+7. [[CINEMA and books on AI and tech]]
+8. [[predictions on AI]]
+
 
 
 [[AI and india]]
@@ -26,6 +27,9 @@
 1. [(3) Why AI Agents Are a Privacy Nightmare - Signal President Meredith Whittaker - YouTube](https://www.youtube.com/watch?v=aMNWOqXpxcc) 
 2. 
 
+
+- [Regulations.ai - Global AI Law & Policy Tracker](https://regulations.ai/) 
+- 
 
 ## digital books
 1. [Welcome to Learn Harness Engineering | Learn Harness Engineering](https://walkinglabs.github.io/learn-harness-engineering/en/)

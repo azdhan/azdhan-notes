@@ -27,6 +27,7 @@
 
 
 ## extra resources
+[Startup Operator Roles Tracker (Preview). 35+ New Roles added daily: Get daily tracker here](https://aspiring-centipede-75f.notion.site/18437ecc9253804b8952e78442a6c135?v=18437ecc925380a2bddb000c03bdeec4) 
 [[mega resource - scholarships and fellowships]]
 [[career plan for tech-media policy roles]]
 
