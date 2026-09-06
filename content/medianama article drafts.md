@@ -1,8 +1,9 @@
 
 ## september 2026
 
-1. [[meta to limit reach of ai generated profiles]] 
-2. [[darkweb listing contracts dodo payments]]
+1. [[why cert in asked nisarga no not to speak publicly]]
+2. [[meta to limit reach of ai generated profiles]] 
+3. [[darkweb listing contracts dodo payments]]
 
 
 ## august 2026

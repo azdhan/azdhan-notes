@@ -8,3 +8,5 @@
 - [AI Incident Database](https://incidentdatabase.ai/): indexed reports of real-world AI harms.
 - [NIST AI RMF Playbook](https://airc.nist.gov/AI_RMF_Knowledge_Base/Playbook): control catalog and crosswalks.
 - EU AI Act, Annex III: the official high-risk use-case classification. (source - [AI Governance Risk Register · Streamlit](https://ai-risk-register.streamlit.app/))
+
+- CERT in SAMVAAD 2026 report ([pdf](https://www.cert-in.org.in/PDF/CP_Samvaad-2026.pdf)) 
