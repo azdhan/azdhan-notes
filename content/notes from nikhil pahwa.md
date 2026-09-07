@@ -2,6 +2,7 @@
 
 [[nikhil pahwa and notes from the podcasts]]
 [[vibecoding with nikhil pahwa; notyes formt he workshop]]
+[[nikhil pahwa journey with ai]]
 
 
 
