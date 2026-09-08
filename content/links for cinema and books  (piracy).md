@@ -23,3 +23,7 @@
 
 # websites: 
 - a [list](https://x.com/PiracyCentral/status/2094453011196108949?s=20) from x 
+
+## resources
+- [[how to fetch DRM content from OTTs]]
+- 
