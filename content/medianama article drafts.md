@@ -1,10 +1,12 @@
 
 ## september 2026
 
-1. [[meta brings ai agents to whatsapp]]
-2. [[why cert in asked nisarga no not to speak publicly]]
-3. [[meta to limit reach of ai generated profiles]] 
-4. [[darkweb listing contracts dodo payments]]
+1. [[BIF and COAI didnt submit their stakeholder comments to TRAI on network slicing]]
+2. [[australia wants to propose a new law to turnoff algorithm on social media]]
+3. [[meta brings ai agents to whatsapp]]
+4. [[why cert in asked nisarga no not to speak publicly]]
+5. [[meta to limit reach of ai generated profiles]] 
+6. [[darkweb listing contracts dodo payments]]
 
 
 ## august 2026

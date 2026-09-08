@@ -10,6 +10,8 @@
 - [[how spam works in india]]
 - [[sahyog portal and everything about it]]
 - [[ott and media policy in india]]
+- [[writing and arts]]
+- [[network slicing and net neutrality]]
 
 ## everything series 
 1. [[everything about modi]]
@@ -21,6 +23,7 @@
 
 ## disagreeing series 
 - [[judgements where i disagreed with and why]]
+
 
 
 - [[political philosophy and the history]]
