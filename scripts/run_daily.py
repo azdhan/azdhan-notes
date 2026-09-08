@@ -138,12 +138,25 @@ JS_SCRAPE_CURRENT_PAGE = r"""
             }
         }
 
-        // Posted / Deadline labels
+        // Posted / Deadline labels — first try literal text; fall back to icon tooltip
         const fullText = card.innerText || '';
         let posted = '', deadline = '';
-        for (const line of fullText.split('\n')) {
+        for (const line of fullText.split('\\n')) {
             if (line.startsWith('Posted:') && !posted) posted = line.replace('Posted:','').trim();
             if (line.startsWith('Deadline:') && !deadline) deadline = line.replace('Deadline:','').trim();
+        }
+        if (!deadline) {
+            for (const el of card.querySelectorAll('i, svg, span, button, [aria-label], [title]')) {
+                const label = el.getAttribute('aria-label') || el.getAttribute('title') || (el.innerText || '').trim();
+                if (label && /\b(in\s+[\w\s]+|[\w\s]+ago)\b/i.test(label)) {
+                    const m = label.match(/((?:in\s+)?[\w\s]+(?:ago)?)$/i);
+                    if (m) { deadline = m[1].trim(); break; }
+                }
+                if (label && label.toLowerCase().includes('deadline') && label.toLowerCase().includes('approaching')) {
+                    deadline = 'in a day';
+                    break;
+                }
+            }
         }
 
         // Description = first line ending with "..."

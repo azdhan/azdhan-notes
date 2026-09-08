@@ -1,6 +1,10 @@
 [[VGM linkedin analysis]]
 
 
+
+
+![[vgm-sept-7.txt]]
+ 
 ## aug 11 
 
 Sunil Hoonar, amritha 
