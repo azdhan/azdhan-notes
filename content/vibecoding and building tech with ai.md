@@ -1,6 +1,8 @@
 
 # tech stack discoveries 
 - https://github.com/headroomlabs-ai/headroom
+- https://www.openmausbot.com/
+- https://subdomains.jsmon.sh/
 - https://github.com/jtydhr88/screenwriting-skills
 - https://open-design.ai/ 
 - https://www.tavily.com/ 
