@@ -27,7 +27,9 @@
 
 
 ## extra resources
+indian startups that got recent funding - [link1](https://x.com/AvinashSingh_20/status/2097730542292902280?s=20)
 some [websites](https://lnkd.in/p/gBU_A6cZ) related to foreign scholarships
+some ai safety companies - [link](https://x.com/OwainEvans_UK/status/2097778368452423724?s=20)
 [Startup Operator Roles Tracker (Preview). 35+ New Roles added daily: Get daily tracker here](https://aspiring-centipede-75f.notion.site/18437ecc9253804b8952e78442a6c135?v=18437ecc925380a2bddb000c03bdeec4) 
 [[mega resource - scholarships and fellowships]]
 [[career plan for tech-media policy roles]]
