@@ -1,4 +1,3 @@
-
 ## july 2026 
 
 - netflix -- https://ibb.co/twbMJx4d 
@@ -31,3 +30,7 @@ sun next - https://www.sunnxt.com/content-grievance-redressal
 
 # transparency reports 
 [Privacy - Government Information Requests - Apple (IN)](https://www.apple.com/legal/transparency/in.html) 
+
+
+RTI response : PRBHA/R/E/26/00927 ![[ReplyDocument (11).pdf]]
+![[ReplyDocument (10) 1.pdf]]

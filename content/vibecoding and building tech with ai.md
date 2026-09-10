@@ -8,6 +8,7 @@
 - https://www.tavily.com/ 
 - https://www.firecrawl.dev/
 - hermes agent 
+- https://platform.experientiallabs.ai/models
 - https://osirisai.live/?layers=maritime,cctv,cctv_previews,live_news,earthquakes,global_incidents,day_night,cables,sdk_sea,sdk_air,sdk_naval
 - https://x.pcstyle.dev/  | nitter ([ceased](https://alternativeto.net/news/2026/9/open-source-x-front-ends-nitter-and-xcancel-resume-service-after-seeking-legal-advice/))
 - https://github.com/stickerdaniel/linkedin-mcp-server 
