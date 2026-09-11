@@ -8,6 +8,8 @@
 - https://www.tavily.com/ 
 - https://www.firecrawl.dev/
 - hermes agent 
+- https://www.copilotkit.ai/openbot
+- https://traks.dev/
 - https://isitagentready.com/
 - https://platform.experientiallabs.ai/models
 - https://osirisai.live/?layers=maritime,cctv,cctv_previews,live_news,earthquakes,global_incidents,day_night,cables,sdk_sea,sdk_air,sdk_naval

@@ -1,17 +1,19 @@
 
 ## september 2026
 
-1. [[NITI aayog calls for deregulation at GFF]]
-2. [[md file of livelaw's proceedings on cjp and ai deepfake defemaion case]]
-3. [[Banks can’t outsource accountability for algorithmic decisions - RBI Deputy Governor]]
-4. [[land tokenization coming to maharastra, CM at GFF]]
-5. [[there are no principles for ai agents, youth IGF]]
-6. [[BIF and COAI didnt submit their stakeholder comments to TRAI on network slicing]]
-7. [[australia wants to propose a new law to turnoff algorithm on social media]]
-8. [[meta brings ai agents to whatsapp]]
-9. [[why cert in asked nisarga no not to speak publicly]]
-10. [[meta to limit reach of ai generated profiles]] 
-11. [[darkweb listing contracts dodo payments]]
+1. [[nitin gadkari skips ai agentic payments at GFF]]
+2. [[nandan nilekani on asset tokenisation]]
+3. [[NITI aayog calls for deregulation at GFF]]
+4. [[md file of livelaw's proceedings on cjp and ai deepfake defemaion case]]
+5. [[Banks can’t outsource accountability for algorithmic decisions - RBI Deputy Governor]]
+6. [[land tokenization coming to maharastra, CM at GFF]]
+7. [[there are no principles for ai agents, youth IGF]]
+8. [[BIF and COAI didnt submit their stakeholder comments to TRAI on network slicing]]
+9. [[australia wants to propose a new law to turnoff algorithm on social media]]
+10. [[meta brings ai agents to whatsapp]]
+11. [[why cert in asked nisarga no not to speak publicly]]
+12. [[meta to limit reach of ai generated profiles]] 
+13. [[darkweb listing contracts dodo payments]]
 
 
 ## august 2026
