@@ -61,6 +61,7 @@
 - if you want to check if your data has been leaked online, you can check on [this](https://haveibeenpwned.com) site, there must be other similar sites as well. 
 - you can identify the owner of a email address using this [mailometer](https://mailmeteor.com/tools/reverse-email-lookup?email=sasch.matthew%40gmail.com) address.  
 - cant find the journalists, can use: https://journalisthunt.com/dashboard. the PII is only limited to paid subscribers but it can be used to browse and so third party search. 
+- 
 
 # dark zone porn websites 
 - Drop mms, rajwap, desi 49, kama baba, area51 ([alleged](https://www.reddit.com/r/indiasocial/comments/1od7g9n/comment/nkwe7wi/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button) to be darkest) , mmsdose, desi jugad thala for a
@@ -70,6 +71,7 @@ reason, Viralkand dot com , hindibfvideos dot com / Erome / filtradas.com /  xm
 1. everything we need about piracy is here: https://fmhy.net 
 2. Posters: https://qualitypixels.in by [him](https://x.com/Quality_Pixels/status/2028432759660904937?s=20) 
 3. - [this]([Online BitTorrent Magnet Link Generator](http://romanr.info/magnet.html)) converts hash inot magnet links 
+4. https://webtor.io/ -- download files from magnet links without torrenting
 
 
 Also Check these: 
