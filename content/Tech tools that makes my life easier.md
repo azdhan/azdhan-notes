@@ -14,6 +14,7 @@
 - [Page Sidebar:](https://chromewebstore.google.com/detail/gkkebamcfeaggmcfciekfakbmlgckdnh?utm_source=item-share-cb) a dedicated side browser will full page view
 - [media file downloader:](https://chromewebstore.google.com/detail/live-stream-downloader/looepbdllpjgdmkpdcdffhdbmpbcfekj) 
 - [this](https://chromewebstore.google.com/detail/youtube-transcript/jgibaoklabopileepldnlkbbcibhbgmd) tool can generate transcripts for YT live videos too. [SSVid](https://ssvid.cc/) also can, but first visit [this](https://v1.ytmp3.gg) 
+- Sider: use it to record and download audio of a YT live stream video. 
 # browsers 
 1. Vivaldi for Laptops. (read [this](https://vivaldi.com/blog/keep-exploring/) why this is still AI-free)
 2. Kiwi browser for android as it enables the side-loading of chrome-based extensions. I think it has stopped offering services now. However, there is an another alternative for this. 
