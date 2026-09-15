@@ -10,6 +10,8 @@ my social links where i am least active:  [linkedin](https://in.linkedin.com/in/
 
 follow what i'm watching and reading here:   [letterboxd](https://letterboxd.com/AzdhanBasha/)  |  [serializd](https://www.serializd.com/user/Azdhanbasha/profile)  |  [story graph](https://app.thestorygraph.com/profile/azdhan2k)  
 
+[[knowledge board]]
+
 --- 
 ### somethings for you to explore
 - [[fellowships and scholarships (and some jobs) -- active and archived]]
