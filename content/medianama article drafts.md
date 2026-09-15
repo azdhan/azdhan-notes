@@ -1,21 +1,23 @@
 
 ## september 2026
 
-1. [[ai could be used for market surveillance]]
-2. [[rbi is working on a continuous KYC platform]]
-3. [[nitin gadkari skips ai agentic payments at GFF]]
-4. [[nandan nilekani on asset tokenisation]]
-5. [[NITI aayog calls for deregulation at GFF]]
-6. [[md file of livelaw's proceedings on cjp and ai deepfake defemaion case]]
-7. [[Banks can’t outsource accountability for algorithmic decisions - RBI Deputy Governor]]
-8. [[land tokenization coming to maharastra, CM at GFF]]
-9. [[there are no principles for ai agents, youth IGF]]
-10. [[BIF and COAI didnt submit their stakeholder comments to TRAI on network slicing]]
-11. [[australia wants to propose a new law to turnoff algorithm on social media]]
-12. [[meta brings ai agents to whatsapp]]
-13. [[why cert in asked nisarga no not to speak publicly]]
-14. [[meta to limit reach of ai generated profiles]] 
-15. [[darkweb listing contracts dodo payments]]
+1. [[trai and airtel asks for cross sectoral signal sharing]]
+2. [[telcos and dot push for light touch ai regulation]]
+3. [[ai could be used for market surveillance]]
+4. [[rbi is working on a continuous KYC platform]]
+5. [[nitin gadkari skips ai agentic payments at GFF]]
+6. [[nandan nilekani on asset tokenisation]]
+7. [[NITI aayog calls for deregulation at GFF]]
+8. [[md file of livelaw's proceedings on cjp and ai deepfake defemaion case]]
+9. [[Banks can’t outsource accountability for algorithmic decisions - RBI Deputy Governor]]
+10. [[land tokenization coming to maharastra, CM at GFF]]
+11. [[there are no principles for ai agents, youth IGF]]
+12. [[BIF and COAI didnt submit their stakeholder comments to TRAI on network slicing]]
+13. [[australia wants to propose a new law to turnoff algorithm on social media]]
+14. [[meta brings ai agents to whatsapp]]
+15. [[why cert in asked nisarga no not to speak publicly]]
+16. [[meta to limit reach of ai generated profiles]] 
+17. [[darkweb listing contracts dodo payments]]
 
 
 ## august 2026
