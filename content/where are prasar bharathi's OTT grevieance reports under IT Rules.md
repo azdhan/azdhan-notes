@@ -1,3 +1,5 @@
+[[rti reply to prasar bharati's grevieance reports]]
+
 **# RTI Filed: Where are Waves OTT’s monthly grievance reports required under IT Rules
 
 We could not find the monthly grievance compliance reports required under the IT Rules for Prasar Bharati’s Waves OTT on its website. The [Terms and Conditions page](https://www.wavespb.com/terms-conditions) ([archived](https://web.archive.org/web/20260814112931/https://www.wavespb.com/terms-conditions)) only listed the details of the grievance officer but did not include any compliance reports.
