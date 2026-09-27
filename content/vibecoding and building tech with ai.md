@@ -1,5 +1,6 @@
 
 # tech stack discoveries 
+- https://github.com/brightdata/brightdata-mcp
 - jev |  [use cases](https://jev-directory.netlify.app/) 
 - https://github.com/headroomlabs-ai/headroom
 - https://www.openmausbot.com/
