@@ -1,5 +1,6 @@
 
 # tech stack discoveries 
+- https://github.com/microsoft/data-formulator
 - https://woob.tech/
 - https://github.com/brightdata/brightdata-mcp
 - jev |  [use cases](https://jev-directory.netlify.app/) 
