@@ -1,6 +1,7 @@
 
 # tech stack discoveries 
 - https://github.com/openai/mcp-extensions
+- https://www.openmausbot.com/
 - https://github.com/microsoft/data-formulator
 - https://woob.tech/
 - https://github.com/brightdata/brightdata-mcp
