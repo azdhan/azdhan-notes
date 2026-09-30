@@ -1,9 +1,10 @@
 
 # tech stack discoveries 
+- https://github.com/openai/mcp-extensions
 - https://github.com/microsoft/data-formulator
 - https://woob.tech/
 - https://github.com/brightdata/brightdata-mcp
-- jev |  [use cases](https://jev-directory.netlify.app/) 
+- jev |  [use cases](https://jev-directory.netlify.app/) | [skills](https://x.com/alex_prompter/status/2104949594241294617?s=20)
 - https://github.com/headroomlabs-ai/headroom
 - https://www.openmausbot.com/
 - https://subdomains.jsmon.sh/
