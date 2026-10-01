@@ -32,15 +32,16 @@
 - 
 
 ## digital books
-1. [Welcome to Learn Harness Engineering | Learn Harness Engineering](https://walkinglabs.github.io/learn-harness-engineering/en/)
-2. [AI Engineering from Scratch](https://aiengineeringfromscratch.com/index.html)
-3. [Making Software](https://www.makingsoftware.com/)
-4. [the philosphy of software design - Google Search](https://www.google.com/search?q=the%20philosphy%20of%20software%20design&sourceid=chrome&ie=UTF-8) 
-5. Questioning AI - [Resource](https://docs.google.com/document/d/1DKpUUvKyH9Ql6_ubftYMiZloXizJU38YSjtP5i8MIx0/edit?usp=sharing) 
-6. A [compilation](https://x.com/adxtyahq/status/2062090077296283932?s=20) of where we can learn: RAG, agentic rag, ai agents, lang graph. 
-7. [The AI Resist List](https://airesistlist.org/)
-8. [Intro | Putting the "You" in CPU](https://cpu.land/) 
-9. [The Joy of Cryptography](https://joyofcryptography.com/) 
+1. agentic journalism by cashless consumer -- [YT](https://www.youtube.com/playlist?list=PLLAhCw1oiarY) / [post](https://x.com/logic/status/2104828871594180938?s=20) 
+2. [Welcome to Learn Harness Engineering | Learn Harness Engineering](https://walkinglabs.github.io/learn-harness-engineering/en/)
+3. [AI Engineering from Scratch](https://aiengineeringfromscratch.com/index.html)
+4. [Making Software](https://www.makingsoftware.com/)
+5. [the philosphy of software design - Google Search](https://www.google.com/search?q=the%20philosphy%20of%20software%20design&sourceid=chrome&ie=UTF-8) 
+6. Questioning AI - [Resource](https://docs.google.com/document/d/1DKpUUvKyH9Ql6_ubftYMiZloXizJU38YSjtP5i8MIx0/edit?usp=sharing) 
+7. A [compilation](https://x.com/adxtyahq/status/2062090077296283932?s=20) of where we can learn: RAG, agentic rag, ai agents, lang graph. 
+8. [The AI Resist List](https://airesistlist.org/)
+9. [Intro | Putting the "You" in CPU](https://cpu.land/) 
+10. [The Joy of Cryptography](https://joyofcryptography.com/) 
 
 ## books 
 - [A Philosophy of Software Design](https://www.amazon.in/A-Philosophy-of-Software-Design/dp/1732102201) - referred by andrej karparthy in one youtube speech.

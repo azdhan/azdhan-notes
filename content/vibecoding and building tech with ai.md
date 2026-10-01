@@ -1,5 +1,6 @@
 
 # tech stack discoveries 
+- https://fly.io/
 - https://github.com/openai/mcp-extensions
 - https://www.openmausbot.com/
 - https://github.com/microsoft/data-formulator
@@ -32,3 +33,5 @@
 
 ## design skills 
 - https://emilkowal.ski/skill 
+
+
