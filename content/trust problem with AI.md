@@ -2,7 +2,7 @@
 
 
 # instances where the tech has messed up
-1. openai agents attacked australia govt and c
+1. openai agents attacked australia govt and [canada](https://transluce.org/us-canada-gov) too
 2. Instinct [triggered](https://x.com/Dhavalsingh7/status/2102731168139591746?s=20) an OTP, read it via email without asking, on its own and logged in to check the status of my life insurance 
 3. gemini and chatgpt [denied](https://x.com/ggreenwald/status/2083945619425497187?s=20) to generate images with fuck isreal, but agreed to generate fuck (other nations)
 4. a business franchise that maintains pizzahut has filed a lawsui against the company for forcing to use ai system in their daily operations. - [Pizza Hut’s AI Store Control System Is Such a Disaster That It’s Wasted $100 Million, Lawsuit Alleges](https://futurism.com/future-society/pizza-hut-ai-disaster) 

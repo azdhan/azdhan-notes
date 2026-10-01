@@ -33,6 +33,7 @@
 
 ## extra resources
 https://www.carrerlift.in/ 
+some [guide](https://x.com/akkiex007/status/2105547771029930474?s=20) 
 indian startups that got recent funding - [link1](https://x.com/AvinashSingh_20/status/2097730542292902280?s=20)
 some [websites](https://lnkd.in/p/gBU_A6cZ) related to foreign scholarships
 some ai safety companies - [link](https://x.com/OwainEvans_UK/status/2097778368452423724?s=20)
