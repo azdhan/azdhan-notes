@@ -9,7 +9,7 @@ Project folder for azent voice-note automation.
 - Only two cases: no attachment = short (<5 min); attachment = long (>5 min). No routing words (til:, q:, build:, book:), no prefixes — decided by attachment presence only.
 
 ## Save targets
-- Short (no attachment): append at top of `A:\Azdhanvibing\azdhan-notes\content\azent-notes-tg\short notes by azent\short notes by azent - (main).txt`
+- Short (no attachment): append at top of `A:\Azdhanvibing\azdhan-notes\content\azent-notes-tg\short notes by azent\short notes from azent via hermes telegram bot.md`
 - Long (attachment): new file in `A:\Azdhanvibing\azdhan-notes\content\azent-notes-tg\long notes by azent\` named by H1.
 
 ## Programmatic (code, not AI)
