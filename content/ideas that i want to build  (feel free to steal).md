@@ -1,7 +1,13 @@
 #writing/startup-ideas
 
-[[vibecoding and building tech with ai]]
 
+## shows 
+1. a disagreement series where the person has 20 points and each person has anti points to that thoughts its  bite sozed pointed debate. 
+
+## stories 
+
+
+## vibe coding tools 
 1. locally deploying [p-stream]([P-Stream](https://github.com/p-stream))
 2. [[an interface where you can ask other people's agent to get information from their memory or data]]
 3. [[a spoilerless chatbot for web series]]
@@ -9,6 +15,5 @@
 5. [[global password sharing platform; communism at best]]
 6. [[basically tinder, but for roomies]]
 7. [[hedoniser, a tech medical service to tell if you should smoke and drink]]
-8. 
 
-
+[[vibecoding and building tech with ai]]

@@ -18,7 +18,7 @@ follow what i'm watching and reading here:   [letterboxd](https://letterboxd.c
 - [[tools and apps that i have vibe coded]]
 - [[tech tools that makes my life easier]]
 	- [[prompts that make my life easier and work faster]]
-- [[tools that i want to build which can also be startups (feel free to steal)]]
+- [[ideas that i want to build  (feel free to steal)]]
 - [[links for cinema and books  (piracy)]]
 - [[library of azdhan]]
 - [[articles that i have been reading lately]]

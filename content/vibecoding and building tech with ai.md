@@ -6,7 +6,7 @@
 - https://github.com/microsoft/data-formulator
 - https://woob.tech/
 - https://github.com/brightdata/brightdata-mcp
-- jev |  [use cases](https://jev-directory.netlify.app/) | [skills](https://x.com/alex_prompter/status/2104949594241294617?s=20)
+- jev |  [use cases](https://jev-directory.netlify.app/) | [skills](https://x.com/alex_prompter/status/2104949594241294617?s=20) | [clef](https://blog.cloudflare.com/clef-decision-models/) 
 - https://github.com/headroomlabs-ai/headroom
 - https://www.openmausbot.com/
 - https://subdomains.jsmon.sh/

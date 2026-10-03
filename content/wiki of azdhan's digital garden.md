@@ -1,7 +1,7 @@
 
 
 
-[[legal resources]]
+
 
 # understanding series 
 - [[Understanding Everything about AI and its tech]]
@@ -14,22 +14,11 @@
 - [[network slicing and net neutrality]]
 
 ## everything series 
-1. [[everything about modi]]
+1. [[modi index]]
 
 
 # exploring series 
 - [[darkweb and the inside deep internet]]
-- 
-
-## disagreeing series 
-- [[judgements where i disagreed with and why]]
-
-
-
-- [[political philosophy and the history]]
-- [[how modi/NDA governemnt is messing up indian policy]]
-
-
 
 
 
