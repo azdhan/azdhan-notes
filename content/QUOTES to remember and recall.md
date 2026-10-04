@@ -4,7 +4,8 @@
 
 ## india / history / politics 
 
-1. 'Only industrialisation can give millions of people in India the opportunity to rise above the "life ofa brute".' —B.R. Ambedkar 
+1. 'Only industrialisation can give millions of people in India the opportunity to rise above the "life of a brute".' —B.R. Ambedkar 
+2. argumentative indian could be just a opinionated indian -- [jyothirmayaa sharma](https://www.youtube.com/watch?v=CuujOJ83HM4) 
 
 ## business and leadership 
  "When a management with a reputation for brilliance tackles a business with a reputation for bad economics, it is the reputation of the business that remains intact." --warren buffet (from book intelligent investor and also quoted in [[reading aadhaar effect; notes and references]])

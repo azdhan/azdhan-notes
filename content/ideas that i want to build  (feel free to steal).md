@@ -2,7 +2,8 @@
 
 
 ## shows 
-1. a disagreement series where the person has 20 points and each person has anti points to that thoughts its  bite sozed pointed debate. 
+1. a room full of randomly selected people. an issue. several experts with dividing points. people debate witht he experts. they have to convince them and see what would be the pulse/democracy of the room at the end. 
+2. a disagreement series where the person has 20 points and each person has anti points to that thoughts its  bite sozed pointed debate. 
 
 ## stories 
 
