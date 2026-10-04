@@ -1,0 +1,4 @@
+for me a child should be an active project unril they become fully dependent. i dont believe in passive aprenting and i would say not to have kids if they are about to do passive parenting. 
+
+anyway how parenting can be bettered: 
+-  **write a short story collection for each birthday and give it as a gift.** one short story per week would be better. it could be a simple letters to the children as well. i think this is a fascinating idea. it will give a whole set of permanent memory for the child and these will be the prized trophies when the parent dies or the child ages. (like [gulzar](https://www.nytimes.com/2026/09/21/world/asia/bollywood-india-gulzar.html?unlocked_article_code=1.C1E.Umbq.KE70hOu4C1Ho))
