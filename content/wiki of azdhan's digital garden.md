@@ -7,7 +7,7 @@
 - [[Understanding Everything about AI and its tech]]
 - [[DPDP act and privacy in india]]
 - [[understanding india's fintech and UPI]]
-- [[how spam works in india]]
+- [[how spam works and regulated in india]]
 - [[sahyog portal and everything about it]]
 - [[ott and media policy in india]]
 - [[writing and arts]]

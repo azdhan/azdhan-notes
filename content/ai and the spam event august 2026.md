@@ -4,7 +4,7 @@ important links : [Content pack](https://docs.google.com/document/d/1M_BqpXezALD
 
 
 ## some resources 
-- [[how spam works in india]]
+- [[how spam works and regulated in india]]
 - how airtel detects ai spam - [mistral](https://chat.mistral.ai/work/aaa86589-49a3-4b45-9daf-2575f9651966) | [paper](https://dl.acm.org/doi/epdf/10.1145/3799830.3799883)
 
 
