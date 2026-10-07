@@ -13,3 +13,5 @@ not sure how their fraud detection is working:  
 - "spotting fraudulent account creations and takeovers and artificial traffic spikes, Airtel IQ Gateway protects enterprises from fraud losses and billing spikes caused by industry-wide SMS pumping."
 
 how it works: Silent Authentication for SIM based login,
+
+[[what we know and what we dont know about airtel's IQ gateway]]

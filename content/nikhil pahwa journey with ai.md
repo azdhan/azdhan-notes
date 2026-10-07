@@ -1,5 +1,7 @@
 **@nixxin “My month with AI” posts (links + 1-line notes)**
 
+- October 2026 -- https://x.com/nixxin/status/2107360625575833941 
+
 - **July 2026**: https://x.com/nixxin/status/2085028291036209628  
   Biggest month yet — workshops, Hermes agents, MediaNama automations/plugins, many builds.
 
