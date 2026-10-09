@@ -1,3 +1,4 @@
+[[india ai policy]]
 
 
 ## sector-wise regualtions

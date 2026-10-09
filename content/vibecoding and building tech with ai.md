@@ -30,7 +30,7 @@
 - https://pypi.org/project/rti-mcp/
 - which is better for on-device AI [models](https://llama.app/models) - [Chat](https://chat.z.ai/s/b5c804cb-25fb-423e-8e04-46d8e7f39ccf)
 
-
+Nikhil's tools: https://insights.medianama.com/impact 
 ## design skills 
 - https://emilkowal.ski/skill 
 
