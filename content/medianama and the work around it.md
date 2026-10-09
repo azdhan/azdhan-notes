@@ -5,7 +5,7 @@
 3. [[ai and the spam event august 2026]]
 4.  [[Age Verification and Restricting Social Media for Children (Delhi, July 2026)]]
 
-
+[[talking points how i drafted]]
 [[morning call notes medianama]]
 
 [[medianama article drafts]] 

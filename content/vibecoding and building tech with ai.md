@@ -1,5 +1,7 @@
 
 # tech stack discoveries 
+- ai agents as OS? -[link](https://x.com/nixxin/status/2108157270739894738?s=20)
+- reverse engineering anything - [link](https://x.com/MatthewBerman/status/2108245653843509415?s=20)
 - https://fly.io/
 - https://github.com/openai/mcp-extensions
 - https://www.openmausbot.com/
