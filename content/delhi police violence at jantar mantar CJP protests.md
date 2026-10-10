@@ -1,4 +1,5 @@
 
+the reasons: [[ECI and SIR issues]]
 # October 2026
 What delhi police is doing now: 
 - **[shutdown](https://x.com/AjayKumarJourno/status/2108460906107834836?s=20) trains and metro. SC [said](https://x.com/ANI/status/2108488727630852284?s=20)  you cant shut down mobility.** it is suprising and not so surprising that the SC has to say something like this. everyone who shuld know the importance of public mobility inthe antional capital. in fact, SC should initiate action against the person who passed the order. otherwise, these people will continue to allow such draconian laws. 
