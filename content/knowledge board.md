@@ -31,3 +31,6 @@
 [[ai policy regulation across sectors]]
 
 
+## journalism 
+[[journalism resources]]
+

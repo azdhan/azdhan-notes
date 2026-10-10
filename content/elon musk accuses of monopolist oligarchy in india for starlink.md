@@ -1,5 +1,7 @@
 **
+updates: names ambani sarcastically and zoho vembu comes to [defend](https://x.com/svembu/status/2108714716206153997?s=20). musk pointed out how the [reliance](https://www.reporters-collective.in/projects/eyeballpolitics-facebook-investigation) had [funded](https://x.com/elonmusk/status/2108717598196244828?s=20) the bjp campaign.[ kamal hassan](https://x.com/ikamalhaasan/status/2108549307230244902?s=20) / [jaishankar](https://x.com/jaypanicker/status/2108502600874086655?s=20) / mk venu [said](https://x.com/mkvenu1/status/2108677445935370749?s=20) that india invited starlink to india 
 
+what was said in trai consultations by indian telcos ([pic](https://x.com/electricfoo/status/2108415203440574469?s=20))? 
 # Elon Musk accuses ‘monopolisitc oligarchs’ for blocking the lauch of Starlink in India
 
 Elon Musk has posted a cryptic post accusing Indian monopolistic “oligarchs” of stopping the launch of Starlink in India. He wrote on X: 

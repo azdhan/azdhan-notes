@@ -5,6 +5,6 @@ list of issues:
 - the ECINet app alos reportted had a VIP button where the BLOs or the cooncered official could marks some citizens as VIPs. 
 - the indian express report said that ttwo of the ECI folks had protested the moved of gynaesh officially on record 12 times in the 10 months. twtehse were ignored and never considered. 
 
-the supreme court also reported;ly said that the SIR process is not against the action of the peoples reporesentation act. the understan ibjective of the tthis judgementr was used as defence fort he action did by teh SIR. butlater SC said that the court didnt said. 
+the supreme court also reported;ly said that the SIR process is not against the action of the peoples representation act. the understan objective of the this judgements was used as defence fort he action did by teh SIR. butlater SC said that the court didnt said. 
 
 
