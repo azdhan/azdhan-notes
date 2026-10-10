@@ -7,4 +7,5 @@ list of issues:
 
 the supreme court also reported;ly said that the SIR process is not against the action of the peoples representation act. the understan objective of the this judgements was used as defence fort he action did by teh SIR. butlater SC said that the court didnt said. 
 
+the ECI is appointed by a committee (two - select commmitte and another one main one). in the main one PMO + opp. leader + union minister (so opp leader has no veto power, so. the PMO decides the ECI)
 

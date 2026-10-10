@@ -15,6 +15,7 @@
 7. [[CINEMA and books on AI and tech]]
 8. [[predictions on AI]]
 
+[[decision models - jev and laya]]
 
 
 [[AI and india]]
