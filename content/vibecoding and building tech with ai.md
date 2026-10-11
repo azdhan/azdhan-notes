@@ -11,7 +11,7 @@
 - jev |  [use cases](https://jev-directory.netlify.app/) | [skills](https://x.com/alex_prompter/status/2104949594241294617?s=20) | [clef](https://blog.cloudflare.com/clef-decision-models/) 
 - https://github.com/headroomlabs-ai/headroom
 - https://www.openmausbot.com/
-- https://subdomains.jsmon.sh/
+- https://subdomains.jsmon.sh/ \ a few [usecases](https://claude.ai/chat/b9a0c05e-bc31-40c1-925e-3a55c00909c8)
 - https://github.com/jtydhr88/screenwriting-skills
 - https://open-design.ai/ 
 - https://www.tavily.com/ 
