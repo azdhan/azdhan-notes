@@ -14,7 +14,9 @@ What this might [mean](https://www.reddit.com/r/StockMarket/comments/8thomy/comm
 
 
 # CRITICISM & ART
-1. the critic’s symbol should be the tumble-bug: he deposits his egg in somebody else’s dung, otherwise he could not hatch it. - [mark twain](https://www.themarginalian.org/2013/03/04/criticism/)
+"The real voyage of discovery consists not in seeking new landscapes, but in having new eyes." - [Marcel Proust](https://www.goodreads.com/quotes/33702-the-real-voyage-of-discovery-consists-not-in-seeking-new).
+
+the critic’s symbol should be the tumble-bug: he deposits his egg in somebody else’s dung, otherwise he could not hatch it. - [mark twain](https://www.themarginalian.org/2013/03/04/criticism/)
 
 # CENSORSHIP & FREEDOM OF EXPRESSION: 
 1. in india internet is not a space to express your art, it is a platform to increase the highscore in your bank account - samay raina \ [YT](https://youtu.be/LhpZJwUboeI?si=X6WALn0jau5-Z_f6&t=740)

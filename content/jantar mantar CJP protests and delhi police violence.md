@@ -56,7 +56,7 @@ news coverage: [TOI](https://x.com/SushantSin/status/2109113832358682975?s=20) \
 - [netaflix](https://x.com/zoo_bear/status/2108619779447898367?s=20) / megnad 
 - delhi police [deleted](https://x.com/Saurabh_MLAgk/status/2108885147554890195?s=20) their own post that they have so-called fact checked. 
 
-actors who spoke out: prakash raj and swara bhaskar has been vocal dissenters of modi  regime. amir khan brother imran khan [came](https://x.com/the_hindu/status/2108891735514554695?s=20) out on streets to protest. actor [vidyiuut jamwal](https://x.com/PplOfCongress/status/2109039474726559906?s=20) posted a reell. 
+actors who spoke out: prakash raj and swara bhaskar has been vocal dissenters of modi  regime. amir khan brother imran khan [came](https://x.com/the_hindu/status/2108891735514554695?s=20) (mumbai) out on streets to protest. actor [vidyiuut jamwal](https://x.com/PplOfCongress/status/2109039474726559906?s=20) posted a reell. 
 ## Surveillance: 
 - body cams [says](https://x.com/ANI/status/2108741380990443690?s=20) that it is for their own [protection](https://x.com/PTI_News/status/2108756721711939754?s=20). actually, it makes sense, because students are with smartphones camera on, police rarely had recordings of their own. +  they are also [recording](https://x.com/ShoaibDaniyal/status/2108824159845556628?s=20) on their own while they are being making sure that the body cams are also working fine
 - how did the police landed at the random homes and [how](https://x.com/free_thinker/status/2109104481061519753?s=20) did they know that people were travelling in that particular train? 
@@ -65,7 +65,7 @@ actors who spoke out: prakash raj and swara bhaskar has been vocal dissenters of
 ## Youtube longform reporting
 
 [JIST](https://www.youtube.com/watch?v=5pT9QM1jTP8)
-ongroud fro  october 9: [jist](https://www.youtube.com/watch?v=5pT9QM1jTP8) : this time female police officers are being oushed to front. these reminds of the left protests in the universties. thats they it is important ot have politics in the univerities. police are wantedlly createing the stampede like situation especially by using the female police officials. the anchor said that this is a flyover and the porotestors outnumbered the police. they are also arresting reporters and they are even keeping foot over the fallen protesters. this is all happening infront of very senior officials. three stars. they are escaping when asked. 
+ongroud fro  october 9: [jist](https://www.youtube.com/watch?v=5pT9QM1jTP8) : this time female police officers are being oushed to front. these reminds of the left protests in the universties. thats they it is important ot have politics in the univerities. police are wantedly createing the stampede like situation especially by using the female police officials. the anchor said that this is a flyover (possibly safdarjung flyover) and the protestors outnumbered the police. they are also arresting reporters and they are even keeping foot over the fallen protesters. this is all happening infront of very senior officials. three stars. they are escaping when asked. 
 
 her style of reporting especially constantly speaking to the camera man reminds me of unfiltered by [samdish](https://www.youtube.com/watch?v=6MTXCAaOy3o&t=7s&pp=ygUac2FtZGlzaCBqdWx5IGphbnRlciBtYW50YXI%3D)'s style. is this the new trend?
 
@@ -77,7 +77,15 @@ detentions started as early as 6:40am at cannought place. detained people even t
 [BRUT](https://www.youtube.com/watch?v=X53UlzXmSvI)
 peole have come from uttar pradesh, jharkand, in my opinion this tme the delhi police is a attacking the independent media. there are over **15 detention centres** it seems. there was **phone calls working** only the internet was shut down. the reporter says that **delhi police commandos** were never deployed for this kind of situation. **anti terrorist squad van** was also deployed on the streets,. and continuous speakers announcements too 
 
+[INDIAN EXPRESS HINDI ](https://youtu.be/ofzV4zcUGXk?si=_Qs6AMFcv1oKJI4S)
+the right wingers are sayng gyanesh kumar ko bharat ratna dena chahiye and they can t accept abuse against modia nd they will attack and the hindu sanatani are waiting and they jai jai to delhi police. asks delhi police havent arrested the rightwingers. he says that there were order to arrest the  people who might be influencers. PG owners were told not to allow the students for the protests. 
+- sambit patra saifd they are anachists. 
+- AAP arajvind krejiwal was alsoon detained, Pinarayi vijayan, john brittas, mamata benarjee also detained. 
+- economist john dreeze was also detained. 
+- taked about where rahul gandhi was. he was in chennai meeting TN CM vijay. he shold have met him. a very bad day. saurabh also poiinted the silence and random posts of modi
+- 
 
+a few mroe: [REDMIKE](https://www.youtube.com/watch?v=F3gf5UM28IM) \  ravish kumar - [one](https://www.youtube.com/watch?v=F3gf5UM28IM), [two](https://www.youtube.com/watch?v=2B5pC_MX6Zc) \ indian express [saurabh dwiedi](https://www.youtube.com/watch?v=ofzV4zcUGXk) \  [CJP-SFI-AISF](https://www.youtube.com/watch?v=gicICe5QaMQ) press conference \ 
 
 
 ---
@@ -94,9 +102,13 @@ peole have come from uttar pradesh, jharkand, in my opinion this tme the delhi p
 - some random people are [recording](https://x.com/TweetsOfLamaa__/status/2108641095811014852?s=20) some videos of and walks away when confronted
 - modi marketing flexies being [torn](https://x.com/newslaundry/status/2108851822022865262?s=20)
 - kapil sibal [said](https://x.com/LiveLawIndia/status/2109112164338549043?s=20) that there is no point in going to SC 
+- anjana om kashyap [said](https://x.com/AnukramWrites/status/2109127851891183660?s=20) that BJP is with ECI and going against eci means going against bjp 
+- the power of being an MP, the  police became again [slaves](https://x.com/aman_ganvir/status/2108863690250571960?s=20) infront of brave changdrasekhar azad. they should follow the rules and contitution,. whent hey take oath, the allegiance is sworn for the constitution. 
+- chennai, bengaluru mumbai, chandigardh (manish sisodia) also saw the protests and were arrests. 
 ## metro and train ban:
 - **[shutdown](https://x.com/AjayKumarJourno/status/2108460906107834836?s=20) trains and [metro](https://x.com/OfficialDMRC/status/2108594934387527914?s=20). SC [said](https://x.com/ANI/status/2108488727630852284?s=20)  you cant shut down mobility .** (brief [ord[[]]er](https://x.com/LiveLawIndia/status/2108569294095470875?s=20)) it is suprising and not so surprising that the SC has to say something like this. everyone who shuld know the rimportance of public mobility inthe antional capital. in fact, SC should initiate action against the person who passed the order. otherwise, these people will continue to allow such draconian laws. 
 - sunday there is a special hearing too.  the video was [turned](https://x.com/kingslyj/status/2109152106364158353?s=20) off. 
+- [this](https://x.com/Er_Ajayshah/status/2109124694272323793?s=20) is the notice shown inside the metros
 
 # july 2026
 [[notes from the jantar mantar ground - NEET protests (july 2026)]]

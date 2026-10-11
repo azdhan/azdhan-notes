@@ -1,3 +1,4 @@
+[[book notes and longform notes]]
 
 
 ## life and arts 
@@ -17,7 +18,10 @@
 ## india and politics
 1. [[modi index]]
 2. [[democracy can't work for the people ever]]
-3. [[why we need history and philosphy]]
+3. [[jantar mantar CJP protests and delhi police violence]]
+4. [[why we need history and philosphy]]
+
+
 
 
 ## tech and policy 
