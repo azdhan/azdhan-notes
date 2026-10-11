@@ -3,6 +3,12 @@
 #technology/ai
 
 
+## the future with/of ai 
+Ineffable [wants](https://app.ft.com/content/462c303b-b96c-4262-a7ca-e9ae7e440828) to create a company that can learn things on its own without training data from the humans. following first principles to discover something that couldn't be explained/described with the words we have today. its like creating anew disciple/domain/invention/discovery. he is one of the co creators of AlphaGo 
+
+## trivia of ai 
+- AI courses  were in university of essex in the 1980s itself - [FT](https://app.ft.com/content/462c303b-b96c-4262-a7ca-e9ae7e440828) \ [original](https://www.ft.com/content/462c303b-b96c-4262-a7ca-e9ae7e440828?syn-25a6b1a6=1) 
+
 ### Problems with AI :
 1. [[Copyright Problems of AI]]
 	1. [[privacy and ai data training problems of AI training]]

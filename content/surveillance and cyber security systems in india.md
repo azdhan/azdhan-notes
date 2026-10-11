@@ -4,9 +4,13 @@
 2. [[police monitoring and surveillance]]
 
 
-what is netra?
+what is netra?[]()
 -  a research [paper](https://www.researchgate.net/publication/312380082_Internet_Traffic_Surveillance_Network_Monitoring_in_India_Case_Study_of_NETRA) on NETRA. 
 
+
+
+MISC
+- there is a unverified [photo](https://x.com/kingslyj/status/2108887704184434962?s=20) that is identifying people with aadhaar numbers. the person who posted blames nandian nilekani
 - ECI [shared](https://www.medianama.com/2025/09/223-eci-sharing-voter-data-telangana-govt-facial-recognition/) the voter data with TG government and it used in delivering the services. 
 - but, using facial recognition technology is also [not very useful](https://vidhilegalpolicy.in/wp-content/uploads/2021/08/The-Use-of-Facial-Recognition-Technology-for-Policing-in-Delhi-compressed.pdf) as they may amplify the existing biases as the historical (mis)understandings can be fed into the AI systems as we humans were fed to. much worse, the AI systems can't think emperically. 
 

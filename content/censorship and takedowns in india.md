@@ -1,4 +1,7 @@
-- 
+
+## october 2026
+- **video essay on modi and adani:** they have [takendown](https://x.com/sabeer/status/2108962900471919080/photo/1) a video about adani and modi. hadnonly 40k videos and removed within 24 hours \  [backup](https://www.icloud.com/iclouddrive/07amAQmSF9lL2MZbKWvDFbqhw) \ [url](https://www.youtube.com/watch?v=XEK8QRXSKLM) / mahua moitra has [posted](https://x.com/MahuaMoitra/status/2109119142389584156?s=20)  about this  
+--- 
 - [The Wire on X: "The access to this content on The Wire’s Instagram and FB channels has been restricted “through an automated system,” citing implementation “pursuant to legal requirements under India’s Information Technology (Intermediary Guidelines and Digital Media Ethics Code) Rules.” https://t.co/XuuhWvEoRn" / X](https://x.com/thewire_in/status/2087765921389813982)
 - [Siddharth on X: "Anybody who still lives under the illusion that there is censorship in India, see this tweet which has been “withheld in India”. So the government does not allow any public speculation about a rift between @AmitShah and the Union Home Secretary! https://t.co/hMMMl4lWlB" / X](https://x.com/svaradarajan/status/2087824624268529971
 - doxxing - [Krisha 🌸 on X: "This girl left school to build a career on social media. For nearly 30 days she went to the CJP protest, abused the country’s Prime Minister, mocked Hindu religion, spread as much hate as she could, and kept her entire focus on social media. Bcz of all this, her followers grew https://t.co/ggrrTdLuT3" / X](https://x.com/KrishaAsiagh/status/2087539646070993391)
