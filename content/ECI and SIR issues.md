@@ -11,4 +11,8 @@ the ECI is appointed by a committee (two - select commmitte and another one main
 
 SC [said](https://x.com/barandbench/status/2109549847070363840?s=20) that we dont have anything to do with the form 6 additions that ECI did. 
 
-ECI chief can only be sacked only through the parliamentary process for impeachement. govt [cant](https://www.thehindu.com/opinion/political-line-gyanesh-kumar-why-the-bjp-is-in-a-catch-22-situation/article71566975.ece?from=NjY5NzUmdD0xNzdT0zNjk4NzYmYTkxNjk5OTMxODI51hcnRpY2xlNzE1XYZ) sack him. but if bjp wants him to go,  he will go
+ECI chief can only be sacked only through the parliamentary process for impeachement/removal. govt [cant](https://www.thehindu.com/opinion/political-line-gyanesh-kumar-why-the-bjp-is-in-a-catch-22-situation/article71566975.ece?from=NjY5NzUmdD0xNzdT0zNjk4NzYmYTkxNjk5OTMxODI51hcnRpY2xlNzE1XYZ) sack him. but if bjp wants him to go,  he will go. but the word impeachment is specifically used for president, for CEC, its removal. the process will begin by either 100 MPs in LS or 50 MPs in RS. then the SC judge, Dist HC judge and a jurist will investigate while hearing the case if the person being impeached/removed. for this, there needs to have the proof for violation of constitution. after the investigation, the house moves to vote, the majority and the 2/3 of the voting. the president has to pass an order. 
+
+
+
+
