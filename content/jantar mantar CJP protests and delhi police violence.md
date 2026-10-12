@@ -143,7 +143,7 @@ Never trusting surya kant in my life again. he said the both the same things on 
 
 +as CJI was here, the sitting CJI refused to hear about protests. wow. 
 
-Rahul gandhi led INDIA bloc was walking towards SC: some pics and videos: top angle at [statesman house](https://x.com/abhijeet_dipke/status/2109608662004326879?s=20)  - [video](https://x.com/XIIOXIIOXIIOX/status/2109594953198473420) \  
+Rahul gandhi led INDIA bloc was walking towards SC: some pics and videos: top angle at [statesman house](https://x.com/abhijeet_dipke/status/2109608662004326879?s=20)  - [video](https://x.com/XIIOXIIOXIIOX/status/2109594953198473420) \  he held a [batman mask](https://x.com/ndtv/status/2109621440777519517?s=20), perhaps to indicate the gotham city like situation ondelhi and india \ 
 
 Meanwhile, mumbai ahd a [silent protest ](https://x.com/tabassum_b/status/2109612641568329899?s=20)and bengaluru police detained a few protestors while congress karnatka CM DK sivakumar is in Dlehi
 
