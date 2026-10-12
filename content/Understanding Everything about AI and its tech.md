@@ -27,6 +27,7 @@ Ineffable [wants](https://app.ft.com/content/462c303b-b96c-4262-a7ca-e9ae7e44082
 [[AI and india]]
 ## misc. 
 - technologists [talking](https://x.com/FLI_org/status/2074100812901441779?s=20) about the dangers of AI and the impact on humanity
+- semiconductor [tracker](https://x.com/pranaykotas/status/2109475470567931931?s=20): 
 
 
 

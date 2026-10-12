@@ -49,5 +49,59 @@ Also Read
 
   
 
+# sahamati interview 
 
-**
+
+**# What Sahamati says on RBI's plan to make account aggregators interoperable
+
+Customers "should not have to choose an Account Aggregators (AA) based on which institutions it happens to be connected to," Sahamati CEO BG Mahesh told MediaNama, calling RBI’s mandate that can doesn’t require users to have multiple AA accounts as "the fundamental promise" of [AA interoperability](https://www.medianama.com/2026/10/223-rbi-account-aggregators-interoperable/). However, whether existing handles and consents will carry over, he said, will depend on the final implementation framework.
+
+The Reserve Bank of India (RBI) [announced](https://www.rbi.org.in/Scripts/BS_PressReleaseDisplay.aspx?prid=63743) on October 7 that Non-Banking Financial Companies-Account Aggregators (NBFC-AAs) will be made interoperable, so that customers can access and share financial information from different institutions through any AA of their choice. The change is expected to be implemented by December 31, 2026.
+
+For some context, AAs are NBFCs licensed by RBI that act as a consent-based data-sharing bridge between institutions that hold a customer's data, called Financial Information Providers (FIPs), such as banks, and those that need it, called Financial Information Users (FIUs), such as lenders.
+
+To understand how the industry reads RBI’s announcement, MediaNama sent written questions to Sahamati, the RBI-recognised self-regulatory organisation (SRO) for the AA ecosystem, and spoke to its CEO, BG Mahesh. Below are Mahesh's responses, edited lightly for brevity and clarity.
+
+Why do you think this interoperability feature is required? What is the problem that could be solved because of this?
+
+"If an FIP works with one account aggregator, there is no additional code for them to write to work with one more. But the operational, legal and compliance burden of onboarding more and more account aggregators was huge. For the large ones especially, they had to go through a full process that would take three or six months to onboard another account aggregator.
+
+Technically, it can be onboarded within half an hour. But there was a lot of legal compliance, because the bank would be opening up to traffic from another account aggregator. So that bank has to do the technical audit, the security audit and so on of that account aggregator, even though it is already a regulated entity."
+
+"The bigger shift here is from institution-centric connectivity to customer-centric portability. India's digital infrastructure has shown that interoperability can dramatically simplify the consumer experience. AA can now take that principle into financial data: the customer chooses the interface, gives consent, and the infrastructure does the work of connecting the ecosystem behind it. That is what can take AA from a successful consent mechanism to a foundational layer of India's digital financial infrastructure."
+
+How might AA interoperability work? Should every FIP connect to every AA under, or will AAs connect to each other and route requests?
+
+"Interoperability should be judged by the outcome, not the underlying topology. The customer should be able to choose an AA and access financial information across the ecosystem, irrespective of the connections between individual FIPs and AAs. Whether this is achieved through the current model of direct connections between FIPs/FIUs and AAs or through another architecture is ultimately a technical design choice."
+
+While it can make data-flowing processes smoother for the banks or lenders, what are the benefits for the end user; the user doesn’t need a new AA account each time he/she may apply for a new bank loan which may use a different AA?
+
+"That is the fundamental promise of interoperability. Customers should not have to choose an AA based on which institutions it happens to be connected to. The treatment of existing handles and consents will depend on the final implementation framework, but the guiding principle should be continuity of customer choice and consent."
+
+Can users still hold more than one AA handle?
+
+"You can, if you want. You may want to use only one account aggregator, or you may use three or four. But with interoperability, you are not forced to open more and more AA handles. As of today you are forced to, because your particular bank, as an FIP or FIU, works only with select account aggregators, so you have to open an account with them. Going forward, you can still have, say, eight accounts, but you will not be obligated to open more and more handles, because with one handle itself you are able to do what you want."
+
+When a request involves more than one AA, who holds the consent record, and who is responsible for failed fetches/errors, grievances or data incidents?
+
+"Interoperability cannot mean distributed accountability. Every consent and data-sharing transaction must remain traceable, with clear responsibility at each stage of the journey. The operating framework should make it unambiguous who is accountable for the consent, the request, the data flow and the customer grievance."
+
+How will AAs be paid for requests involving more than one AA, and will interoperability change how AAs compete?
+
+"Interoperability should fundamentally evolve what AAs compete on. Connectivity becomes shared infrastructure, while differentiation can increasingly come from customer experience, trust, reliability, innovation and the ability to build useful financial services around consented data. The commercial model will have to be worked out by the AAs with the focus on ensuring that the model supports customer choice and the continued growth of the ecosystem."
+
+Is December 31 realistic, what is the biggest hurdle, and who should bear the integration cost?
+
+"The timeline is achievable if the ecosystem keeps the customer at the centre of this change and approaches interoperability as a shared digital infrastructure priority rather than another point of integration. The bigger challenge is coordination across technology, standards, testing and operational processes."
+
+"Even before the specs come, why should we say that it won't be possible by December? Let it come. I want to see the official one. The ecosystem wants to work towards consumer convenience. That commitment from us has to be there. Once the specs come, we will be able to say whether it is possible or not. But from what we have seen, the changes are not huge."
+
+When can the industry expect the rules and technical specifications?
+
+"I do not know. They have not yet informed us."
+
+Also Read
+
+- [RBI to make account aggregators interoperable](https://www.medianama.com/2026/10/223-rbi-account-aggregators-interoperable/)
+    
+- [Account Aggregator ecosystem goes live with 8 banks and multiple fin-tech firms](https://www.medianama.com/2021/09/223-account-aggregator-ecosystem-launch/)**

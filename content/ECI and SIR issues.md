@@ -9,3 +9,6 @@ the supreme court also reported;ly said that the SIR process is not against the 
 
 the ECI is appointed by a committee (two - select commmitte and another one main one). in the main one PMO + opp. leader + union minister (so opp leader has no veto power, so. the PMO decides the ECI)
 
+SC [said](https://x.com/barandbench/status/2109549847070363840?s=20) that we dont have anything to do with the form 6 additions that ECI did. 
+
+ECI chief can only be sacked only through the parliamentary process for impeachement. govt [cant](https://www.thehindu.com/opinion/political-line-gyanesh-kumar-why-the-bjp-is-in-a-catch-22-situation/article71566975.ece?from=NjY5NzUmdD0xNzdT0zNjk4NzYmYTkxNjk5OTMxODI51hcnRpY2xlNzE1XYZ) sack him. but if bjp wants him to go,  he will go

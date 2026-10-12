@@ -1,6 +1,13 @@
 
-## october 2026
-- **video essay on modi and adani:** they have [takendown](https://x.com/sabeer/status/2108962900471919080/photo/1) a video about adani and modi. hadnonly 40k videos and removed within 24 hours \  [backup](https://www.icloud.com/iclouddrive/07amAQmSF9lL2MZbKWvDFbqhw) \ [url](https://www.youtube.com/watch?v=XEK8QRXSKLM) / mahua moitra has [posted](https://x.com/MahuaMoitra/status/2109119142389584156?s=20)  about this  
+
+## october 2026:
+- apparently google had deleted some posts based on a [fake](https://x.com/pranesh/status/2109314406219997305?s=20) court orders
+
+### adani and censorship
+**video essay on modi and adani:** they have [takendown](https://x.com/sabeer/status/2108962900471919080/photo/1) a video about adani and modi.   hadnonly 40k videos and removed within 24 hours \  [backup](https://www.icloud.com/iclouddrive/07amAQmSF9lL2MZbKWvDFbqhw) \ [url](https://www.youtube.com/watch?v=XEK8QRXSKLM) / mahua moitra has [posted](https://x.com/MahuaMoitra/status/2109119142389584156?s=20)  about this  \ [notice](https://x.com/SFLCin/status/2109193327577027045?s=20) [[youtube took down video essay on Modi and adani]]
+- adani has got [removed](https://x.com/AroonDeep/status/887318019344433152?s=20) an article on EPW in 2017. later the editor resigned. artilce [archived](https://archive.is/wgrIy)
+- there is something [fishy](https://x.com/AzdhanB/status/2075167371283841353?s=20) going on someone is claiming the copyrights to original content creators and taking away the content + same copyright misuse is happening [internationally](https://www.instagram.com/reels/Dd5SygBTUW8/) too  (but this is relarted to anant ambani
+- 
 --- 
 - [The Wire on X: "The access to this content on The Wire’s Instagram and FB channels has been restricted “through an automated system,” citing implementation “pursuant to legal requirements under India’s Information Technology (Intermediary Guidelines and Digital Media Ethics Code) Rules.” https://t.co/XuuhWvEoRn" / X](https://x.com/thewire_in/status/2087765921389813982)
 - [Siddharth on X: "Anybody who still lives under the illusion that there is censorship in India, see this tweet which has been “withheld in India”. So the government does not allow any public speculation about a rift between @AmitShah and the Union Home Secretary! https://t.co/hMMMl4lWlB" / X](https://x.com/svaradarajan/status/2087824624268529971
@@ -51,7 +58,7 @@
 - [[possible censorship after CJP protests at jantar mantar]]
 - [Instagram Takes Down The Wire's Reports on Lawrence Bishnoi and 'Chauhaan' Without Prior Intimation - The Wire](https://thewire.in/media/instagram-takes-down-the-wires-reports-on-lawrence-bishnoi-and-chauhaan-without-prior-intimation) 
 - arrested for calling a Chief Minister a[ "delivery person"](https://x.com/IndLibertarians/status/2077272727623463027) on TV, especially two years after the remark was made.
-- there is something [fishy](https://x.com/AzdhanB/status/2075167371283841353?s=20) going on someone is claiming the copyrights to original content creators and taking away the content + same copyright misuse is happening internationally too 
+- 
 - https://x.com/its_trinay/status/2074944043910582732?s=20 
 - https://x.com/shristhikhanna/status/2075030217505059053?s=20
 
