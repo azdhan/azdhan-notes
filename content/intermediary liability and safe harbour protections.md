@@ -5,8 +5,16 @@ instances where the intermediaries have been held liable:
 4. Meta -- walkie talkies on its [market place](https://www.consumerprotection.in/consumer-protection-e-commerce-rules-2020/)
 
 ## section 79 of the IT Act 
-what is an intermediary: 
+what is an intermediary: **
 
+Under the [IT Act](https://www.indiacode.nic.in/bitstream/123456789/13116/1/it_act_2000_updated.pdf), to claim safe harbor protection, an intermediary should not:
+- Initiate the transmission.
+- Select the receiver of the transmission.
+- Select or modify the infrmation in the transmission.
+- Fail to observe due diligence under the IT Act and other guidelines.
+    
+
+**
 ## ai and the intermediary liability 
 what i have written:[  why ai platforms are not intermediaries](https://www.medianama.com/2026/07/223-meity-ai-platforms-safe-harbor/) and [why ai agents cant claim the safe harbour protections. ](https://www.medianama.com/2026/09/223-no-principles-ai-agents-youth-igf/)
 ## social media platforms and intermediary liability 
