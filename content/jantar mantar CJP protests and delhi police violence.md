@@ -1,7 +1,6 @@
 
 the reasons: [[ECI and SIR issues]]
 # October 2026
-What delhi police is doing now: 
 
 ## delhi police atrocities
 - the [scale](https://x.com/pranavpradhi1/status/2107846619140149707?s=20) of poice deployment
