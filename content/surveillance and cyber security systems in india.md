@@ -10,6 +10,7 @@ what is netra?[]()
 
 
 MISC
+- it is very common thin in hyderabad to be stopped and asjked for facial and finger prints. [this](https://www.reddit.com/r/hyderabad/comments/1x3v0og/was_stopped_at_ameerpet_by_police_to_check_my/) is one such instance. 
 - the submission of whatsapp messages in indian courts from a siezed phones cant be tamper proof because of [this](https://x.com/iam_anandv/status/2109353381022322920?s=20). this is only one use case. this can be misused and exploiuted in many ways 
 - there is a unverified [photo](https://x.com/kingslyj/status/2108887704184434962?s=20) that is identifying people with aadhaar numbers. the person who posted blames nandian nilekani
 - ECI [shared](https://www.medianama.com/2025/09/223-eci-sharing-voter-data-telangana-govt-facial-recognition/) the voter data with TG government and it used in delivering the services. 
