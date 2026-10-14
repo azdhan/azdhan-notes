@@ -6,6 +6,10 @@
 
  **predictability is a mirage**. there is no such thing as knowing the partner fully. but when we think that we know the partner fully we  are creating a manufactured equilibrium. the sense of security will be gone/reduced when the person's real sense of self is brought in, as a surprise/casually.  this is not bad per se in my opinion, because, at the end, dealing with reality is what is required. i'd always prefer dealign with reality than living in a false sense of assurance. but, the thing is: is the other person/anyone ready to face the reality as it is?  or, are we too comfortable in letting things as they are? essentially its a question of: challenging vs status quo. 
 
+> "love is a selective perception and delicious deception "
+
+
+**The correlation of sex and love:** on the contrary, the author argues that if there is more emotional intimacy there would/could be less sex and the couple could be still be as happy as before. 
 
 her points: 
 - commitment to security is a trade off against openness and freedom. the sense of comfort or the security might take away the sense of excitement. being predictable might not bring excitement anymore. 
@@ -17,5 +21,6 @@ her points:
 ### some books refered: 
 - can love last 
 - the transformation for intimacy
+- hot monogamy 
 
  

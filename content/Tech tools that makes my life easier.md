@@ -28,6 +28,7 @@
 	- 60 min/day; 5 files/day -- [link](https://freetotranscribe.com)
 	- use this in combo with this [split-video]([Split Video Online - Split video in a browser(Free & Secure)](https://split-video.com/)) tool to split the longer files. 
 	- at MediaNama, we use HappyScribe. nothing to say bad about it specifically. it works.
+	- alternatieve: https://instanttranscriber.com/ 
 - [NoteGPT](https://notegpt.io/youtube-subtitle-downloader): generates YouTube subtitles/transcript 
 - [Handy](https://handy.computer/download) helps with the voice to text transcription without the subscription.
 	- alternate: [FOSS Voquill | Free & Private Dictation](https://voquill.org/) 

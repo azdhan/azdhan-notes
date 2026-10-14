@@ -1,3 +1,5 @@
+[How Adani profited from government coal import order that raised electricity prices across India](https://scroll.in/article/1096068/how-adani-profited-from-government-coal-import-order-that-raised-electricity-prices-across-india) 
+
 YouTube has taken down a video essay on Prime Minister Narendra Modi and Gautam Adani, titled: **"How Modi and Adani Stole India I The Friendship Files,"** which was created by Sabeer Bhatia, the co-founder of Hotmail. 
 
 The [video](https://www.youtube.com/watch?v=XEK8QRXSKLM) was taken down within a few days after uploading, which was originally posted on October 9th and had only 45,000 views at the time of takedown. However, the video is accessible via VPN. 

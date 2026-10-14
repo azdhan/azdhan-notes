@@ -32,7 +32,7 @@
 [[what to read]]
 [[intermediary liability and safe harbour protections]]
 [[how spam works and regulated in india]]
-[[ai policy regulation across sectors]]
+[[ai policy mega notes]]
 
 
 ## journalism 

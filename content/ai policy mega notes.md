@@ -6,4 +6,6 @@
 - entertainment and copyrights 
 -  ai generated content
 - ai and automated decision making, how algorithmic decisions were regulated in the past
+- [[education and ai]]
+- [[cybersecurity and ai]]
 - 
