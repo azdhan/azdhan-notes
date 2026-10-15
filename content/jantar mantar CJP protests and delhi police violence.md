@@ -104,7 +104,7 @@ the right wingers are sayng gyanesh kumar ko bharat ratna dena chahiye and they 
 - taked about where rahul gandhi was. he was in chennai meeting TN CM vijay. he shold have met him. a very bad day. saurabh also poiinted the silence and random posts of modi
 - 
 
-a few mroe: [REDMIKE](https://www.youtube.com/watch?v=F3gf5UM28IM) - [two](https://x.com/TheRedMike/status/2109333845489451341?s=20) \  ravish kumar - [one](https://www.youtube.com/watch?v=F3gf5UM28IM), [two](https://www.youtube.com/watch?v=2B5pC_MX6Zc) \ indian express [saurabh dwiedi](https://www.youtube.com/watch?v=ofzV4zcUGXk) \  [CJP-SFI-AISF](https://www.youtube.com/watch?v=gicICe5QaMQ) press conference \ 
+a few mroe: [REDMIKE](https://www.youtube.com/watch?v=F3gf5UM28IM) - [two](https://x.com/TheRedMike/status/2109333845489451341?s=20) \  ravish kumar - [one](https://www.youtube.com/watch?v=F3gf5UM28IM), [two](https://www.youtube.com/watch?v=2B5pC_MX6Zc) \ indian express [saurabh dwiedi](https://www.youtube.com/watch?v=ofzV4zcUGXk) \  [CJP-SFI-AISF](https://www.youtube.com/watch?v=gicICe5QaMQ) press conference \ [SCROLL](https://www.youtube.com/watch?v=JUSdICy_2l8) \  
 
 
 ---

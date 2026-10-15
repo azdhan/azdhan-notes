@@ -32,7 +32,12 @@
 [[what to read]]
 [[intermediary liability and safe harbour protections]]
 [[how spam works and regulated in india]]
+
 [[ai policy mega notes]]
+
+### media 
+[[iptv regulation in india]]
+
 
 
 ## journalism 

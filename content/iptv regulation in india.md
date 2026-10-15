@@ -1,0 +1,1 @@
+trai has been trying to regulate the IPTV. it also documents th number of subscribers. here is performance indicators report[ published in sept 2026](https://www.trai.gov.in/sites/default/files/2026-10/QPIR_12102026.pdf) total there are 62 lakh IPTV subscribers in india
