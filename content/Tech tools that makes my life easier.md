@@ -35,6 +35,7 @@
 - PasteBin - for sharing text online. But filled with ads. so use this: 
 - Convert so PDF or documents into markdown files for easier chatting with the LLMs.: https://createmd.vercel.app )credits NIkhil Pahwa)
 - https://imagetotextocr.com 
+- INSTAGRAM: [eden](https://eden.so/tools/instagram-transcript-generator/) \ 
 ## editing 
 - [riverside](https://riverside.com) for online video recording and making them produce 
 - [descript](https://www.descript.com/?redirect=false) - AI-based editing videos. and there is another company called overlap that auto-cuts the YT videos

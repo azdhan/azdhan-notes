@@ -21,3 +21,6 @@ people whom i can ttalk to: simbinding event [speakers](https://docs.google.com/
 - harshitha  Tamannah (legal) / xiamo -- 9740073476 
 - jio : 
 	- [arun kumar](https://www.linkedin.com/in/arun-kumar-58874829/?isSelfProfile=false) arun.22.kumar@bt.com \ sarun.kmr@gmail.com \ sarun.kmr@gmail.com \ 
+
+## reports 
+- e[sya center](https://static1.squarespace.com/static/5bcef7b429f2cc38df3862f5/t/6aceebe2f4fc8b1fdec99562/1791945698327/Digital_Rethinking+India%E2%80%99s+SIM+Binding+Mandate_compressed.pdf) \ 

@@ -106,6 +106,8 @@ the right wingers are sayng gyanesh kumar ko bharat ratna dena chahiye and they 
 
 a few mroe: [REDMIKE](https://www.youtube.com/watch?v=F3gf5UM28IM) - [two](https://x.com/TheRedMike/status/2109333845489451341?s=20) \  ravish kumar - [one](https://www.youtube.com/watch?v=F3gf5UM28IM), [two](https://www.youtube.com/watch?v=2B5pC_MX6Zc) \ indian express [saurabh dwiedi](https://www.youtube.com/watch?v=ofzV4zcUGXk) \  [CJP-SFI-AISF](https://www.youtube.com/watch?v=gicICe5QaMQ) press conference \ [SCROLL](https://www.youtube.com/watch?v=JUSdICy_2l8) \  
 
+PRINT: [NYT](https://www.nytimes.com/2026/10/14/world/asia/india-protests-police-brutality.html) /  
+
 
 ---
 ## misc:
@@ -128,6 +130,8 @@ a few mroe: [REDMIKE](https://www.youtube.com/watch?v=F3gf5UM28IM) - [two](https
 - when UN humannrights office objected to the human rights violations,[ indian govt ](https://x.com/ANI/status/2109141039596646751?s=20)apparently [said](https://x.com/PeekTV_in/status/2109240459776442411?s=20) intereference with the india's internal matter. 
 - neha [faked](https://x.com/RajatJain/status/2109232971702288872?s=20) neha. there is a reuters profile of her too 
 - some one [said](https://x.com/kingslyj/status/2109268537047191867?s=20) that hte next elections should be fought on the human rights issues and what will they do prevail the rights
+- someone [built](https://x.com/ripper_dhruvaa/status/2110369890410676571?s=20) a facial recognition app to identify the police officials who did police brutality
+- 
 
 photos: [reuters](https://x.com/manaman_chhina/status/2109169759833190894?s=20) \ neha [running](https://x.com/Dipankar_cpiml/status/2109289042244411798?s=20) \ Raga [behind](https://x.com/Nehru_Jawaharla/status/2109647956924043719?s=20) neha and priyanka \ women [helpline](https://x.com/CatWomaniya/status/2110090415596859450?s=20) ([video](https://x.com/MauryaAlka76391/status/2110031745026539835?s=20)) \ 
 ## metro and train ban:
@@ -148,6 +152,8 @@ Never trusting surya kant in my life again. he said the both the same things on 
 Rahul gandhi led INDIA bloc was walking towards SC: some pics and videos: top angle at [statesman house](https://x.com/abhijeet_dipke/status/2109608662004326879?s=20)  - [video](https://x.com/XIIOXIIOXIIOX/status/2109594953198473420) \  he held a [batman mask](https://x.com/ndtv/status/2109621440777519517?s=20), perhaps to indicate the gotham city like situation ondelhi and india \ final [visuals](https://x.com/TheQuint/status/2109640449501856138?s=20) of him entering the SC
 
 Meanwhile, mumbai ahd a [silent protest ](https://x.com/tabassum_b/status/2109612641568329899?s=20)and bengaluru police detained a few protestors while congress karnatka CM DK sivakumar is in Dlehi
+
+live thread of the hearing on [oct 15](https://x.com/barandbench/status/2110561693512470602?s=20), the petition filed by RaGa
 
 # july 2026
 [[notes from the jantar mantar ground - NEET protests (july 2026)]]

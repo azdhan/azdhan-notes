@@ -28,4 +28,8 @@ the critic’s symbol should be the tumble-bug: he deposits his egg in somebody 
 - definitions belong to the definer not the defined (sentence) - toni morrison
 - I divide my officers into four groups. There are clever, diligent, stupid, and lazy officers. Usually two characteristics are combined. Some are clever and diligent – their place is the General Staff. The next lot are stupid and lazy – they make up ninety percent of every army and are suited to routine duties. Anyone who is both clever and lazy is qualified for the highest leadership duties, because he possesses the intellectual clarity and the composure necessary for difficult decisions. One must beware of anyone who is stupid and diligent – he must not be entrusted with any responsibility because he will always cause only mischief. -  [Kurt von Hammerstein-Equord](https://rationalwiki.org/wiki/Hanlon's_razor#cite_note-9) 
 - Two things are infinite, the universe and human stupidity, and I am not yet completely sure about the universe.-  [Albert Einstein](https://rationalwiki.org/wiki/Albert_Einstein "Albert Einstein") 
- 
+
+# life / love / tragedy 
+ The salvation of man is through love and in love -- vicktor frankl 
+
+  

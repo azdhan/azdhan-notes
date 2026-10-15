@@ -3,13 +3,14 @@
 #technology/ai
 
 
-## the future with/of ai 
-Ineffable [wants](https://app.ft.com/content/462c303b-b96c-4262-a7ca-e9ae7e440828) to create a company that can learn things on its own without training data from the humans. following first principles to discover something that couldn't be explained/described with the words we have today. its like creating anew disciple/domain/invention/discovery. he is one of the co creators of AlphaGo 
 
-## trivia of ai 
-- AI courses  were in university of essex in the 1980s itself - [FT](https://app.ft.com/content/462c303b-b96c-4262-a7ca-e9ae7e440828) \ [original](https://www.ft.com/content/462c303b-b96c-4262-a7ca-e9ae7e440828?syn-25a6b1a6=1) 
 
-### Problems with AI :
+# index
+[[ai policy mega notes]]
+[[future and philosophy of ai]]
+
+
+ISSUES WITH / IN AI:
 1. [[Copyright Problems of AI]]
 	1. [[privacy and ai data training problems of AI training]]
 2. [[ai and national security]]
@@ -25,7 +26,9 @@ Ineffable [wants](https://app.ft.com/content/462c303b-b96c-4262-a7ca-e9ae7e44082
 
 
 [[AI and india]]
-## misc. 
+## trivia of ai 
+- AI courses  were in university of essex in the 1980s itself - [FT](https://app.ft.com/content/462c303b-b96c-4262-a7ca-e9ae7e440828) \ [original](https://www.ft.com/content/462c303b-b96c-4262-a7ca-e9ae7e440828?syn-25a6b1a6=1) 
+### misc. 
 - technologists [talking](https://x.com/FLI_org/status/2074100812901441779?s=20) about the dangers of AI and the impact on humanity
 - semiconductor [tracker](https://x.com/pranaykotas/status/2109475470567931931?s=20): 
 
@@ -51,13 +54,13 @@ Ineffable [wants](https://app.ft.com/content/462c303b-b96c-4262-a7ca-e9ae7e44082
 9. [Intro | Putting the "You" in CPU](https://cpu.land/) 
 10. [The Joy of Cryptography](https://joyofcryptography.com/) 
 
-## books 
+###  books 
 - [A Philosophy of Software Design](https://www.amazon.in/A-Philosophy-of-Software-Design/dp/1732102201) - referred by andrej karparthy in one youtube speech.
 - [AI Book Club](https://www.aitechprivacy.com/ai-book-club) | [list of 39 AI books](https://x.com/LuizaJarovsky/status/2087282988295860557/photo/1)
 - YT [channels](https://x.com/ihtesham2005/status/2026086425561645489) 
 - [Deep Unlearning | Book by Timnit Gebru | Official Publisher Page | Simon & Schuster](https://www.simonandschuster.com/books/Deep-Unlearning/Timnit-Gebru/9781668093078) 
 
-## substack accounts to follow: 
+###  substack accounts to follow: 
 1. Reasoned by Nikhil Pahwa
 2. https://importai.substack.com 
 

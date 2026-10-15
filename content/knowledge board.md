@@ -21,17 +21,25 @@
 3. [[jantar mantar CJP protests and delhi police violence]]
 4. [[why we need history and philosphy]]
 
-
-
+### politics and business in india
+[[ambani and india]]
+[[adani and india]]
 
 ## tech and policy 
 [[Tech tools that makes my life easier]]
+
+### tech in india 
 [[payments in india ]]
+[[cybersecurity in india]]
 [[sim binding in india]]
 [[trai attempts to regulate OTTs]]
 [[what to read]]
 [[intermediary liability and safe harbour protections]]
 [[how spam works and regulated in india]]
+[[children and internet]]
+
+
+
 
 [[ai policy mega notes]]
 
