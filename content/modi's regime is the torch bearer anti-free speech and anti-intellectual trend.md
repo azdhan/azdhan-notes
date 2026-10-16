@@ -1,4 +1,5 @@
 [[censorship on Indian media and internet]] 
+- the SC has said that it willl review who is a journo and who is a youtuber/content cerator. what a stupid thing to do. because, the press freedom in india is derived from the freedom of expression, by designating who is a journo, you are essentially creating a avanue to 
 - [[arrested for having books]]
 - journalists [gagged](https://www.inventiva.co.in/stories/saga-of-journalists-gagged-by-adani/) by adani
 - reporters covering j&k were [called](https://x.com/tallstories/status/2013235320771473565?s=20) in to police by delhi police
