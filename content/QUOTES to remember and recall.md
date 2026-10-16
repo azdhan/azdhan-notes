@@ -19,6 +19,8 @@ What this might [mean](https://www.reddit.com/r/StockMarket/comments/8thomy/comm
 the critic’s symbol should be the tumble-bug: he deposits his egg in somebody else’s dung, otherwise he could not hatch it. - [mark twain](https://www.themarginalian.org/2013/03/04/criticism/)
 
 # CENSORSHIP & FREEDOM OF EXPRESSION: 
+nothing has yet been said that hasnt been said - a roman poet
+
 1. in india internet is not a space to express your art, it is a platform to increase the highscore in your bank account - samay raina \ [YT](https://youtu.be/LhpZJwUboeI?si=X6WALn0jau5-Z_f6&t=740)
 2. A just/ discriminating censorship is impossible - [SUSAN SANTOG](https://www.themarginalian.org/2012/06/26/susan-sontag-on-censorship/)
 3. Do not fear to be eccentric in opinion, for every opinion now accepted was once eccentric. - [bertand russel](https://www.themarginalian.org/2012/05/02/a-liberal-decalogue-bertrand-russell/)

@@ -25,6 +25,9 @@
 [[ambani and india]]
 [[adani and india]]
 
+[[sand mining in india]]
+
+
 ## tech and policy 
 [[Tech tools that makes my life easier]]
 
@@ -44,9 +47,11 @@
 
 [[ai policy mega notes]]
 
-### media 
+### media regualtion in india 
 [[iptv regulation in india]]
 
+## thinking better 
+[[mental models for life]]
 
 
 ## journalism 
