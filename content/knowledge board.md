@@ -42,9 +42,6 @@
 [[children and internet]]
 [[internet shutdowns in india]]
 
-
-
-
 [[ai policy mega notes]]
 
 ### media regualtion in india 
@@ -57,3 +54,4 @@
 ## journalism 
 [[journalism resources]]
 
+[[reviews - movies and series]]

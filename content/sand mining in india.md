@@ -4,7 +4,7 @@ indian states: ap, tn, mp (one of worst), bh, up
 ## reasons 
 Legal supply is bottlenecked** by district survey reports, environmental clearances, auctions, monsoon restrictions and court orders. When legal supply stalls, prices rise and illegal supply fills the gap. One explainer notes that a poor monsoon means less natural replenishment while demand stays constant. 
 
-what are these required environmental clearanaces? are they proportionate? do they need court orders for mining?  
+what are these required environmental clearances? are they proportionate? do they need court orders for mining?  
 
 
 ## laws and policies 

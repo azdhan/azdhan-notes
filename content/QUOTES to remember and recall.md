@@ -8,7 +8,7 @@
 2. argumentative indian could be just a opinionated indian -- [jyothirmayaa sharma](https://www.youtube.com/watch?v=CuujOJ83HM4) 
 
 ## business and leadership 
- "When a management with a reputation for brilliance tackles a business with a reputation for bad economics, it is the reputation of the business that remains intact." --warren buffet (from book intelligent investor and also quoted in [[reading aadhaar effect; notes and references]])
+ "When a management with a reputation for brilliance tackles a business with a reputation for bad economics, it is the reputation of the business that remains intact." --warren buffet (from book intelligent investor and also quoted in [[aadhaar effect]])
 
 What this might [mean](https://www.reddit.com/r/StockMarket/comments/8thomy/comment/e17j8g7/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button) is that some business (like govt) have complex and broken systems, even a good leadership cant fix it. 
 
