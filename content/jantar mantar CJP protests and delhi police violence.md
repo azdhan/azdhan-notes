@@ -167,4 +167,14 @@ What all did they do then?
 - the [case](https://www.medianama.com/2026/08/223-delhi-police-facial-recognition-criminal-records/) is in SC now. 
 - their cameras reported [flagged](https://www.medianama.com/2026/09/223-delhi-polices-facial-recognition-jantar-mantar/) the criminals
 -  [Digital developments on the second day of the internet shutdown at Jantar Mantar](https://www.medianama.com/2026/07/223-digital-developments-second-day-internet-shutdown-jantar-mantar/)
-- 
+
+
+## how the france protests were dfferent 
+after a few days of the jantar mantar protests, france also saw one of the biggest protests. people  were also accused them of far left, nonetheless, how their police [dealt](https://share.google/aimode/ayRgO83leqk8w1MUh) with them speaks something else: 
+- no internet shutdowns, 
+- over 6.2k arrests (120 in one day), but not illegal unexplained detentions like delhi police
+- no explicit surveillannce and monitoring
+- only police control, no prevention lockdowns/arrests.
+- protesters blocked the roads, not the police
+
+

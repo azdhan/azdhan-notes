@@ -2,8 +2,6 @@ book written by ns ramnath and charles assisi
 
 aadhaar is about identification of people. sometimes for the public service deliveries. eventually that became an officially-unofficial mandatory thing to prove one's existence (except for citizenship)
 
-
-
 ## where i disagree with the authors
 **privacy is not a problem to the commers, they might argue** they cite that the villagers had seen some benefits and therefore they accepted it despite any qualms about the privacy. that doesnt mean that are okay with the privacy invasion. 
 - you cant claim the unconsented consent of the uneducated/unaware commers while you keep mum about the explicit/evidential illustrations of privacy violations and poor safeguards. 
