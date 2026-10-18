@@ -1,6 +1,76 @@
 # AI Job Search Dashboard
 
 <!-- NEW DAY BLOCKS GO DIRECTLY BELOW THIS LINE (latest day on top). One "## Month, Date, Year" block per day, table sorted by Score descending. -->
+
+## October 17, 2026
+
+**Source:** LinkedIn jobs-guest (`linkedin-search` CLI): 25 keywords x 3 locations (remote / Hyderabad / Bengaluru) + freehire public API: India
+**Queries:** `policy writer` | `policy researcher` | `culture writer` | `film critic` | `editorial writer` | `opinion writer` | `thought leadership` | `tech journalist` | `research writer` | `tech policy reporter` | `technology policy correspondent` | `digital policy analyst` | `internet governance fellow` | `staff writer` | `tech policy` | `assistant editor` | `content policy analyst` | `trust and safety analyst` | `editorial technologist` | `columnist` | `opinion editor` | `science writer` | `copy editor` | `sub-editor` | `features writer`
+**Results:** 53 new unique cards after dedupe
+**Filter:** posted in last 24 hours (`--jobage 1`), title gate applied | scored 2026-10-17 (title-level triage, no postings fetched)
+
+Ranking: same framework as the older blocks - Tech 30 / Exp 25 / Behavioral 15 / Career 30, title-level triage (no full postings fetched). ✓ = Remote / Hyderabad / Bengaluru | ? = city not stated, remote unconfirmed | ⚠ = other city, relocation likely. Ties broken by location preference, then newer posting.
+
+| # | Score | Verdict | Role | Company | Loc | Posted | Apply | Notes |
+| --- | ----- | ------- | ---- | ------- | --- | ------ | ---- | ----- |
+| 1 | 61 | Good Fit | Senior AI Governance Specialist | Northern Trust | ✓ Bengaluru | Oct 16 | [Apply](https://in.linkedin.com/jobs/view/senior-ai-governance-specialist-at-northern-trust-4477395739) | [li] AI governance, lane core; senior |
+| 2 | 60 | Good Fit | Editorial Manager | EssentiallySports | ✓ Remote | Oct 17 | [Apply](https://in.linkedin.com/jobs/view/editorial-manager-at-essentiallysports-4477735931) | [li] editorial management, matches chief-editor exp |
+| 3 | 59 | Moderate Fit | Copyeditor | AnIdeaz Media International Pvt. Ltd. | ✓ Remote | Oct 17 | [Apply](https://in.linkedin.com/jobs/view/copyeditor-at-anideaz-media-international-pvt-ltd-4479667912) | [li] copyediting, lane core |
+| 4 | 58 | Moderate Fit | Senior Consultant- Data Governance | Fractal | ✓ Bengaluru | Oct 17 | [Apply](https://in.linkedin.com/jobs/view/senior-consultant-data-governance-at-fractal-4432357214) | [li] data governance, profile skill |
+| 5 | 56 | Moderate Fit | Reporter | Wellesta Healthcare Private Limited | ✓ Remote | Oct 16 | [Apply](https://www.linkedin.com/jobs/view/4477372824) | [li] reporting lane; healthcare beat |
+| 6 | 55 | Moderate Fit | AI Scientific Editor (Work-from-home) | Cactus Communications | ✓ Remote | Oct 16 | [Apply](https://in.linkedin.com/jobs/view/ai-scientific-editor-work-from-home-at-cactus-communications-4477703320) | [li] academic editing + AI tooling |
+| 7 | 55 | Moderate Fit | Journalist Research Intern | Chople | ✓ Remote | Oct 16 | [Apply](https://in.linkedin.com/jobs/view/journalist-research-intern-at-chople-4479612758) | [li] journalism research, intern-level |
+| 8 | 54 | Moderate Fit | Content Strategist | Arts To Hearts Project | ✓ Remote | Oct 16 | [Apply](https://in.linkedin.com/jobs/view/content-strategist-at-arts-to-hearts-project-4479363189) | [li] content strategy, arts |
+| 9 | 54 | Moderate Fit | Technical Writer | UST | ✓ Bengaluru | Oct 17 | [Apply](https://in.linkedin.com/jobs/view/technical-writer-at-ust-4450164017) | [li] technical writing, core skill |
+| 10 | 53 | Moderate Fit | Research Analyst | QBYSS | ✓ Remote | Oct 17 | [Apply](https://in.linkedin.com/jobs/view/research-analyst-at-qbyss-4479675072) | [li] research analyst, lane adjacent |
+| 11 | 53 | Moderate Fit | IN_Associate_Governance GRC_ITRA_Advisory_Bangalore | PwC India | ✓ Bengaluru | Oct 16 | [Apply](https://in.linkedin.com/jobs/view/in-associate-governance-grc-itra-advisory-bangalore-at-pwc-india-4472009081) | [li] governance/GRC advisory |
+| 12 | 51 | Moderate Fit | Academic Content Writer | Orphic Solution | ✓ Remote | Oct 17 | [Apply](https://in.linkedin.com/jobs/view/academic-content-writer-at-orphic-solution-4477771513) | [li] academic content writing |
+| 13 | 51 | Moderate Fit | Content Researcher | AgResearch Labs | ✓ Remote | Oct 17 | [Apply](https://in.linkedin.com/jobs/view/content-researcher-at-agresearch-labs-4479660788) | [li] content research, ag domain |
+| 14 | 51 | Moderate Fit | Editor | no company | ✓ Remote | Oct 16 | [Apply](https://www.linkedin.com/jobs/view/4479355233) | [li] editor; listing details sparse |
+| 15 | 51 | Moderate Fit | AI Scientific Editor - Medicine (Work-from-home) | Cactus Communications | ✓ Remote | Oct 16 | [Apply](https://in.linkedin.com/jobs/view/ai-scientific-editor-medicine-work-from-home-at-cactus-communications-4477390896) | [li] academic editing; medicine domain |
+| 16 | 51 | Moderate Fit | Senior Video Editor | XMedia Hub | ✓ Hyderabad | Oct 17 | [Apply](https://in.linkedin.com/jobs/view/senior-video-editor-at-xmedia-hub-4477762493) | [li] video editing craft; senior |
+| 17 | 51 | Moderate Fit | Applications & Technical Writer | Omni Design Technologies | ✓ Bengaluru | Oct 16 | [Apply](https://startup.jobs/applications-technical-writer-omni-design-technologies-8124766?utm_source=freehire.me) | [fh] semiconductor tech writing |
+| 18 | 50 | Moderate Fit | Technical Content Writer (Upto 20k per month) | Sapiogen AI | ✓ Remote | Oct 17 | [Apply](https://in.linkedin.com/jobs/view/technical-content-writer-upto-20k-per-month-at-sapiogen-ai-4477766503) | [li] technical content; entry pay |
+| 19 | 50 | Moderate Fit | Video Editor | Gmedia | ✓ Hyderabad | Oct 17 | [Apply](https://in.linkedin.com/jobs/view/video-editor-at-gmedia-4477392079) | [li] video editing craft |
+| 20 | 50 | Moderate Fit | Video Editor | Groview Solutions | ✓ Hyderabad | Oct 17 | [Apply](https://in.linkedin.com/jobs/view/video-editor-at-groview-solutions-4477766691) | [li] video editing craft |
+| 21 | 50 | Moderate Fit | Video Editor | Alienkind | ✓ Bengaluru | Oct 16 | [Apply](https://in.linkedin.com/jobs/view/video-editor-at-alienkind-4479358829) | [li] video editing craft |
+| 22 | 49 | Moderate Fit | Web Content Writer Finance | Reagles media pvt ltd | ✓ Remote | Oct 17 | [Apply](https://in.linkedin.com/jobs/view/web-content-writer-finance-at-reagles-media-pvt-ltd-4477385867) | [li] finance content writing |
+| 23 | 49 | Moderate Fit | Video Editor | Lanstitut | ✓ Bengaluru | Oct 17 | [Apply](https://in.linkedin.com/jobs/view/video-editor-at-lanstitut-4479672727) | [li] video editing craft |
+| 24 | 49 | Moderate Fit | Creative Writer | Spread Design and Innovation Pvt Ltd | ✓ Bengaluru | Oct 17 | [Apply](https://in.linkedin.com/jobs/view/creative-writer-at-spread-design-and-innovation-pvt-ltd-4477770138) | [li] creative writing, design studio |
+| 25 | 48 | Moderate Fit | AI Analyst | ZIDEA | ✓ Remote | Oct 17 | [Apply](https://in.linkedin.com/jobs/view/ai-analyst-at-zidea-4479358392) | [li] AI analyst, lane adjacent |
+| 26 | 48 | Moderate Fit | Copywriter | Scrabble & Jigsaw | ✓ Remote | Oct 16 | [Apply](https://jobs.humanbit.ai/scrabble-jigsaw/jobs/0819ced9-ce64-4ac4-860e-9c5fa2600cef?utm_source=freehire.me) | [fh] brand copywriting |
+| 27 | 48 | Moderate Fit | Creative Content Writer | Cloud Counselage Pvt Ltd | ✓ Remote | Oct 16 | [Apply](https://himalayas.app/companies/cloud-counselage-pvt-ltd/jobs/creative-content-writer?utm_source=freehire.me) | [fh] content writing, remote |
+| 28 | 48 | Moderate Fit | Content Writer | Groview Solutions | ✓ Hyderabad | Oct 17 | [Apply](https://in.linkedin.com/jobs/view/content-writer-at-groview-solutions-4479680218) | [li] content writing, Hyderabad |
+| 29 | 47 | Moderate Fit | Content Writer | Measured Moves Pvt Ltd | ✓ Remote | Oct 17 | [Apply](https://in.linkedin.com/jobs/view/content-writer-at-measured-moves-pvt-ltd-4477778377) | [li] content writing, agency |
+| 30 | 47 | Moderate Fit | Expert Writer, Medical Content Development | EVERSANA | ✓ Remote | Oct 17 | [Apply](https://in.linkedin.com/jobs/view/expert-writer-medical-content-development-at-eversana-4443147509) | [li] medical content; domain gap |
+| 31 | 47 | Moderate Fit | Content Writer | Phibuzz International Private Limited | ✓ Remote | Oct 17 | [Apply](https://in.linkedin.com/jobs/view/content-writer-at-phibuzz-international-private-limited-4479662783) | [li] content writing, agency |
+| 32 | 47 | Moderate Fit | Content Writer | Prometteur Solutions Pvt. Ltd. | ✓ Remote | Oct 16 | [Apply](https://in.linkedin.com/jobs/view/content-writer-at-prometteur-solutions-pvt-ltd-4477386401) | [li] content writing |
+| 33 | 47 | Moderate Fit | Content Writer | What if Design | ✓ Remote | Oct 16 | [Apply](https://in.linkedin.com/jobs/view/content-writer-at-what-if-design-4479369113) | [li] content writing |
+| 34 | 47 | Moderate Fit | Content Writer | YourfriendlyHR | ✓ Remote | Oct 16 | [Apply](https://in.linkedin.com/jobs/view/content-writer-at-yourfriendlyhr-4479374043) | [li] content writing |
+| 35 | 47 | Moderate Fit | Junior Video Editor | Alaan | ✓ Bengaluru | Oct 16 | [Apply](https://in.linkedin.com/jobs/view/junior-video-editor-at-alaan-4477399632) | [li] video editing, junior |
+| 36 | 46 | Moderate Fit | Jr.Video Editor | RiseRift Media | ✓ Remote | Oct 17 | [Apply](https://in.linkedin.com/jobs/view/jr-video-editor-at-riserift-media-4477782060) | [li] video editing, junior |
+| 37 | 46 | Moderate Fit | Content Writer | Mr. HR Professional | ✓ Remote | Oct 17 | [Apply](https://in.linkedin.com/jobs/view/content-writer-at-mr-hr-professional-4479668908) | [li] content writing |
+| 38 | 46 | Moderate Fit | Assistant Video Editor | Sun Infraa Trends Pvt. Ltd. | ✓ Remote | Oct 16 | [Apply](https://in.linkedin.com/jobs/view/assistant-video-editor-at-sun-infraa-trends-pvt-ltd-4479346776) | [li] video editing, assistant |
+| 39 | 46 | Moderate Fit | Culture Amplifier (Talent Branding) | Emergent | ✓ Remote | Oct 16 | [Apply](https://in.linkedin.com/jobs/view/culture-amplifier-talent-branding-at-emergent-4479356360) | [li] employer-brand content |
+| 40 | 46 | Moderate Fit | Senior Copywriter | Moshi Moshi - The Communication Company | ✓ Bengaluru | Oct 17 | [Apply](https://in.linkedin.com/jobs/view/senior-copywriter-at-moshi-moshi-the-communication-company-4480819374) | [li] brand copywriting, senior |
+| 41 | 45 | Moderate Fit | Junior Content Writer | OneMetric | ✓ Remote | Oct 16 | [Apply](https://in.linkedin.com/jobs/view/junior-content-writer-at-onemetric-4479358459) | [li] marketing content, junior |
+| 42 | 44 | Weak Fit | Entry-Level Content Writer - English | Travelobliss | ✓ Remote | Oct 17 | [Apply](https://in.linkedin.com/jobs/view/entry-level-content-writer-english-at-travelobliss-4479668783) | [li] entry-level content |
+| 43 | 44 | Weak Fit | Lead Financial Analyst, Strategic Business Partner – Product & Technology | Wikimedia Foundation | ✓ Remote | Oct 16 | [Apply](https://himalayas.app/companies/wikimedia-foundation/jobs/lead-financial-analyst-strategic-business-partner-product-technology?utm_source=freehire.me) | [fh] finance analyst; mission-aligned but off-lane |
+| 44 | 44 | Weak Fit | Venture Fellow - Internship | Aadi Labs | ✓ Bengaluru | Oct 17 | [Apply](https://in.linkedin.com/jobs/view/venture-fellow-internship-at-aadi-labs-4479680172) | [li] VC fellowship, off-lane |
+| 45 | 44 | Weak Fit | Medical Writing Specialist | Zimmer Biomet | ✓ Bengaluru | Oct 16 | [Apply](https://in.linkedin.com/jobs/view/medical-writing-specialist-at-zimmer-biomet-4470313649) | [li] medical writing; domain gap |
+| 46 | 43 | Weak Fit | Product Analyst | Tamasha.live | ✓ Bengaluru | Oct 16 | [Apply](https://in.linkedin.com/jobs/view/product-analyst-at-tamasha-live-4480391022) | [li] product analytics, off-lane |
+| 47 | 42 | Weak Fit | Content Writing Internship in Hyderabad | Picktime | ✓ Hyderabad | Oct 17 | [Apply](https://in.linkedin.com/jobs/view/content-writing-internship-in-hyderabad-at-picktime-4480585834) | [li] content writing, internship |
+| 48 | 42 | Weak Fit | Web Content Writer Intern | Keys On Rent | ✓ Bengaluru | Oct 16 | [Apply](https://in.linkedin.com/jobs/view/web-content-writer-intern-at-keys-on-rent-4479375996) | [li] content writing, internship |
+| 49 | 40 | Weak Fit | Assistant Security Analyst | Vendavo | ✓ Bengaluru | Oct 16 | [Apply](https://jobs.lever.co/vendavo/88828341-f39e-4749-b93f-816110f76298?utm_source=freehire.me) | [fh] security analyst, off-lane |
+| 50 | 40 | Weak Fit | Associate - Technology Fusion Center Operations Analyst | Bread Financial Global Solutions India LLP | ✓ Bengaluru | Oct 16 | [Apply](https://startup.jobs/associate-technology-fusion-center-operations-analyst-bread-financial-global-solut-10491667?utm_source=freehire.me) | [fh] ops analyst, off-lane |
+| 51 | 37 | Weak Fit | Cloud Governance Engineer \| India | Five9 | ✓ Bengaluru | Oct 16 | [Apply](https://in.linkedin.com/jobs/view/cloud-governance-engineer-india-at-five9-4425547016) | [li] cloud engineering, off-lane |
+| 52 | 32 | Weak Fit | IT Quality Assurance Analyst, Senior | Symbol Technologies India Private Limited | ✓ Bengaluru | Oct 16 | [Apply](https://startup.jobs/it-quality-assurance-analyst-senior-symbol-technologies-india-pr-8919729?utm_source=freehire.me) | [fh] QA, off-lane |
+| 53 | 31 | Weak Fit | Zero Trust & SASE Security Engineer | Dematic Corp. (ILD-US) | ⚠ Pune | Oct 16 | [Apply](https://startup.jobs/zero-trust-sase-security-engineer-dematic-corp-ild-us-10495197?utm_source=freehire.me) | [fh] security engineering, off-lane |
+
+**Snapshot:** 0 Strong / 2 Good / 39 Moderate / 12 Weak / 0 Poor - 45 linkedin / 8 freehire.
+**Top pick:** Senior AI Governance Specialist at Northern Trust (61) - AI governance sits squarely in the candidate's beat (AI policy, data governance, platform regulation) and Bengaluru is a preferred city; the strongest remote option is Editorial Manager at EssentiallySports (60).
+
+## October 16, 2026
 ## October 16, 2026
 
 **Source:** LinkedIn jobs-guest (`linkedin-search` CLI): 25 keywords x 3 locations (remote / Hyderabad / Bengaluru) + freehire public API: India

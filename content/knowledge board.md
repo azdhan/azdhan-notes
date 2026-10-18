@@ -35,6 +35,9 @@
 [[payments in india ]]
 [[cybersecurity in india]]
 [[sim binding in india]]
+[[aadhaar in india]]
+
+
 [[trai attempts to regulate OTTs]]
 [[what to read]]
 [[intermediary liability and safe harbour protections]]
