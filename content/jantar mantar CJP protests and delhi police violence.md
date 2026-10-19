@@ -132,12 +132,15 @@ PRINT: [NYT](https://www.nytimes.com/2026/10/14/world/asia/india-protests-police
 - some one [said](https://x.com/kingslyj/status/2109268537047191867?s=20) that hte next elections should be fought on the human rights issues and what will they do prevail the rights
 - someone [built](https://x.com/ripper_dhruvaa/status/2110369890410676571?s=20) a facial recognition app to identify the police officials who did police brutality
 - After they have denotified Jantar Mantar, they have given three locations for the protesters to post their protest, one of it is Ram Lamidan, which is which requires pre-booking at municipal corporation of Delhi and has 50,000 per day fees as and also refundable deposit security deposit as well. So it means that now if you have to raise voice against the government or any other ones, will have to be fucking rich.  \ [hindu](https://www.thehindu.com/news/cities/Delhi/three-new-delhi-protest-sitesramlila-maidan-cbd-ground-and-burari-ground/article71596612.ece)
+- press council of india [advisory](https://x.com/PressCouncil_IN/status/2111078157122224193/photo/3)
+- 
 
 photos: [reuters](https://x.com/manaman_chhina/status/2109169759833190894?s=20) \ neha [running](https://x.com/Dipankar_cpiml/status/2109289042244411798?s=20) \ Raga [behind](https://x.com/Nehru_Jawaharla/status/2109647956924043719?s=20) neha and priyanka \ women [helpline](https://x.com/CatWomaniya/status/2110090415596859450?s=20) ([video](https://x.com/MauryaAlka76391/status/2110031745026539835?s=20)) \ 
 ## metro and train ban:
 - **[shutdown](https://x.com/AjayKumarJourno/status/2108460906107834836?s=20) trains and [metro](https://x.com/OfficialDMRC/status/2108594934387527914?s=20). SC [said](https://x.com/ANI/status/2108488727630852284?s=20)  you cant shut down mobility .** (brief [ord[[]]er](https://x.com/LiveLawIndia/status/2108569294095470875?s=20)) it is suprising and not so surprising that the SC has to say something like this. everyone who shuld know the rimportance of public mobility inthe antional capital. in fact, SC should initiate action against the person who passed the order. otherwise, these people will continue to allow such draconian laws. 
 - sunday there is a special hearing too.  the video was [turned](https://x.com/kingslyj/status/2109152106364158353?s=20) off. SC said ([pdf](https://www.livelaw.in/pdf_upload/2026/10/11/6380120262026-10-11-705830.pdf)) the [contempt](https://thewire.in/law/supreme-court-issues-contempt-notice-over-curbs-in-delhi-arrest-of-leaders-during-anti-sir-protest) action will be taken against the officials for not allowing transport services. stil, delhi metro is [closed](https://x.com/OfficialDMRC/status/2109383990306353519?s=20) on 12th (monday) too. 
 - [this](https://x.com/Er_Ajayshah/status/2109124694272323793?s=20) is the notice shown inside the metros
+- they have [arrested](https://x.com/sardesairajdeep/status/2111831629249515917?s=20) CJP main folks for holding indian flag at the so-called prohibited jantar manter
 
 ### SC refused to meet LOP, RaGa went and filed a petition anyway
 
@@ -155,6 +158,8 @@ Meanwhile, mumbai ahd a [silent protest ](https://x.com/tabassum_b/status/210961
 
 live thread of the hearing on [oct 15](https://x.com/barandbench/status/2110561693512470602?s=20), the petition filed by RaGa
 
+what changed after hte protests: 
+- the ECI officials said that the people can use the form6 (used for new voters) as an alternative to re-register the delted voters. the MH  SEC [said](https://x.com/RitikaChopra__/status/2111691654390489452?s=20) they should alter the form6. sabka apna mann marzi. 
 # july 2026
 [[notes from the jantar mantar ground - NEET protests (july 2026)]]
 the violence i had documented in july 2026: https://delhi-police-violence.vercel.app/ 
@@ -169,12 +174,18 @@ What all did they do then?
 -  [Digital developments on the second day of the internet shutdown at Jantar Mantar](https://www.medianama.com/2026/07/223-digital-developments-second-day-internet-shutdown-jantar-mantar/)
 
 
-## how the france protests were dfferent 
+## how the france protests were dfferent (oct 2026)
 after a few days of the jantar mantar protests, france also saw one of the biggest protests. people  were also accused them of far left, nonetheless, how their police [dealt](https://share.google/aimode/ayRgO83leqk8w1MUh) with them speaks something else: 
 - no internet shutdowns, 
 - over 6.2k arrests (120 in one day), but not illegal unexplained detentions like delhi police
 - no explicit surveillannce and monitoring
 - only police control, no prevention lockdowns/arrests.
 - protesters blocked the roads, not the police
+
+an absolute cinema image: man [against](https://x.com/amritaIQ/status/2111712024891929009?s=20) water cannon \ [cracker fires](https://x.com/T_RexRoars/status/2111705527525019787?s=20) \ [compiled footage](https://x.com/GlobeEyeNews/status/2111672510391677033?s=20) \ 
+
+a few more nations also had the protests [it seems](https://x.com/landpalestine/status/2111901139050590334?s=20)
+
+
 
 

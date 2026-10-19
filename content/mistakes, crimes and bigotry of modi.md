@@ -26,6 +26,7 @@
 8. 2019 - rubika liyaqat 
 9. 2025 - lex friedman / nikhil kamath / 
 ## trivia 
+- modi's face was on [condom packets](https://x.com/CitizenKamran/status/2111911592086663231?s=20) in 2006
 - his daily [routine](https://www.youtube.com/watch?v=2yW5RkPQCis)
 - modi's weird [behaviour](https://youtu.be/Lr8sh3_sKA0?si=-8QYGSjzSTRJUG5T&t=1667) with kids
 - modi's [obession](https://youtu.be/Lr8sh3_sKA0?si=ORBuPAyyuKcV5kES&t=1852) with the media and cameras
