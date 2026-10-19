@@ -1,0 +1,2 @@
+- loud music or talking over phones in trains even after competent police officer warning, the fine can be 1k \ [hindu](https://www.thehindu.com/news/cities/Mangalore/using-mobile-phones-in-speaker-mode-in-trains-and-railway-premises-attracts-removal-from-railway-premises-fine-and-imprisonment/article71599384.ece/amp/)
+- 

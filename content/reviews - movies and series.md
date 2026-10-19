@@ -1,6 +1,7 @@
 
 ## movies 
 [[jailer 2 ]]
+[[balan 2026 malayalam]]
 
 
 

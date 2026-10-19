@@ -2,6 +2,62 @@
 
 <!-- NEW DAY BLOCKS GO DIRECTLY BELOW THIS LINE (latest day on top). One "## Month, Date, Year" block per day, table sorted by Score descending. -->
 
+## October 18, 2026
+
+**Source:** LinkedIn jobs-guest (`linkedin-search` CLI): 25 keywords x 3 locations (remote / Hyderabad / Bengaluru) + freehire public API: India
+**Queries:** `policy writer` | `policy researcher` | `culture writer` | `film critic` | `editorial writer` | `opinion writer` | `thought leadership` | `tech journalist` | `research writer` | `tech policy reporter` | `technology policy correspondent` | `digital policy analyst` | `internet governance fellow` | `staff writer` | `tech policy` | `assistant editor` | `content policy analyst` | `trust and safety analyst` | `editorial technologist` | `columnist` | `opinion editor` | `science writer` | `copy editor` | `sub-editor` | `features writer`
+**Results:** 41 new unique cards after dedupe
+**Filter:** posted in last 24 hours (`--jobage 1`), title gate applied | scored 2026-10-18 (title-level triage, no postings fetched)
+
+Ranking: same framework as the older blocks - Tech 30 / Exp 25 / Behavioral 15 / Career 30, title-level triage (no full postings fetched). ✓ = Remote / Hyderabad / Bengaluru | ? = city not stated, remote unconfirmed | ⚠ = other city, relocation likely. Ties broken by location preference, then newer posting.
+
+| # | Score | Verdict | Role | Company | Loc | Posted | Apply | Notes |
+| --- | ----- | ------- | ---- | ------- | --- | ------ | ---- | ----- |
+| 1 | 63 | Good Fit | Specialist Assistant Manager, Market Insights & Thought Leadership (TMT - AI Data Centers, Semiconductors) | Deloitte | ✓ Hyderabad | Oct 18 | [Apply](https://in.linkedin.com/jobs/view/specialist-assistant-manager-strategic-market-insights-and-thought-leadership-tmt-ai-data-centers-semiconductors-and-tech-hardware-research-hyderabad-at-deloitte-4471012630) | [li] thought leadership, AI/TMT beat |
+| 2 | 62 | Good Fit | Political Policy Researcher | Set Narrative | ✓ Remote | Oct 18 | [Apply](https://in.linkedin.com/jobs/view/political-policy-researcher-at-set-narrative-4478216512) | [li] policy research, lane core |
+| 3 | 61 | Good Fit | Head of Public Policy | PayU | ✓ Remote | Oct 17 | [Apply](https://in.linkedin.com/jobs/view/head-of-public-policy-at-payu-4477775652) | [li] public policy lead; very senior |
+| 4 | 61 | Good Fit | Specialist Deputy Manager, Market Insights & Thought Leadership - Strategy | Deloitte | ✓ Hyderabad | Oct 18 | [Apply](https://in.linkedin.com/jobs/view/specialist-deputy-manager-strategic-market-insights-and-thought-leadership-strategy-at-deloitte-4418584432) | [li] thought leadership, strategy |
+| 5 | 58 | Moderate Fit | Editorial Support | Straive | ✓ Remote | Oct 18 | [Apply](https://in.linkedin.com/jobs/view/editorial-support-at-straive-4479912931) | [li] editorial support, publishing services |
+| 6 | 58 | Moderate Fit | Editor | TSH CONNECT | ✓ Remote | Oct 18 | [Apply](https://in.linkedin.com/jobs/view/editor-at-tsh-connect-4479902832) | [li] editor role; listing sparse |
+| 7 | 58 | Moderate Fit | Content Strategist | Mela | ✓ Remote | Oct 17 | [Apply](https://in.linkedin.com/jobs/view/content-strategist-at-mela-4477792362) | [li] content strategy, culture media |
+| 8 | 58 | Moderate Fit | Engineering Analyst, Trust and Safety Ads | Google | ✓ Hyderabad | Oct 17 | [Apply](https://in.linkedin.com/jobs/view/engineering-analyst-trust-and-safety-ads-at-google-4470329490) | [li] T&S ads; engineering-heavy |
+| 9 | 58 | Moderate Fit | Specialist Assistant Manager, Market Insights & Thought Leadership (Retail Sector) | Deloitte | ✓ Hyderabad | Oct 17 | [Apply](https://in.linkedin.com/jobs/view/specialist-assistant-manager-strategic-market-insights-and-thought-leadership-retail-sector-hyderabad-at-deloitte-4479677671) | [li] thought leadership, retail beat |
+| 10 | 55 | Moderate Fit | Analyst - Government Advisory | Amber and Mark | ✓ Remote | Oct 17 | [Apply](https://in.linkedin.com/jobs/view/analyst-government-advisory-at-amber-and-mark-4479696477) | [li] gov advisory, policy-adjacent |
+| 11 | 54 | Moderate Fit | Content Strategist & Writer | Blend-ed® | ✓ Remote | Oct 18 | [Apply](https://in.linkedin.com/jobs/view/content-strategist-writer-at-blend-ed%C2%AE-4480883565) | [li] content strategy, edtech |
+| 12 | 53 | Moderate Fit | Editorial & Social Media Executive | THE IDEAL HOME AND GARDEN | ✓ Remote | Oct 18 | [Apply](https://in.linkedin.com/jobs/view/editorial-social-media-executive-at-the-ideal-home-and-garden-4478217201) | [li] editorial + social, lifestyle |
+| 13 | 53 | Moderate Fit | Political Analyst | Varahe Analytics Private Limited | ✓ Bengaluru | Oct 17 | [Apply](https://in.linkedin.com/jobs/view/political-analyst-at-varahe-analytics-private-limited-4479677760) | [li] political analysis, research |
+| 14 | 51 | Moderate Fit | Senior SEO Content Writer | Saks OFF 5TH | ✓ Remote | Oct 17 | [Apply](https://himalayas.app/companies/saks-off-5th/jobs/senior-seo-content-writer-8229199225?utm_source=freehire.me) | [fh] SEO content writing |
+| 15 | 50 | Moderate Fit | Content Writer - Fintech, Automobiles, Healthcare, Electronics | Bajaj Finserv | ✓ Remote | Oct 18 | [Apply](https://in.linkedin.com/jobs/view/content-writer-fintech-automobiles-healthcare-electronics-gb03-04-at-bajaj-finserv-4479919431) | [li] multi-vertical content writing |
+| 16 | 50 | Moderate Fit | Content Strategist & Copy Writer | ASAP Media | ✓ Remote | Oct 17 | [Apply](https://in.linkedin.com/jobs/view/content-strategist-copy-writer-at-asap-media-4479674516) | [li] agency content strategy |
+| 17 | 49 | Moderate Fit | Content Writer | Sapiogen AI | ✓ Remote | Oct 17 | [Apply](https://in.linkedin.com/jobs/view/content-writer-at-sapiogen-ai-4477775815) | [li] tech content, AI startup |
+| 18 | 49 | Moderate Fit | Podcast editor | Vows By Siddhu Soma | ✓ Remote | Oct 17 | [Apply](https://in.linkedin.com/jobs/view/podcast-editor-at-vows-by-siddhu-soma-4480850641) | [li] podcast editing |
+| 19 | 48 | Moderate Fit | Content Writer | Socialhyp | ✓ Remote | Oct 18 | [Apply](https://in.linkedin.com/jobs/view/content-writer-at-socialhyp-4479674794) | [li] content writing, agency |
+| 20 | 48 | Moderate Fit | Junior Editor Intern (Climate/Sustainability) | OneStop ESG | ✓ Remote | Oct 18 | [Apply](https://in.linkedin.com/jobs/view/junior-editor-intern-climate-sustainability-at-onestop-esg-4479903561) | [li] climate editorial; intern-level |
+| 21 | 47 | Moderate Fit | Video Editor and Motion Graphics Designer Executive | LaunchED Global | ✓ Bengaluru | Oct 18 | [Apply](https://in.linkedin.com/jobs/view/video-editor-and-motion-graphics-designer-executive-at-launched-global-4478221236) | [li] video + motion graphics |
+| 22 | 46 | Moderate Fit | Content writer and Social media Optimization - BFSI domain | Signity Corporate Solution Pvt Ltd | ✓ Remote | Oct 18 | [Apply](https://in.linkedin.com/jobs/view/content-writer-and-social-media-optimization-with-experience-of-bfsi-domain-delhi-1-3-year-experience-at-signity-corporate-solution-pvt-ltd-4479376087) | [li] BFSI content + SMO |
+| 23 | 45 | Moderate Fit | Content Writer | Vastu widom | ✓ Remote | Oct 17 | [Apply](https://www.linkedin.com/jobs/view/4479675251) | [li] content writing, generic |
+| 24 | 45 | Moderate Fit | Manager, Market Engagement & Governance | Novartis India | ✓ Hyderabad | Oct 17 | [Apply](https://in.linkedin.com/jobs/view/manager-market-engagement-governance-at-novartis-india-4460737188) | [li] market governance, pharma |
+| 25 | 45 | Moderate Fit | Video Editor (App) | 1% Club | ✓ Bengaluru | Oct 17 | [Apply](https://in.linkedin.com/jobs/view/video-editor-app-at-1%25-club-4479902163) | [li] app video editing |
+| 26 | 44 | Weak Fit | Creative Video Editor | Creator Engine | ✓ Remote | Oct 17 | [Apply](https://in.linkedin.com/jobs/view/creative-video-editor-at-creator-engine-4479691012) | [li] video editing craft |
+| 27 | 44 | Weak Fit | Scientific/Medical Writer | Patanjali Research Foundation | ✓ Remote | Oct 17 | [Apply](https://in.linkedin.com/jobs/view/scientific-medical-writer-at-patanjali-research-foundation-4480821733) | [li] scientific writing; domain gap |
+| 28 | 43 | Weak Fit | Senior Copywriter - Malayalam | Unico Creative Studios | ✓ Bengaluru | Oct 18 | [Apply](https://in.linkedin.com/jobs/view/senior-copywriter-malayalam-at-unico-creative-studios-4479916109) | [li] copywriting; Malayalam required |
+| 29 | 43 | Weak Fit | Sr. Associate (Arabic), Prime Video Trust & Safety | Prime Video & Amazon MGM Studios | ✓ Bengaluru | Oct 17 | [Apply](https://in.linkedin.com/jobs/view/sr-associate-arabic-prime-video-trust-safety-at-prime-video-amazon-mgm-studios-4472055568) | [li] T&S lane; Arabic required |
+| 30 | 42 | Weak Fit | AI Quality Analyst | Avenue Code | ✓ Remote | Oct 17 | [Apply](https://in.linkedin.com/jobs/view/ai-quality-analyst-at-avenue-code-4462302016) | [li] AI quality, staffing firm |
+| 31 | 42 | Weak Fit | Senior Fraud Risk Analyst | Flywire | ✓ Bengaluru | Oct 18 | [Apply](https://in.linkedin.com/jobs/view/senior-fraud-risk-analyst-at-flywire-4479694209) | [li] fraud risk, off-lane |
+| 32 | 41 | Weak Fit | Research Assistant | Graduation MA political science makeup artist that's my skill | ✓ Remote | Oct 17 | [Apply](https://www.linkedin.com/jobs/view/4479668063) | [li] research role; listing unreliable |
+| 33 | 41 | Weak Fit | Senior Analyst-Fraud Prevention | First Citizens India | ✓ Bengaluru | Oct 17 | [Apply](https://in.linkedin.com/jobs/view/senior-analyst-fraud-prevention-at-first-citizens-india-4469214054) | [li] fraud prevention, off-lane |
+| 34 | 40 | Weak Fit | Climate Nature & Social Risk Integration Analyst | JPMorganChase | ✓ Remote | Oct 18 | [Apply](https://in.linkedin.com/jobs/view/climate-nature-social-risk-integration-analyst-mumbai-at-jpmorganchase-4432435954) | [li] climate risk analyst, off-lane |
+| 35 | 37 | Weak Fit | Technology Analyst | Oxford University Press | ✓ Remote | Oct 18 | [Apply](https://in.linkedin.com/jobs/view/technology-analyst-at-oxford-university-press-4480865898) | [li] tech role at publisher, off-lane |
+| 36 | 37 | Weak Fit | Lead Analyst - Fraud Prevention | First Citizens India | ✓ Bengaluru | Oct 17 | [Apply](https://in.linkedin.com/jobs/view/lead-analyst-fraud-prevention-at-first-citizens-india-4470425212) | [li] fraud lead, off-lane |
+| 37 | 37 | Weak Fit | Information Security Analyst (Government, Risk & Compliance) | Burns & McDonnell India | ✓ Bengaluru | Oct 17 | [Apply](https://in.linkedin.com/jobs/view/information-security-analyst-government-risk-compliance-at-burns-mcdonnell-india-4385252680) | [li] GRC security, off-lane |
+| 38 | 28 | Poor Fit | Sales Strategy and Operations Analyst III | o9 Solutions Management India Private Limited | ✓ Bengaluru | Oct 18 | [Apply](https://startup.jobs/sales-strategy-and-operations-analyst-iii-o9-solutions-management-indi-10125808?utm_source=freehire.me) | [fh] sales ops, off-lane |
+| 39 | 25 | Poor Fit | Credit Risk Underwriter | nHRMS | ⚠ Thane | Oct 18 | [Apply](https://nhrms.zohorecruit.in/jobs/Careers/145058000006945084?utm_source=freehire.me) | [fh] credit underwriting, off-lane |
+| 40 | 20 | Poor Fit | SAP Security Analyst | IND KCI Medical India Private limited | ✓ Bengaluru | Oct 17 | [Apply](https://startup.jobs/sap-security-analyst-ind-kci-medical-india-privat-2-8515878?utm_source=freehire.me) | [fh] SAP security, off-lane |
+| 41 | 15 | Poor Fit | Field Application Engineer, Semiconductor Research | R. L. Polk Mobility LLC | ✓ Bengaluru | Oct 17 | [Apply](https://startup.jobs/field-application-engineer-semiconductor-research-r-l-polk-mobility-llc-8473734?utm_source=freehire.me) | [fh] semiconductor engineering, off-lane |
+
+**Snapshot:** 0 Strong / 4 Good / 21 Moderate / 12 Weak / 4 Poor - 36 linkedin / 5 freehire.
+**Top pick:** Specialist Assistant Manager, Market Insights & Thought Leadership (TMT - AI Data Centers, Semiconductors) at Deloitte (63) - research-backed thought leadership on the AI/TMT beat matches the MediaNama AI-policy coverage and Hyderabad is home; the strongest remote option is Political Policy Researcher at Set Narrative (62).
+
 ## October 17, 2026
 
 **Source:** LinkedIn jobs-guest (`linkedin-search` CLI): 25 keywords x 3 locations (remote / Hyderabad / Bengaluru) + freehire public API: India

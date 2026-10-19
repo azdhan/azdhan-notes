@@ -1,3 +1,5 @@
+[[til]]
+
 [[book notes and longform notes]]
 
 
@@ -21,11 +23,16 @@
 3. [[jantar mantar CJP protests and delhi police violence]]
 4. [[why we need history and philosphy]]
 
-### politics and business in india
+[[andhra pradesh politics]]
+
+### politicsand business in india
 [[ambani and india]]
 [[adani and india]]
 
 [[sand mining in india]]
+
+[[IFF in indian politics and tech policy]]
+
 
 
 ## tech and policy 

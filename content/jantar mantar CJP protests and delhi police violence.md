@@ -131,7 +131,7 @@ PRINT: [NYT](https://www.nytimes.com/2026/10/14/world/asia/india-protests-police
 - neha [faked](https://x.com/RajatJain/status/2109232971702288872?s=20) neha. there is a reuters profile of her too 
 - some one [said](https://x.com/kingslyj/status/2109268537047191867?s=20) that hte next elections should be fought on the human rights issues and what will they do prevail the rights
 - someone [built](https://x.com/ripper_dhruvaa/status/2110369890410676571?s=20) a facial recognition app to identify the police officials who did police brutality
-- 
+- After they have denotified Jantar Mantar, they have given three locations for the protesters to post their protest, one of it is Ram Lamidan, which is which requires pre-booking at municipal corporation of Delhi and has 50,000 per day fees as and also refundable deposit security deposit as well. So it means that now if you have to raise voice against the government or any other ones, will have to be fucking rich.  \ [hindu](https://www.thehindu.com/news/cities/Delhi/three-new-delhi-protest-sitesramlila-maidan-cbd-ground-and-burari-ground/article71596612.ece)
 
 photos: [reuters](https://x.com/manaman_chhina/status/2109169759833190894?s=20) \ neha [running](https://x.com/Dipankar_cpiml/status/2109289042244411798?s=20) \ Raga [behind](https://x.com/Nehru_Jawaharla/status/2109647956924043719?s=20) neha and priyanka \ women [helpline](https://x.com/CatWomaniya/status/2110090415596859450?s=20) ([video](https://x.com/MauryaAlka76391/status/2110031745026539835?s=20)) \ 
 ## metro and train ban:

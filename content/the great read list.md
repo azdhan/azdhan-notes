@@ -16,6 +16,12 @@
 5. https://rethinkaadhaar.in 
 6. youtube course on [poker](https://www.youtube.com/watch?v=7cAzgUIKI68) 
 7. the [history](https://www.medianama.com/2018/04/223-constitutional-validity-of-aadhaar-day-28-perceived-privacy/) of Aadhar proceedings in SC
+8. [Kiran Jonnalagadda – Medium](https://medium.com/@jackerhack) 
+9. [Kaarana](https://medium.com/karana) 
+10. [Srikanth @logic – Medium](https://medium.com/@srikanthl) 
+11. magazine on hacking: https://phrack.org/issues/72/introduction_md 
+12. the best in philosphy: https://www.themarginalian.org/ 
+
 
 ## people inside rabbit holes
 1. [S Anand](https://www.s-anand.net/) 
