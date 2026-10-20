@@ -1,10 +1,6 @@
 
 
 #technology/ai
-
-
-
-
 # index
 [[ai policy mega notes]]
 [[future and philosophy of ai]]

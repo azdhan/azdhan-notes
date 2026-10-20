@@ -9,6 +9,8 @@ knowledge can be built only when we actively try to falsify it. So, the question
 5. [[homosexuality and islam]]
 6. [[people who created religion-like cults]]
 7. [[why hindu dharam might not be in danger as they fear]]
-8. 
+
 Notes from Books: [[quotes from Atheism  A Very Short Introduction by Julian Baggini]]
 
+not watched yet: 
+- 'Understanding God' [Lecture](https://youtu.be/GEWn7aE_URM?si=26znKfNZuvVLDwaY) By Dr Pratosh A P, IISc Bengaluru 

@@ -1,0 +1,2 @@
+
+the [hugging face incident](https://www.medianama.com/2026/08/223-explained-ai-agents-hugging-face-openai/) is a bad engineering problem as they have designed the reinforcement learning to optimise for the rewards and that lead to the reward hacking. \ [pratosh iit prof](https://youtu.be/94pddy_bijM?si=5twzo-bt75aeNyVv&t=3362)  

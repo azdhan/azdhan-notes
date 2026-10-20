@@ -1,0 +1,1 @@
+bengaluru based boson is using recycled sewage water to make it a 11 layered purified water and then supplying it for data centres (and semi conductor and other industry too). it also has operations ion chennai and in hyderabad as well where the regulations are already clear. \ rainmatter

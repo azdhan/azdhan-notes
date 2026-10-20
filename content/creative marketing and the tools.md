@@ -1,5 +1,6 @@
 #art #marketing 
-
+# general principles these days 
+- every company needs to have either a podcast or a original video esssay channel. or both. (some companies: bombay shaving company, thew whole truth foods, [rainmatter](https://youtu.be/JlV79HnIakg?si=fXbXAKkbUz7g6bbI), zerodha; nikhil kamath; it is more important to be equipped with journalistic principles than ever.
 ## marketing cinema in internet 
 1. media scholar vanita kohli [said](https://x.com/neeleshmisra/status/2074387143703830750?s=20) that going offline for online marketing is also a digital strategy because digital is just a medium and not the strategy itself. she was refering to how imtiyaz ali travelled to theaters to speak with audience after the screening of the film. . 
 

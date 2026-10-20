@@ -1,5 +1,5 @@
+[[ai and everything]]
 [[india ai policy]]
-
 
 ## sector-wise regualtions
 - [[medicine and AI regulations]]
@@ -9,6 +9,8 @@
 - [[education and ai]]
 - [[cybersecurity and ai]]
 - [[data centers in india]]
+- [[ai agents]]
+- 
 
 # ai regulations \ foreign 
 

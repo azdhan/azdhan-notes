@@ -17,6 +17,8 @@ ECI chief can only be sacked only through the parliamentary process for impeache
 ### UP 
 reporters collective [reported](https://www.reporters-collective.in/trc/up-ceo-admits-eci-auto-generated-voter-deletion-forms) that 200 attemps have been made to [delete 80k+](https://www.reporters-collective.in/trc/eci-software-auto-generated-forms-to-delete-without-reason) muslim votes in UP and forced officials to sign the forms and the reasoning is just single letter alphabets. 
 
-
+## tn sheshan 
+he famously said: ECI is not govt. 
+he postponed bihar elections four times when the lalu prasad was very much active (lalu had house [arrested](https://www.youtube.com/watch?v=MUZv3ujc3zk) lk advani in 1990s that led to bjp and janta dal alliance breaking)  
 
 

@@ -24,13 +24,14 @@
 4. [[why we need history and philosphy]]
 
 [[andhra pradesh politics]]
+[[sustainability in india]]
 
-### politicsand business in india
+### politics and business in india
 [[ambani and india]]
 [[adani and india]]
-
+[[politics and policies in india]]
 [[sand mining in india]]
-
+ [[urban planning in india]]
 [[IFF in indian politics and tech policy]]
 
 
@@ -51,7 +52,7 @@
 [[how spam works and regulated in india]]
 [[children and internet]]
 [[internet shutdowns in india]]
-
+[[Evs in india]]
 [[ai policy mega notes]]
 
 ### media regualtion in india 
@@ -59,9 +60,12 @@
 
 ## thinking better 
 [[mental models for life]]
+[[questionable thoughts]]
+
 
 
 ## journalism 
 [[journalism resources]]
+[[good journalism in india]]
 
 [[reviews - movies and series]]

@@ -1,13 +1,16 @@
 #philosphy/quotes
 
 "Civilization advances by extending the number of important operations which we can perform without thinking about them." -- Alfred North Whitehead - on [x](https://x.com/krishnanrohit/status/2083967010246169036?s=20)
+# AI 
+want to know what it’s like to not be the apex intelligence on the planet? Ask a chicken. \ [geoffrey hinton ](https://www.reddit.com/r/agi/comments/1ncfrgj/nobel_prize_winning_ai_researcher_want_to_know/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button)
 
-## india / history / politics 
+
+# india / history / politics 
 
 1. 'Only industrialisation can give millions of people in India the opportunity to rise above the "life of a brute".' —B.R. Ambedkar 
 2. argumentative indian could be just a opinionated indian -- [jyothirmayaa sharma](https://www.youtube.com/watch?v=CuujOJ83HM4) 
 
-## business and leadership 
+# business and leadership 
  "When a management with a reputation for brilliance tackles a business with a reputation for bad economics, it is the reputation of the business that remains intact." --warren buffet (from book intelligent investor and also quoted in [[aadhaar effect]])
 
 What this might [mean](https://www.reddit.com/r/StockMarket/comments/8thomy/comment/e17j8g7/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button) is that some business (like govt) have complex and broken systems, even a good leadership cant fix it. 
