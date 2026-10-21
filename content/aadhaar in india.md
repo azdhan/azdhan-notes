@@ -24,7 +24,7 @@ sources: [yourstory](https://yourstory.com/2017/05/5-questions-for-the-anti-aadh
 ## political reactions to aadhaar
 BJP 
 2011 parliamentary committee MP: “riddled with serious lacunae and concern areas,” and declared that it had “been conceptualized with no clarity of purpose … and is being implemented in a directionless way with a lot of confusion.”  \ [caravan](https://caravanmagazine.in/reportage/aadhaar-mixing-public-risk-private-profit#:~:text=%E2%80%9Criddled%20with%20serious%20lacunae%20and%20concern%20areas%2C%E2%80%9D%20and%20declared%20that%20it%20had%20%E2%80%9Cbeen%20conceptualized%20with%20no%20clarity%20of%20purpose%20%E2%80%A6%20and%20is%20being%20implemented%20in%20a%20directionless%20way%20with%20a%20lot%20of%20confusion.%E2%80%9D)
-- aadhaar was rejected in parliament at first. only later enacted in 2016 though money bill route (which is supposed it be used only for the projects that only use public funds). but later after coming to power, the bjp government itself implemented it. -- [[judicial immunity in india]]
+- aadhaar was rejected in parliament at first. only later enacted in 2016 though money bill route (which is supposed it be used only for the projects that only use public funds). but later after coming to power, the bjp government itself implemented it. -- [[immunity laws in india]]
 - 
 - 
 

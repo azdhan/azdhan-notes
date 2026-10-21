@@ -1,28 +1,17 @@
 democracy fundamentally means the power of the people. but the pure electrocal democracy would not be possible so, we have a representative democracy 
 
-why i dont believe in democracy:
+**why i dont believe in democracy:**
 - janta chutiya hai aur politicians maha chutiya hai
 - the people stand at five-year length distance. 
 - rarely or never i saw a governmnment that respected the human/rights of everyone equally. 
-
-from first principles thinking, what is democracy: 
-- equality,
-- free and competitive elections (unlike russia/korea old-germany where they have elections but no competition). 
-- human rights and free press
-- social support/socialism (aid to unemployment? universal basic income?) 
-- basic services for the survival , 
-- functional and judicial institutions, 
-- the judiciary that doesnt bow down to the powerful, 
-
-
+## what is democracy, from first principles thinking:
 ## some of my thoughts
 if democracy is the power of people as per the dictiuonalry, why does the democracy/orgnaised people/unionising is not allowed in the corporate and private comapanies? 
 - because that would lead to the revolution kind of sensibilities and that would be bad for the business. 
 	- so, what do we do to address that? we need to create a constitution that really values the human rights and mndated them into the law so that the people doesnt become the revolutionaries. the state/business cant be run during a revolution. 
 
-**Why am i pessimistic about democracy?**  you see the world and learn form it. the interence is that if it has been happening, it might also happen tomorrow, like the sun rising after the night. thats the repetitive and predictable pattern. what is predictable pattern in democracy now? all the bad things that happens and that has been happening. 
-
-the issues with indian democracy: 
+**Why am i pessimistic about democracy?**  you see the world and learn form it. the inference is that if it has been happening, it might also happen tomorrow, like the sun rising after the night. thats the repetitive and predictable pattern. what is predictable pattern in democracy now? all the bad things that happens and that has been happening. 
+### the issues with indian democracy: 
 - extremely corrupt
 - unimaginably lazy and not accountable if you are a government 
 - doesnt encourage the skepticism and historic poor education system 
@@ -36,13 +25,25 @@ the issues with indian democracy:
 
 **reminder to myself:** its easy to be a pessimist, optimism takes/gives courage/energy to act. otherwise, whats the point of anything?
 
-
-
 how does panchayat raj / local governance / whatever the MK gandhi called it system works if at all it works? 
-
 
 what is the relationship between the state and the loyalty of the citizens?  should we be loyal to the state, especially if you are part of the state machinary? loyalty vs slavery vs principles? when does it starts to begin like we are feeling like subordinates? 
 
-
 unchallenged myths
+
+## a few democratic losses that question the trust in system and people
+br ambedkar 
+tn sheshan 
+jd lakshmi narayana ?
+vv lakshmi naraynana
+manmohan singh (1999)
+nandan nilekani 2014 - cong
+pawan kalyan (old belief, no longer true)
+meera sanyal 
+medha patkar - aap - 2014 
+dir prakash jha - bihar - 2004-2009-2014
+v balakrishnan 2014 
+dr jayaprakash narayana - 2009 won as mla, 2014 lost as mp
+ponnala lakshamaiah 2014 TG cong 
+
 

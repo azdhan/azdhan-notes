@@ -19,9 +19,13 @@
 
 ## india and politics
 1. [[modi index]]
+
+
 2. [[democracy can't work for the people ever]]
-3. [[jantar mantar CJP protests and delhi police violence]]
-4. [[why we need history and philosphy]]
+3. [[protests, dissents and democracy]]
+4. [[jantar mantar CJP protests and delhi police violence]]
+
+5. [[why we need history and philosphy]]
 
 [[andhra pradesh politics]]
 [[sustainability in india]]

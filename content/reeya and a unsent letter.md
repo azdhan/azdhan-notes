@@ -1,6 +1,5 @@
 writing this on oct 4 2026 
 
-
 i dont want to be a psychologist. i dont want to analyse the people's behaviour but the natural tendency to observe things is a immense quality that can make see you somethings and sometimes create somethings too. nonetheless, what is anything in a relationship if not for the feelings and how it makes other person makes it feel. i assume there is no such thing as objective reality in relationships. anyway, these are my attempts to document some of my thoughts over the period of 5-6y of relationship. i havenet chosen this time deliberately, these are the accumulation of thoughts that lived all teh while a nd finally finding an  expression. 
 
 the recent trigger to this writing is a lie. a lie that started as a fun ulta statement that i felt can be taken as a prank. lest i knew that would be a prank on myself. so, whats the lie? me and my father recently went to proddutur to buy some gold to my sister. when you asked where are you guys going, i said we were going to see a woman for me that my mom recently broughup regarding my marriage. that was a lie. it never happened. now, why did i lie? as i said, it was supposed to be a prank at first. but the genunine reasons behind the thought was to check the reaction of yours. guess what? there is no reaction. thats the prank on myself. 
@@ -27,9 +26,8 @@ i know this is lie. but, you didnt know it was a lie till i told you that its no
 
 before i list a few things that i wrote on june 11 2026, i want to say a few more things, there could be various reasons for doing what you did. time constrain and family constrain could be one of the reason which i dont dispute. but still when one could find ways to find time and space for sexting and romance what about the things that are more important than that? in my opinion, this is the complete disregard and disconnect with what is most important things. i think the important-o-meter is broken or never configured. 
 
-what i wrote on june 11, from my written notes, organised by ai: 
-
-
+what i wrote on june 11 2026, from my written notes, organised by ai: 
+frgt 
 ## 1. Lack of interesting conversations
 
 - Conversations are surface-level and mostly limited to exchanging updates rather than genuinely knowing each other.
@@ -81,3 +79,5 @@ what i wrote on june 11, from my written notes, organised by ai:
 
 - I have believed for years: ****you love values, not people.**** If you don't share or respect the values the other person holds, you cannot truly love that person.
 - The "provider/patriarchal" instinct — wanting the best for you, investing in your growth — is misunderstood. It's not control; it's care. It doesn't seem to be fully comprehended.
+
+on older version is [here](https://docs.google.com/document/d/1B5kro10wbHo_ueMcBIeg9dpwvTPZroLl34XeOTE92B4/edit?usp=sharing) 
