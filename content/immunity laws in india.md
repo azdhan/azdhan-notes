@@ -23,4 +23,4 @@ now, we have to read this with how CEC election process has changed: earlier, th
 several NGOs and orgs have questioned this move, SC has [issued](https://www.thehindu.com/news/national/the-debate-over-immunity-to-cec-ecs/article71589739.ece/amp/) the notice in oct 2026 for the centre to respond 
 
 army: 
-- 
+- [x] 

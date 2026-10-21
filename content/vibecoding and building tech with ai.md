@@ -1,5 +1,7 @@
 
 # tech stack discoveries 
+- clean your [TV](https://x.com/gathint/status/2112182577947926920?s=20) UI 
+- legal reserch [skill](https://x.com/danepps/status/2112521134717734969?s=20) - 
 - https://eden.so/features/mcp/
 - oracle [VPS](https://x.com/TheMaran/status/2109184735616680283?s=20)
 - ai agents as OS? -[link](https://x.com/nixxin/status/2108157270739894738?s=20)
@@ -39,3 +41,4 @@ Nikhil's tools: https://insights.medianama.com/impact
 - https://emilkowal.ski/skill 
 
 
+the  extionsion that i built for notetaking is now on [mozilla](https://addons.mozilla.org/en-US/firefox/addon/smart-note-side-bar/) 
