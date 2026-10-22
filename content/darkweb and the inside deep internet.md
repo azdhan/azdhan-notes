@@ -2,6 +2,8 @@
 
  search engines for darknet ([list](https://torwiki.org/learn/search-engines/)): [ahmia](https://torwiki.org/learn/search-engines/) | [tordex](tordexpmg4xy32rfp4ovnz7zq5ujoejwq2u26uxxtkscgo5u3losmeid.onion) | 
 
+blogs: [zerofox](https://www.zerofox.com/solutions/cyber-threat-intelligence/dark-web-intelligence/) \  
+
 ## sites on darkweb 
 - [dread](https://dreadytofatroptsdj6io7l3xptbet6onoyno2yv7jicoxknyazubrad.onion/) -- the reddit of darkweb
 - [deepweb](http://deepweb4wt3m4dhutpxpe7d7wxdftfdf4hhag4sizgon6th5lcefloid.onion/) -- a resource of darkweb sites
