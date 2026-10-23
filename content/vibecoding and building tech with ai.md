@@ -1,5 +1,6 @@
 
 # tech stack discoveries 
+- t drive
 - clean your [TV](https://x.com/gathint/status/2112182577947926920?s=20) UI 
 - legal reserch [skill](https://x.com/danepps/status/2112521134717734969?s=20) - 
 - https://eden.so/features/mcp/
