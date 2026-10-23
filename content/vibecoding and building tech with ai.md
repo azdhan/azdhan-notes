@@ -1,5 +1,6 @@
 
 # tech stack discoveries 
+- some [crazy stuff](https://x.com/jackerhack/status/2111475191453041039?s=20) that is being built by kkiran jonnalagadda
 - t drive
 - clean your [TV](https://x.com/gathint/status/2112182577947926920?s=20) UI 
 - legal reserch [skill](https://x.com/danepps/status/2112521134717734969?s=20) - 

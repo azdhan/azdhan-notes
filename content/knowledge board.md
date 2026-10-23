@@ -48,6 +48,8 @@
 [[cybersecurity in india]]
 [[sim binding in india]]
 [[aadhaar in india]]
+[[it rules in india]]
+
 
 
 [[trai attempts to regulate OTTs]]
