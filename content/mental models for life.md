@@ -30,3 +30,10 @@ you don't realise the change when you are in the change.[ tejasvi surya](https:/
 the policemen are incentivised if you break the traffic rules and therefore they are also waitinf for you to break the traffic rules. it can be an issue of over enforcement of a regulation/rules without understanding the root intent of the issue. in this instance, why there is traffic? what design choices at the road-level and at vehicle and timing level that is causing the traffic? for instance, what if we ask the school and the IT company to cordinate when they will leave the offices and schools so that there is no sudden outflow of slow moving vehicular movement into the roads? 
 
 The broken windows theory states that visible signs of minor disorder, vandalism, or neglect—such as a broken window, graffiti, or trash—encourage further petty and serious crimes by signaling that a community is unprotected and lacks social control.  
+
+# l,ove / life
+you arrive at their best weekend and expect the best days feven from the rainy weekdays. its like you went to goa and immediately feel like you want to settle there but you hate it the week you have moved in. this is tyhe analogy given by [val](https://www.youtube.com/watch?v=5UD1rVxfEGE), one of the best personal essay narrators on youtube., her argument is
+- see the people fully for waht they are
+- but, once you stop being a tourist you start begin to see the seasons change and you adapt it. but, each adapt means that they are each compromise? this again conects with the idea discussed in [[mating in captivity notes]]
+- there is nothing wrong in calling out the behaviour of the partner rather than understanding/accepting all the time. how do we develop then? 
+ 

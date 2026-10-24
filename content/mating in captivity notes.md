@@ -1,4 +1,4 @@
-**can you have both passion and excitement in a longterm relationship.** how can you make it sustain. this is the fundamental question that the book trying to answer
+**can you have both passion and excitement in a longterm relationship.** how can you make it sustain. this is the fundamental question that the lbook trying to answer
 ## **passion in love fades overtime:** 
 the general consensus among the both romanticists (intensity > stability) and realists (security > passion) 
 - passion is can be measured by the tolerance of the one person for the uncertainty. 

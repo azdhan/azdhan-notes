@@ -39,7 +39,7 @@ ISSUES WITH / IN AI:
 - 
 
 ## digital books
-1. agentic journalism by cashless consumer -- [YT](https://www.youtube.com/playlist?list=PLLAhCw1oiarY) / [post](https://x.com/logic/status/2104828871594180938?s=20) \ registration [link](https://cashlessconsumer.zo.space/agentic-journalism/register)
+1. agentic journalism by cashless consumer -- [YT](https://www.youtube.com/playlist?list=PLLAhCw1oiarY) / [post](https://x.com/logic/status/2104828871594180938?s=20) \ registration [link](https://cashlessconsumer.zo.space/agentic-journalism/register) \ [[agentic journalism notes]]
 2. [Welcome to Learn Harness Engineering | Learn Harness Engineering](https://walkinglabs.github.io/learn-harness-engineering/en/)
 3. [AI Engineering from Scratch](https://aiengineeringfromscratch.com/index.html)
 4. [Making Software](https://www.makingsoftware.com/)
