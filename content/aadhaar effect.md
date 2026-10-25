@@ -10,7 +10,9 @@ aadhaar is about identification of people. sometimes for the public service deli
 
 ## some questions to ponder later 
 
-what did these guys thought of aahdar duringits SC hearing: srinivas kodalli, kiran jonnalagadda, [usha ramanathan](https://www.google.com/search?q=usha+ramanathan+on+aadhaar&sca_esv=3091aafe0b9f6d1a&sxsrf=APpeQnu4nYdDN_73Uw3TAA2_LEGN8rkL9w%3A1783957193289&ei=yQZVarScEaevseMPrJPd4AE&biw=1310&bih=845&ved=0ahUKEwj0pLO2_s-VAxWnV2wGHaxJFxwQ4dUDCBA&uact=5&oq=usha+ramanathan+on+aadhaar&gs_lp=Egxnd3Mtd2l6LXNlcnAiGnVzaGEgcmFtYW5hdGhhbiBvbiBhYWRoYWFyMgYQABgWGB4yCxAAGIAEGIoFGIYDMgsQABiABBiKBRiGAzILEAAYgAQYigUYhgMyBRAAGO8FMggQABiABBiiBDIIEAAYgAQYogRI2BJQ8wRY3hBwAXgBkAEAmAHyAaAB5A-qAQUwLjguM7gBA8gBAPgBAZgCDKACihDCAgoQABhHGNYEGLADwgIKEAAYgAQYFBiHAsICBRAAGIAEmAMAiAYBkAYGkgcFMS44LjOgB6QmsgcFMC44LjO4B4cQwgcGMC4xMC4yyAcYgAgB&sclient=gws-wiz-serp) and anand venkatanarayanan, jean dreaze, 
+what did these guys thought of aahdar duringits SC hearing: srinivas kodalli, kiran jonnalagadda, [usha ramanathan](https://www.google.com/search?q=usha+ramanathan+on+aadhaar&sca_esv=3091aafe0b9f6d1a&sxsrf=APpeQnu4nYdDN_73Uw3TAA2_LEGN8rkL9w%3A1783957193289&ei=yQZVarScEaevseMPrJPd4AE&biw=1310&bih=845&ved=0ahUKEwj0pLO2_s-VAxWnV2wGHaxJFxwQ4dUDCBA&uact=5&oq=usha+ramanathan+on+aadhaar&gs_lp=Egxnd3Mtd2l6LXNlcnAiGnVzaGEgcmFtYW5hdGhhbiBvbiBhYWRoYWFyMgYQABgWGB4yCxAAGIAEGIoFGIYDMgsQABiABBiKBRiGAzILEAAYgAQYigUYhgMyBRAAGO8FMggQABiABBiiBDIIEAAYgAQYogRI2BJQ8wRY3hBwAXgBkAEAmAHyAaAB5A-qAQUwLjguM7gBA8gBAPgBAZgCDKACihDCAgoQABhHGNYEGLADwgIKEAAYgAQYFBiHAsICBRAAGIAEmAMAiAYBkAYGkgcFMS44LjOgB6QmsgcFMC44LjO4B4cQwgcGMC4xMC4yyAcYgAgB&sclient=gws-wiz-serp) and anand venkatanarayanan, jean dreaze, devdutt pattnaik, (hasgeek yoiutube channel has some good lectures on aadhaar)
+
+
 
 why is nandan nilekani became so much influential , what was behind him? what were the successful projects that he did for the government that were done rightly
 
@@ -21,6 +23,10 @@ how did aadhaar helped the private businesses? what were there incentives from t
 they argue that systems like GPS/IP/TCP were built for different purposes but eventually businesses/services were built on top of it. the analogy is to convince regarding the aadhaar. but, how does it make sense? if that is the purpose, why didn't the govt explicitly state so? 
 
 Did raghuram rajan really said that the India needs a central ID system for finance? 
+
+how does fake ids proliferate in india? 
+
+
 
 
 

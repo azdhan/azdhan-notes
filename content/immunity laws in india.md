@@ -15,6 +15,17 @@ can you levy corruption charges against a sitting judge in india?
 Veeraswamy v. Union of India (1991) judgment [mandates](https://www.suolaw.com/judicial-immunity-or-judicial-impunity-a-comparative-constitutional-crisis/) CJI approval for registering an FIR against a sitting judge for criminal acts like bribery. doesn this also enables the judiciary to function without checks and balances and accountability? especially when the sitting judges immediately go to parliaments run by a BJP? 
 - ranjan gogoai got RS seat. ". He deployed sly methods—accepting government affidavits in sealed envelopes, for one—that undercut litigants’ access to equal justice, and he stalled hearings in key cases, letting ministerial actions evade juridical scrutiny." \ [caravan](https://caravanmagazine.in/reportage/retired-judges-gogoi-integrity-corruption-supreme-court)
 
+[CJI Chandrachud Used To Seek Government's Pre-Approval Before Collegium Discussed Names For Judicial Appointments : Justice Kaul](https://www.livelaw.in/top-stories/cji-chandrachud-used-to-seek-governments-pre-approval-before-collegium-discussed-names-for-judicial-appointments-justice-kaul-555851) - he said it in an interview on wire with karan thapar. he also said that the discussions with the govt happened even before the collegium meeting.  Caravan article on chandrachud by saurav das: [The equivocations of DY Chandrachud | The Caravan](https://archive.ph/Tjwin#selection-377.0-377.10)
+
+a few criticims against chandrachud: 
+1. 2019 Ram Janmabhoomi verdict, for which Chandrachud was on the bench 
+2. denied to intervene in the murder case of loya 
+3. he also didnt consider the bail to umar khalid and sharjeel imam and others (he was asked about this in a public talk interview on YT)
+4. 
+
+
+
+
 ## election commission 
 2013, modi regime [amended](https://frontline.thehindu.com/news/section-16-immunity-cec-eci-accountability-gyanesh-kumar-controversy/article71575308.ece) the act to give not only to the current ECs but also to the ex-ECs. why?  to disperse the duties in "unhindered and independent manner." in that case, one should ask: what is the exact thing that was stopping the EC to disperse their duties? 
 

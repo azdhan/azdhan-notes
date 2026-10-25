@@ -1,12 +1,10 @@
 
 **no chief security officer** for almost a decade and only appointed later after the RTI reveal and public pushback. now, i dont see a CISO at aadhaar. sandeep khanna left in oct 2025. who replaced him? its a time for RTI. 
 
-what does it really mean when they say that the data bellings to the citizen and uidai/govt is just a custodian? but even though i am the owner if the data is shared without consent, then whats the point of tall claims of data ownership? can i ask aadhaar sysmems to delete my data and delete my aadhaar account once it is made?
+what does it really mean when they say that the data belongs to the citizen and uidai/govt is just a custodian? but even though i am the owner if the data is shared without consent, then whats the point of tall claims of data ownership? can i ask aadhaar systems to delete my data and delete my aadhaar account once it is made?
 
 
 [[private surveillance in india]] though aadhaar
-
-
 # data leaks of aadhaar
 
 ### CIS REPORT
@@ -39,10 +37,12 @@ Aadhaar “is the first time where a big government project got in people from t
 
 iSPIRIT had people in their group that were active trollers of the aadhaar critics. kiran jonnalagadda exposed one such [account](https://x.com/Confident_India), run by sharad sharma. first he [denied](https://medium.com/@jackerhack/sharad-sharmas-dubious-denial-b0b9aa6c6b8f). later [admitted](https://timesofindia.indiatimes.com/business/startups/people/ispirts-sharad-sharma-sorry-i-trolled-aadhaar-critics/articleshow/58817320.cms) and apologised and nilekani apprecitaed him for tendering an apology. this was revealed tome through [CIS post](https://cis-india.org/internet-governance/news/the-wire-may-19-2017-ajoy-ashirwad-mahaprahasta-debate-over-aadhaar-turns-nasty-as-critics-accuse-supporters-of-online-trolling). kiran exposed him by using his own phone number and by clicking forgot password. [brilliant](https://medium.com/karana/inside-the-mind-of-indias-chief-tech-stack-evangelist-ca01e7a507a9#:~:text=Challenge-,accepted,-.%20Twitter%20isn%E2%80%99t%20a)! [this](https://youtu.be/xx0JpAGKRoQ?si=7Jc-2XsyzhjHcLfN) is sharad sharma's interview on YT. not watched. 
 
-identify companies that are working
+## identify companies that are working
 - TrustID, which claims to be able to “scan through 100 million eCourt Records PAN India, instantly,” “track & monitor social media profiles of candidates & employees” and “instantly assess income, salary & previous employment.”  
 - IDfy, claims to be “redefining the boundaries of fraud detection” by using, in addition to Aadhaar authentication, data extraction from government documents and other “disparate public sources,” as well as “face match” technology.
 -  
 
 - a Pune resident's Voter ID address was changed by an unindentified party using a fake Aadhar Card. -- [read](https://x.com/SohamShah07/status/2084868170264068289?s=20)
-- 
+
+# public rights on the public data 
+apparently, you cant/couldnt delete the data even after the death. how is that even possible? 
