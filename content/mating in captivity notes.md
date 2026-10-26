@@ -20,7 +20,7 @@ her points:
 ## conversations in relationships
 as Neitzsche [believed](https://turtleneckphilosophy.substack.com/p/friedrich-nietzsches-relationship#:~:text=a%20lack%20of-,friendship,-that%20makes%20unhappy), i also believe: conversations are core to the relationship. but, for me, the conversations have to be interesting as fuck. 
 
-historically, women bonded over the conversations in domesticity and men formed bonds at the work, where they do things. conversations for men was a way to make deals and transactions. now, cut to the modern world, the conversation intimacy has become one of the core ingredient of a good relationship. she uses the phrase: "glorifying verbal communication." why wouldn't this be at the disadvantage for men? argues, perel. and, i agree. 
+historically, women bonded over the conversations in domesticity and men formed bonds at the work, where they do things. conversations for men was a way to make deals and transactions. now, cut to the modern world, the conversation intimacy (as framed by helen) has become one of the core ingredient of a good relationship. she uses the phrase: "glorifying verbal communication." why wouldn't this be at the disadvantage for men? argues, perel. and, i agree. 
 
 > "body is our original mother tongue"
 
