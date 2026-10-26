@@ -22,7 +22,7 @@ as Neitzsche [believed](https://turtleneckphilosophy.substack.com/p/friedrich-ni
 
 historically, women bonded over the conversations in domesticity and men formed bonds at the work, where they do things. conversations for men was a way to make deals and transactions. now, cut to the modern world, the conversation intimacy (as framed by helen) has become one of the core ingredient of a good relationship. she uses the phrase: "glorifying verbal communication." why wouldn't this be at the disadvantage for men? argues, perel. and, i agree. 
 
-> "body is our original mother tongue"
+> "body is our original mother tongue"**
 
 in this context, the pressure is always on the non-talker/male for to change be a talker and expressive. why not the pressure/obligation is on women to be "versatile?" (perel). if this ture: the good relationship rests on the will and compromise (perel), whose will is it that should be to compromised? 
 

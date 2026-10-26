@@ -1,4 +1,4 @@
-ai regulations are coming to india. consultations may begin in nov 2026. [here](https://www.medianama.com/2026/10/223-meity-consultation-paper-ai-regulation/) is how miety has shifted from no regulations on ai to dedicated ai laws. 
+ai regulations are coming to india. consultations may begin in nov 2026. [[meity to seek public feedback in november]] [here](https://www.medianama.com/2026/10/223-meity-consultation-paper-ai-regulation/) is how miety has shifted from no regulations on ai to dedicated ai laws.  
 
 what are the current policy documents to refer: 
 
