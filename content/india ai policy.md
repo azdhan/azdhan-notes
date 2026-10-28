@@ -5,6 +5,8 @@ what are the current policy documents to refer:
 how would the regulation would look like
 
 how does other countries are regulating ai now? 
+
+Tech-policy people at tech companies: [pragya mishra](https://www.linkedin.com/posts/pragyamisra16_eighteen-months-ago-i-joined-openai-to-lead-share-7389886043044417536-OhQ4/) at openai \  [Irina Ghose](https://in.linkedin.com/in/irinaghose) at anthropic \ 
 ## foreign dependence 
 s krishnan [said](https://www.medianama.com/2026/06/223-mythos-india-us-stable-ai-access/) that india cant have disrupted access to claude after the fable controversyt that restricted the tech and wrote to us. idnia has a less leverage in negotiating powers. 
 
@@ -20,5 +22,7 @@ MEA: India’s Role in Global Tech Diplomacy, Digital Governance, Outer Space Di
 
  to address the deepfakes, the report just relies on the ai literacy, which can mean nothing in fact. - p222 
 -
+
+
 
 
