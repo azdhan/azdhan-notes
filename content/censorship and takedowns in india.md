@@ -1,6 +1,7 @@
 
 
 ## october 2026:
+- are tehy blockign whatsapp accounts: dipke had alleged, [this](https://x.com/VVIConcept64671/status/2115676269958533411?a=FyLzDzfxqmfNSAzzirg&s=20) guy too 
 - this [account](https://x.com/geoblockedindia) has been tracking shit tonn of censorship on online internet 
 - indian govt sends notice to meta saying that protests content should be supressed. and seeks [proactive monitoring](https://x.com/pranesh/status/2112068149382414735?s=20) of the content which is against the shreya singhal judgement 
 - apparently google had deleted some posts based on a [fake](https://x.com/pranesh/status/2109314406219997305?s=20) court orders

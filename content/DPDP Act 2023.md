@@ -2,8 +2,6 @@
 
 
 
-### lañ 25] ubZ fnYyh] 'kqØ okj] vxLr 11] 2023@ Jko.k 20] 1945 ¼'kd½
-
 **No. 25] NEW DELHI, FRIDAY, AUGUST 11, 2023/SRAVANA 20, 1945 (SAKA)**
 
 
