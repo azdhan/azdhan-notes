@@ -1,7 +1,17 @@
 
 
 ## october 2026:
+
+SOME UNVERIFIED CLAIMS 
 - are tehy blockign whatsapp accounts: dipke had alleged, [this](https://x.com/VVIConcept64671/status/2115676269958533411?a=FyLzDzfxqmfNSAzzirg&s=20) guy too 
+
+Are they doing the auto bocking? 
+- MP saket gokhale [thinks](https://x.com/SaketGokhale/status/2115706730504159319?a=2-0v5TQwl2VwkaCrQRQ&s=20) so; he was replying to the prrint journo that quoted a govt guy saying that the govt is blocking on their own wishes.[ kajol srinivasan](https://www.medianama.com/2026/10/223-legal-requirements-instagram-comedian-blocked-reel/) also said same thing that her reel was auto blocked , then unblocked  and thenblocked again. 
+- dhruv rathe also [claims](https://x.com/dhruv_rathee/status/2115871985574006911?a=tcMwY9ATLd1kvJ8Nh-s&s=20) 
+
+TRACKERS: SFLC \ [geo blocked in india](https://x.com/geoblockedindia) 
+
+
 - this [account](https://x.com/geoblockedindia) has been tracking shit tonn of censorship on online internet 
 - indian govt sends notice to meta saying that protests content should be supressed. and seeks [proactive monitoring](https://x.com/pranesh/status/2112068149382414735?s=20) of the content which is against the shreya singhal judgement 
 - apparently google had deleted some posts based on a [fake](https://x.com/pranesh/status/2109314406219997305?s=20) court orders
