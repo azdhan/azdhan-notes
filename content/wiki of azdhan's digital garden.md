@@ -4,7 +4,7 @@
 
 
 # understanding series 
-- [[ai and everything]]
+- [[ai everything]]
 - [[DPDP act and privacy in india]]
 - [[understanding india's fintech and UPI]]
 - [[how spam works and regulated in india]]

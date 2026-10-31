@@ -5,7 +5,9 @@
 1. a room full of randomly selected people. an issue. several experts with dividing points. people debate witht he experts. they have to convince them and see what would be the pulse/democracy of the room at the end. 
 2. a disagreement series where the person has 20 points and each person has anti points to that thoughts its  bite sozed pointed debate. 
 
-## stories 
+# someone else ideas
+- letterbox, but for insight heavy longform articles. \ [original](https://x.com/brunellaism/status/2116236976856654084?a=lamvD9dSMbLnYYh0qJ0&s=20) \ something like that here
+
 
 
 ## vibe coding tools 

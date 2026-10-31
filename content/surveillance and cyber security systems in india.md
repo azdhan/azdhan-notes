@@ -14,6 +14,7 @@ what is netra?[]()
 
 
 MISC
+- [(2) Mumbai is testing an AI-powered garbage camera to prevent people from dumping garbage in public spaces. (BMC)](https://x.com/IndianTechGuide/status/2116130549869760615)
 - it is very common thin in hyderabad to be stopped and asjked for facial and finger prints. [this](https://www.reddit.com/r/hyderabad/comments/1x3v0og/was_stopped_at_ameerpet_by_police_to_check_my/) is one such instance. 
 - the submission of whatsapp messages in indian courts from a siezed phones cant be tamper proof because of [this](https://x.com/iam_anandv/status/2109353381022322920?s=20). this is only one use case. this can be misused and exploiuted in many ways 
 - 

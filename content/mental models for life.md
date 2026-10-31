@@ -5,6 +5,11 @@ mental models are organisable chunk of information explaining the workings of so
 - the perspective/ego shift is important. the fish can offer more if you are travelling in a ship. this is where the tooling can help, like the telescope and the sensors. the new tooling/invention often is born because of this new perspectives. 
 - reflect and avoid passive thinking. things doesn't happen because without a cause. always checkout if you are the causation. despite most/all people might die, [bloodletting](https://www.google.com/search?q=bloodletting) was practised for over 2000 years
 
+# communication 
+**be elaborative in your ask in the first time itself:** you shouldnt put people in the position to guess what you might aska nd then put them in a position to guess if they have that skill/thing/ leave no room for guesswork anywhere. because it builds up the ambiguity. something [longish](http://catb.org/~esr/faqs/smart-questions.html) on how to ask a better question. 
+
+
+
 # decision making 
 **avoiding problems is better than solving problems.** so, you have to identify a problem when it comes to you in order to avoid it. 
 - risk assessment framework in mind. for this to work, we need to have a pre-list of all the things that could be going wrong and then we have to prepare solutions for these. a rainy day can come anytime. this can be achieved through breaking of reality and constant updation of the understanding. 
@@ -23,6 +28,9 @@ find a niche and go deep. an inch wide, mile deep. find something that the claud
 
 
 you don't realise the change when you are in the change.[ tejasvi surya](https://youtu.be/94pddy_bijM?si=GpuLBaLAiAFbzbwG&t=5891) argues that people are not able to see the development because we are in the midst of the development and argues that there is a lot of development when compared with two decades. 
+
+NETWORKING 
+instead of wandering from one person to another in a networking event, you can probably [ask](https://www.instagram.com/reel/DeUAhoKCcnn/?srtk=NTc4MTIwNjQ2YQ==) the guy: whose company would i enjoy most in this room. probably, they might even walk you to that person. 
 
 **test your ideas in the real world** 
 

@@ -32,6 +32,9 @@
 
 
 ## extra resources
+
+ Elsevier Researcher [Academy](https://x.com/HGBashar/status/2116190599854407842) 
+[Who Pays Writers?](http://whopayswriters.com/#/results) 
 https://www.carrerlift.in/ 
 some [guide](https://x.com/akkiex007/status/2105547771029930474?s=20) 
 indian startups that got recent funding - [link1](https://x.com/AvinashSingh_20/status/2097730542292902280?s=20)
@@ -43,3 +46,5 @@ some ai safety companies - [link](https://x.com/OwainEvans_UK/status/20977783684
 
 [[career plan for tech-media policy roles]]
 AI policy roles: [claude](https://claude.ai/share/6fd6a1cc-be50-4dfe-ab0f-0de3953e9628) \  [kimi](Click the link to view the conversation with Kimi https://www.kimi.ai/share/1a107604-8e12-8426-8000-0000ea527bf6)
+
+**

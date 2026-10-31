@@ -1,6 +1,8 @@
-#art/music #internet/socialmedia/discovery 
+ 
 
-#culture/art/music 
+# trivia 
+1. [this](https://open.spotify.com/album/4KCUQdarlVhHwZnuzMYxAg) is the original song for the rang saari that came in 1982
+
 # latest discoveries 
 1. [, Sheila Chandra](https://open.spotify.com/playlist/37i9dQZF1DZ06evO4hFT5T) - [Moonsung](https://open.spotify.com/album/6USFyxlYUbd368ffqsYt2H?si=kx1qkJFbS6Gjm14CrdFKBA) | 
 2. [lava lamp](https://open.spotify.com/playlist/37i9dQZF1DWWtqHeytOZ8f?si=JNArXCFkTqyPfEmTCIn8gg)
@@ -11,9 +13,13 @@
 
 3. 
 # new discoveries (yet to listen)
-1. [Day of Radiance by Laraaji - Google Search](https://www.google.com/search?q=Day%20of%20Radiance%20by%20Laraaji&sourceid=chrome&ie=UTF-8)
-2. random list of [best](https://x.com/pnamblat/status/1999470785573060667?s=20) 2025
-3. Dicovering some good music: 
+
+1. neha lagai \ ghir ghir advaita \ jee ve sohaneya  \ hona hai kya - ram sampath \ sneha khanwalkar \ behney do kasrsh kale - indian ocean \
+2. Singles: Drive Like I've Never Been Hurt — D'Loyd Ells, 7563 — Florence Road, Second Song — Neil Young
+3. Albums: Feelings Are Forever — Yana, Chuck, Timely and the Hourglass — Role Model, Blue Island — Ravyn Lenae, Do You See Me — Q
+4. [Day of Radiance by Laraaji - Google Search](https://www.google.com/search?q=Day%20of%20Radiance%20by%20Laraaji&sourceid=chrome&ie=UTF-8)
+5. random list of [best](https://x.com/pnamblat/status/1999470785573060667?s=20) 2025
+6. Dicovering some good music: 
 - [Reel](https://www.instagram.com/reel/DY2rRKJSt-p/?utm_source=ig_web_copy_link&igsh=NTc4MTIwNjQ2YQ==) -- na bol | room jhoom | 
 
 ### Females 

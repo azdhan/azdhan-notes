@@ -1,4 +1,4 @@
-[[ai and everything]]
+[[ai everything]]
 [[india ai policy]]
 
 ## sector-wise regualtions
