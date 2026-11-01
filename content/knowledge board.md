@@ -33,7 +33,7 @@
 ### politics and business in india
 [[ambani and india]]
 [[adani and india]]
-[[politics and policies in india]]
+[[policies and politics in india]]
 [[sand mining in india]]
  [[urban planning in india]]
 [[IFF in indian politics and tech policy]]

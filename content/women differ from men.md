@@ -17,10 +17,22 @@ what could be the reasons for cheating/infidelity:
 
 if a person cheats and breaks the marriage for that person, the affair may still break along with the affair itslef esepcaily if the affiar iss led with the ficticious/adventerous tale away from the so called happy marriage-- if they had a happy marriage. 
 
+connected: 
+[[notes from india's private investigator for relationships on infidelity]] \ [[mating in captivity notes]]
 
-[[notes from india's private investigator for relationships on infidelity]]
 
-## some thoughts to explore and ponder upon: 
+# public mobility and women
+**less women in public spaces doesnt mean that they are not/less working:** i was watching[ amit verma's podcas](https://www.youtube.com/watch?v=5fKfxlcnjWk)t, where they discussed [this](https://drive.google.com/file/d/1wpW9CKOgvRW7SD-xVc0ScycfUmRb9820/view) academic paper that had these conclusions: women are less seen in public. countering this, [shruthi](https://x.com/srajagopalan) argued that seclusion (the word that is connected to [another](https://ideas.repec.org/p/ifs/ifsewp/24-39.html) similar academic study). she argued that women being less in public spaces doesn't naturally mean that the women are not working or working less; it might also mean that they are working and travelling in closed spaces like in buses, trains, autos, cabs etc. 
+- "roughly three-quarters of the women expected on the streets of greater Mumbai are missing" - the discussed[ academic paper](https://drive.google.com/file/d/1wpW9CKOgvRW7SD-xVc0ScycfUmRb9820/view). the study was done by surveyors carrying a go pro camera and the images are taken
+
+**women and the agency for public mobility:** households from higher incomes might/tend to keep their women secludes, it might also mean that the women have the agency to chose to not interact with the not so great indian world. if i can afford, why should the women chose to walk down the stupidly build polluted roads to get a packet of lays? women being less in public spaces also mean that they have the time to do whatever they want in their own spaces/homes. 
+- at the end, it boils down to this: women and their independence should be measured with the agency they have in their decision making. not just the decision making, but the agency too. 
+
+**women chose safer route despite it might being the costlier and time taking,** another [study](https://documents1.worldbank.org/curated/en/723631626710146405/pdf/Safety-First-Perceived-Risk-of-Street-Harassment-and-Educational-Choices-of-Women.pdf) apparently revealed: a lot of career choices for women might be depending on their safety cost that they are forced to pay. they might join in a particular college because that might eb the only once that is nearer and the college choices decides the college trajectory in life. 
+- however, it might also mean that: if you are spending more time travelling and less time in college spaces, or more time in home and not in colleges or travelling, you might end up cultivating the talents and passions that might give a trajectory of its own. so, not every descriptive observation can be a conclusion to draw a particular inference. 
+
+
+# some thoughts to explore and ponder upon: 
 - Women only care about men's issues when the ramifications of it starts affecting them directly.  
 - Men are inherently more disposable in society so it's emotionally safer to not get so attached to them.
 - what is the cheating has nothing to do wth the significant other person? would that still be a serious cheating and how should the other persons hould really feel in that case?
@@ -33,7 +45,7 @@ what are the questions that needs to be answered before the 100% commitment:
 - 
 
 
-## movies and books about fidelity: 
+# movies and books about fidelity: 
 **what are the indain ones that explore:** lunch box, 
 
 english:

@@ -4,6 +4,14 @@ Who has confirmed the sim binding: Whatsapp and arattai.
 The notice was [sent](https://www.medianama.com/2025/12/223-sim-binding-message-apps-technically-infeasible-experts/) to: WhatsApp, Telegram, Signal, Arattai, Snapchat, ShareChat, JioChat, and Josh
 [Detecting SIM Swap and Implementin… | Apple Developer Forums](https://developer.apple.com/forums/thread/790963) 
 what is telco benefit in this: **[Bharti Airtel](https://www.airtel.in/press-release/10-2026/airtel-business-launches-iq-gateway-indias-first-business-communications-platform-with-telco-grade-network-intelligence-for-safe-enterprise-messaging/#:~:text=level%20delivery%20reports-,Silent%20Authentication,-\(network%2Dfirst%20login) and [Vodafone Idea](https://www.myvi.in/content/dam/vodafoneideadigital/StaticPages/PressReleases/2026/Press-Release-Vi-&-Meta-Partner-to-Deliver-Seamless-Verification-for-Vi-Users.pdf) have described an telecom operator-assisted silent-authentication approach** 
+# are UPI apps doing the sim binding in india? 
+they say something that is sort of. i have checked, the phonepe will work when the airplane mode is n but the transcations would happen if the sim is removed. how did PP knew that i have sim removed? 
+
+phonepe sends a sms to the bank that again checks if the user has the account with that phone number, its not he otp based model. 
+
+
+
+
 
 people whom i can ttalk to: simbinding event [speakers](https://docs.google.com/spreadsheets/d/14Fnrb0iaziQJ1GitgqqsnGbFaozwL3PO2uRk8_iQVKA/edit?gid=2068147646#gid=2068147646)
 

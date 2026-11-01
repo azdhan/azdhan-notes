@@ -1,3 +1,15 @@
+why the industry wants to be regulated? the less trust in the legal trust system, says harshil mathur in WTF NK. they want the regualtors to protect them than the  courts. 
+
+# interstate competition? 
+in china the individual states get to keep the capital that they earn, unlike in india, where the profits of india are also distributed to bihar. 
+
+nikhil kamath was asking for it and srinivas kodali brught in obama argument into this. 
+
+#  progressive tax
+
+
+# central banks and its role
+the capital markets are growing so faster and dynamically that money makes more money so father than the labor can ever will. so, there is more need for the central banks now than ever, [argues](https://www.youtube.com/watch?v=hBvInWQWpZ0) sameer nigam phonepe
 
 
 

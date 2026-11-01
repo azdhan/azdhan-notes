@@ -1,6 +1,5 @@
 nikhil pahwa [stand](https://x.com/nixxin/status/2100162878951281090?s=20) on this
-Sept 2026: govt [notified](https://www.medianama.com/2026/09/223-upi-mdr-rs-2000-threshold/) the MDR for under 2k. 
-
+Sept 2026: govt [notified](https://www.medianama.com/2026/09/223-upi-mdr-rs-2000-threshold/) the MDR for under 2k. Then it was [paused](https://www.medianama.com/2026/10/223-npci-delays-upi-mdr-festive-season/); might go live after diwali 2026.   
 ## why mdr for upi is bullshit
 - RBI, NPCI, public sector banks are already gprofitable, argues [ashneer grover.](https://x.com/Ashneer_Grover/status/2099776866555195831) so, whose loss is the govt covering here? (he also argues that indian retailer earns something over 12% profit unlike other countries and this mdr will affect them)
 - why cant indian governemtn bear the cose of running upi infra as a service, esp when no one is making any losses? 
@@ -9,5 +8,6 @@ Sept 2026: govt [notified](https://www.medianama.com/2026/09/223-upi-mdr-rs-2000
 - government didnt gave any subsidy to anyone. what is the subsidy that the government is talking about?
 - the claims m that the govt makes that 2k+ payments is just 4% is bot true. over 67%, [claims](https://www.youtube.com/watch?v=pD33aQmMTt4) ashneer
 
+AGAINST MDR ON UPI: groww - because they are levying on the [capital markets too](https://www.medianama.com/2026/10/223-groww-says-rs-300-upi-mdr-cap-unaffordable/), so for every transactions, they'll have to pay. 
 ## what is not clear 
 - who will pay? merchent? 

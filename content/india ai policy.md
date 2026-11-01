@@ -1,4 +1,8 @@
-ai regulations are coming to india. consultations may begin in nov 2026. [[meity to seek public feedback in november]] [here](https://www.medianama.com/2026/10/223-meity-consultation-paper-ai-regulation/) is how miety has shifted from no regulations on ai to dedicated ai laws.  
+ai regulations are coming to india. consultations may begin in nov 2026. [[meity to seek public feedback in november]] [here](https://www.medianama.com/2026/10/223-meity-consultation-paper-ai-regulation/) is how miety has shifted from no regulations on ai to dedicated ai laws.  \
+
+# trivia 
+- sameer nigam says that government deosnt understand what the government want to regulate in ai in WTF with nikhil kamath. they take the approach of a very paternalistic approach by saying that he people cant handle on their own. 
+- 
 
 what are the current policy documents to refer: 
 
