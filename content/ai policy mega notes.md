@@ -9,7 +9,7 @@
 - [[education and ai]]
 - [[cybersecurity and ai]]
 - [[data centers in india]]
-- [[ai agents]]
+- [[ai cybersecurity and ai agents]]
 - 
 [[where ai should be regulated]]
 

@@ -3,3 +3,5 @@ ongrid, built on IndiaStack was identifying people form the photos along with aa
 Israeli ad-tech Discover-Tech helped place spyware on dozens of devices used by[ Al Jazeera ](https://www.aljazeera.com/news/2026/10/15/israeli-ad-tech-firm-helped-spy-on-al-jazeera-devices)and other companies. \ [citizen lab report](https://citizenlab.ca/research/how-discover-tech-turned-targeted-ads-into-a-pipeline-for-spyware/) \  
 
 google has changed their recaptcha, now people have to scan the qr code to access the websites by crossing the bot test. now, i think thats a one mode data point that is going to google about who i am trying to access a particualr website where and on what device. how is my hypothesis not wrong? i have come across this on 2026-10-24.  
+
+how telcos spy on you and how you may [reduce](https://x.com/unk_data/status/2116864802522054986?s=20) it. 

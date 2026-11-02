@@ -1,5 +1,7 @@
 **# Hackers accessed Central Bank of India's communications systems siphoning Rs. 13.97 crore
 
+update: the company [claims](https://nsearchives.nseindia.com/corporate/CENTRALBK_26102026173647_Final_SE_RTGS_Issue_Press_Release.pdf) that no finanacial loss has occuered. 
+
 The Central Bank of India has filed a complaint with the Mumbai police alleging that 187 unauthorised transfers moved Rs. 13.97 crore from its settlement account with the Reserve Bank of India (RBI) between October 15 and 17, according to a [Hindustan Times](https://www.hindustantimes.com/cities/mumbai-news/central-bank-of-india-reports-13-96-crore-loss-in-187-unauthorised-transactions-101792780875635.html) report published on October 24. 
 
 How did the attackers accessed the public bank’s systems: The public bank's complaint at Nodal Cyber Police Station in Mumbai alleged that unknown persons had accessed the central Structured Financial Messaging System (SFMS) server, which is used as the communication system among the financial institutions like banks and RBI. Police have reportedly registered a case against unknown persons for cheating and personation.

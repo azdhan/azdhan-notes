@@ -5,14 +5,18 @@
 SOME UNVERIFIED CLAIMS 
 - are tehy blockign whatsapp accounts: dipke had alleged, [this](https://x.com/VVIConcept64671/status/2115676269958533411?a=FyLzDzfxqmfNSAzzirg&s=20) guy too 
 
-Are they doing the auto bocking? 
+# Are they doing the auto bocking? 
 - MP saket gokhale [thinks](https://x.com/SaketGokhale/status/2115706730504159319?a=2-0v5TQwl2VwkaCrQRQ&s=20) so; he was replying to the prrint journo that quoted a govt guy saying that the govt is blocking on their own wishes.[ kajol srinivasan](https://www.medianama.com/2026/10/223-legal-requirements-instagram-comedian-blocked-reel/) also said same thing that her reel was auto blocked , then unblocked  and thenblocked again. 
 - dhruv rathe also [claims](https://x.com/dhruv_rathee/status/2115871985574006911?a=tcMwY9ATLd1kvJ8Nh-s&s=20) 
 
 TRACKERS: [SFLC](https://freespeech.sflc.in/) \ [geo blocked in india](https://x.com/geoblockedindia) 
 
+# fake copyright notices 
+- there is something [fishy](https://x.com/AzdhanB/status/2075167371283841353?s=20) going on someone is claiming the copyrights to original content creators and taking away the content + same copyright misuse is happening [internationally](https://www.instagram.com/reels/Dd5SygBTUW8/) too  (but this is relarted to anant ambani
 
- 
+meta's copyright system is also being [examnies](https://www.medianama.com/2026/08/223-metas-copyright-delhi-hc-examine/) in delhi hc. (not sure what happened in this case)
+
+
 - indian govt sends notice to meta saying that protests content should be supressed. and seeks [proactive monitoring](https://x.com/pranesh/status/2112068149382414735?s=20) of the content which is against the shreya singhal judgement 
 
 FAKE COURT ORDERS
@@ -22,8 +26,11 @@ FAKE COURT ORDERS
 ### adani and censorship
 **video essay on modi and adani:** they have [takendown](https://x.com/sabeer/status/2108962900471919080/photo/1) a video about adani and modi.   hadnonly 40k videos and removed within 24 hours \  [backup](https://www.icloud.com/iclouddrive/07amAQmSF9lL2MZbKWvDFbqhw) \ [url](https://www.youtube.com/watch?v=XEK8QRXSKLM) / mahua moitra has [posted](https://x.com/MahuaMoitra/status/2109119142389584156?s=20)  about this  \ [notice](https://x.com/SFLCin/status/2109193327577027045?s=20) [[youtube took down video essay on Modi and adani]]
 - adani has got [removed](https://x.com/AroonDeep/status/887318019344433152?s=20) an article on EPW in 2017. later the editor resigned. artilce [archived](https://archive.is/wgrIy)
-- there is something [fishy](https://x.com/AzdhanB/status/2075167371283841353?s=20) going on someone is claiming the copyrights to original content creators and taking away the content + same copyright misuse is happening [internationally](https://www.instagram.com/reels/Dd5SygBTUW8/) too  (but this is relarted to anant ambani
+
+Website takedowns \: 
+- [[hostinger takesdown paranjoy guha website]]
 - 
+
 --- 
 - [The Wire on X: "The access to this content on The Wire’s Instagram and FB channels has been restricted “through an automated system,” citing implementation “pursuant to legal requirements under India’s Information Technology (Intermediary Guidelines and Digital Media Ethics Code) Rules.” https://t.co/XuuhWvEoRn" / X](https://x.com/thewire_in/status/2087765921389813982)
 - [Siddharth on X: "Anybody who still lives under the illusion that there is censorship in India, see this tweet which has been “withheld in India”. So the government does not allow any public speculation about a rift between @AmitShah and the Union Home Secretary! https://t.co/hMMMl4lWlB" / X](https://x.com/svaradarajan/status/2087824624268529971

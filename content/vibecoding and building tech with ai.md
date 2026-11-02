@@ -1,6 +1,8 @@
 
 # tech stack discoveries 
-- [ ] x api for [free](https://x.com/cruujon/status/2115906154719318505?a=aSLS2iCxBdtqaJG2CaY&s=20) inpoit seems 
+
+- [hackertube](https://x.com/karpathy/status/2116957135661945283?a=uiO-OCU_-7tTccqrzTA&s=20), videos and playlists recommended on hackernews, built by andrej karpathy
+- x api for [free](https://x.com/cruujon/status/2115906154719318505?a=aSLS2iCxBdtqaJG2CaY&s=20) inpoit seems 
 - some [crazy stuff](https://x.com/jackerhack/status/2111475191453041039?s=20) that is being built by kkiran jonnalagadda
 - t drive
 - clean your [TV](https://x.com/gathint/status/2112182577947926920?s=20) UI 

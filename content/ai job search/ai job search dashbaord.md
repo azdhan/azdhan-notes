@@ -1,6 +1,55 @@
 # AI Job Search Dashboard
 
 <!-- NEW DAY BLOCKS GO DIRECTLY BELOW THIS LINE (latest day on top). One "## Month, Date, Year" block per day, table sorted by Score descending. -->
+## November 1, 2026
+
+**Source:** LinkedIn jobs-guest (`linkedin-search` CLI): 25 keywords x 3 locations (remote / Hyderabad / Bengaluru) + freehire public API: India
+**Queries:** `policy writer` | `policy researcher` | `culture writer` | `film critic` | `editorial writer` | `opinion writer` | `thought leadership` | `tech journalist` | `research writer` | `tech policy reporter` | `technology policy correspondent` | `digital policy analyst` | `internet governance fellow` | `staff writer` | `tech policy` | `assistant editor` | `content policy analyst` | `trust and safety analyst` | `editorial technologist` | `columnist` | `opinion editor` | `science writer` | `copy editor` | `sub-editor` | `features writer`
+**Results:** 35 new unique cards after dedupe
+**Filter:** posted in last 24 hours (`--jobage 1`), title gate applied | scored 2026-11-01 (title-level triage, no postings fetched)
+
+Ranking: same framework as the older blocks - Tech 30 / Exp 25 / Behavioral 15 / Career 30, title-level triage (no full postings fetched). `✓` = Remote / Hyderabad / Bengaluru | `?` = city not stated, remote unconfirmed | `⚠` = other city, relocation likely. Ties broken by location preference, then newer posting.
+
+| # | Score | Verdict | Role | Company | Loc | Posted | Apply | Notes |
+| --- | ----- | ------- | ---- | ------- | --- | ------ | ---- | ----- |
+| 1 | 79 | Strong Fit | Policy Specialist | Saarthi Analytics- Strategic and communication solutions | ✓ Remote | Nov 1 | [Apply](https://in.linkedin.com/jobs/view/policy-specialist-at-saarthi-analytics-strategic-and-communication-solutions-4485181888) | [li] policy research/writing at a strategy-and-comms firm |
+| 2 | 69 | Good Fit | Content Manager and Writer | Nexcap | ✓ Remote | Oct 31 | [Apply](https://in.linkedin.com/jobs/view/content-manager-and-writer-at-nexcap-4483935926) | [li] content management plus writing |
+| 3 | 68 | Good Fit | Hiring: News Content, Script Writing & Voice Over | Galgotias Media Pvt. Ltd. | ✓ Remote | Nov 1 | [Apply](https://www.linkedin.com/jobs/view/4485199130) | [li] news scripting and voice-over, media |
+| 4 | 66 | Good Fit | Writer (Executive Level) | Zigsaw | ✓ Remote | Oct 31 | [Apply](https://in.linkedin.com/jobs/view/writer-executive-level-at-zigsaw-4485157423) | [li] executive/thought-leadership writing |
+| 5 | 64 | Good Fit | LinkedIn Writer | Religiate Interactive Brand Consulting Pvt Ltd | ✓ Hyderabad | Nov 1 | [Apply](https://in.linkedin.com/jobs/view/linkedin-writer-at-religiate-interactive-brand-consulting-pvt-ltd-4485414040) | [li] brand/social writing, Hyderabad |
+| 6 | 63 | Good Fit | Copy Editor | Coeik Global Services Private Limited | ✓ Remote | Nov 1 | [Apply](https://in.linkedin.com/jobs/view/copy-editor-at-coeik-global-services-private-limited-4485406037) | [li] copyediting core skill, production desk |
+| 7 | 63 | Good Fit | Group Manager( Research Delievery) | Infollion Research Services Limited | ✓ Remote | Oct 31 | [Apply](https://in.linkedin.com/jobs/view/group-manager-research-delievery-at-infollion-research-services-limited-4485166283) | [li] research delivery management, expert network |
+| 8 | 63 | Good Fit | Content Strategist | Neuraleap Technologies Group | ✓ Bengaluru | Oct 31 | [Apply](https://jobs.pyjamahr.com/super-scholar/content-strategist?utm_source=freehire.me) | [fh] content strategy, onsite Bengaluru |
+| 9 | 63 | Good Fit | Content Strategist | Neuraleap Group | ✓ Bengaluru | Oct 31 | [Apply](https://in.linkedin.com/jobs/view/content-strategist-at-neuraleap-group-4485152534) | [li] content strategy, edtech |
+| 10 | 61 | Good Fit | Script Writer | APPLYKART | ✓ Remote | Nov 1 | [Apply](https://in.linkedin.com/jobs/view/script-writer-at-applykart-4485187961) | [li] script writing, India-remote |
+| 11 | 61 | Good Fit | Copy/Content/Script Writer | The Click Oven | ✓ Bengaluru | Oct 31 | [Apply](https://in.linkedin.com/jobs/view/copy-content-script-writer-at-the-click-oven-4485165096) | [li] copy/content/script writing, agency |
+| 12 | 59 | Moderate Fit | Senior Copywriter | Morpheus Human Consulting Pvt Ltd | ⚠ Mumbai | Oct 31 | [Apply](https://www.shine.com/jobs/senior-copywriter/morpheus-human-consulting-pvt-ltd/19981695?utm_source=freehire.me) | [fh] senior copywriting, agency Mumbai |
+| 13 | 56 | Moderate Fit | Technology Analysts - AI, MES & Industrial Automation | ARC Advisory Group Inc. | ✓ Remote | Oct 31 | [Apply](https://in.linkedin.com/jobs/view/technology-analysts-%E2%80%93-ai-mes-industrial-automation-at-arc-advisory-group-inc-4485171153) | [li] industry analyst, AI/industrial automation |
+| 14 | 55 | Moderate Fit | Freelance Content Writer | Purplenimo | ✓ Remote | Oct 31 | [Apply](https://in.linkedin.com/jobs/view/freelance-content-writer-at-purplenimo-4485911906) | [li] freelance content writing |
+| 15 | 53 | Moderate Fit | Video Editor | TWIN.ENGINE | ✓ Remote | Nov 1 | [Apply](https://www.linkedin.com/jobs/view/4485188964) | [li] video craft, editing/scripting overlap |
+| 16 | 53 | Moderate Fit | Legal Researcher | NIYEAHMA | ✓ Remote | Oct 31 | [Apply](https://in.linkedin.com/jobs/view/legal-researcher-at-niyeahma-4483938588) | [li] legal research, adjacent to policy |
+| 17 | 52 | Moderate Fit | Content Analyst | LSEG | ✓ Remote | Nov 1 | [Apply](https://in.linkedin.com/jobs/view/content-analyst-at-lseg-4485179015) | [li] content/research analyst, financial data |
+| 18 | 52 | Moderate Fit | Video Editor | You2Social | ✓ Remote | Oct 31 | [Apply](https://in.linkedin.com/jobs/view/video-editor-at-you2social-4485174426) | [li] video editing, social media |
+| 19 | 51 | Moderate Fit | SEO Content Writer | Houzeo | ✓ Remote | Oct 31 | [Apply](https://in.linkedin.com/jobs/view/seo-content-writer-at-houzeo-4483945458) | [li] SEO content writing, proptech |
+| 20 | 50 | Moderate Fit | Chief - Sovereign AI Strategy & Government Business | XDC Ventures (XVC.TECH) | ✓ Remote | Nov 1 | [Apply](https://in.linkedin.com/jobs/view/chief-%E2%80%93-sovereign-ai-strategy-government-business-at-xdc-ventures-xvc-tech-4485934731) | [li] AI-policy domain, senior BD/leadership |
+| 21 | 50 | Moderate Fit | Content Writer - Pharma Manufacturing - Chennai - Ensure Task is submitted | Quascenta | ✓ Remote | Oct 31 | [Apply](https://in.linkedin.com/jobs/view/content-writer-pharma-manufacturing-chennai-ensure-task-is-submitted-at-quascenta-4485918358) | [li] pharma content writing, Chennai |
+| 22 | 47 | Moderate Fit | Risk Policy Analyst | ACURA SOLUTIONS LTD | ✓ Remote | Nov 1 | [Apply](https://in.linkedin.com/jobs/view/risk-policy-analyst-at-acura-solutions-ltd-4485182935) | [li] risk policy analysis, finance/insurance |
+| 23 | 47 | Moderate Fit | Content Writer Intern | LB Elite Travels | ✓ Bengaluru | Oct 31 | [Apply](https://in.linkedin.com/jobs/view/content-writer-intern-at-lb-elite-travels-4483940614) | [li] content internship, below level |
+| 24 | 46 | Moderate Fit | Senior Analyst (Data Strategy & Acquisition) | Roche | ✓ Hyderabad | Oct 31 | [Apply](https://in.linkedin.com/jobs/view/senior-analyst-data-strategy-acquisition-at-roche-4460113578) | [li] data strategy analyst, pharma |
+| 25 | 45 | Moderate Fit | Research n Development Manager | Neuraleap Technologies Group | ⚠ Mumbai | Oct 31 | [Apply](https://jobs.pyjamahr.com/super-scholar/research-n-development-manager?utm_source=freehire.me) | [fh] R&D management, edtech Mumbai |
+| 26 | 44 | Weak Fit | SPE-Reg Affairs-Med Writing | Cognizant | ✓ Remote | Oct 31 | [Apply](https://in.linkedin.com/jobs/view/spe-reg-affairs-med-writing-at-cognizant-4476841986) | [li] medical/regulatory writing, pharma |
+| 27 | 40 | Weak Fit | Aladdin Data Risk, Controls & Governance, Director | BlackRock | ✓ Remote | Oct 31 | [Apply](https://in.linkedin.com/jobs/view/aladdin-data-risk-controls-governance-director-at-blackrock-4450326371) | [li] senior data-risk governance, finance |
+| 28 | 38 | Weak Fit | Business Analyst & Data Analyst | Syntrex Technology | ✓ Hyderabad | Oct 31 | [Apply](https://www.naukri.com/job-listings-business-analyst-data-analyst-syntrex-technology-hyderabad-pune-0-to-0-years-311026015204?utm_source=freehire.me) | [fh] BA/data analyst, tech ops |
+| 29 | 33 | Weak Fit | Staff AI & Automation Data Analyst | Pure Storage | ✓ Bengaluru | Nov 1 | [Apply](https://job-boards.greenhouse.io/purestorage/jobs/8129785?utm_source=freehire.me) | [fh] data/automation engineering, outside lane |
+| 30 | 32 | Weak Fit | ISMS & Regulatory Compliance Analyst | Foresee Security | ✓ Remote | Nov 1 | [Apply](https://in.linkedin.com/jobs/view/isms-regulatory-compliance-analyst-at-foresee-security-4485400107) | [li] ISMS compliance ops, not policy writing |
+| 31 | 30 | Weak Fit | Data Analyst Intern | InLighnX Global Pvt Ltd (InLighn Tech) | ? India | Oct 31 | [Apply](https://www.linkedin.com/jobs/view/4485140408/?utm_source=freehire.me) | [fh] data-analyst internship, outside lane |
+| 32 | 29 | Poor Fit | Governance, Risk and Compliance Engineer | MillerKnoll | ✓ Remote | Nov 1 | [Apply](https://in.linkedin.com/jobs/view/governance-risk-and-compliance-engineer-at-millerknoll-4444884680) | [li] GRC engineering, security practitioner |
+| 33 | 28 | Poor Fit | Patch Management Governance & Reporting Support, AS | db | ✓ Bengaluru | Nov 1 | [Apply](https://db.wd3.myworkdayjobs.com/DBWebsite/job/do-not-use-Bangalore-Velankani-Tech-Park/Patch-Management-Governance---Reporting-Support--AS_R0447497-1?utm_source=freehire.me) | [fh] IT patch-management reporting, outside lane |
+| 34 | 20 | Poor Fit | Assistant Manager - People & Culture (Human Resources) | AccorHotel | ⚠ Mumbai | Nov 1 | [Apply](https://jobs.smartrecruiters.com/AccorHotel/744000158939049-assistant-manager-people-culture-human-resources-?utm_source=freehire.me) | [fh] HR generalist, outside lane |
+| 35 | 20 | Poor Fit | Assistant Manager People & Culture | AccorHotel | ⚠ New Delhi | Oct 31 | [Apply](https://jobs.smartrecruiters.com/AccorHotel/744000158900189-assistant-manager-people-culture?utm_source=freehire.me) | [fh] HR generalist, outside lane |
+
+**Snapshot:** 1 Strong Fit | 10 Good Fit | 14 Moderate | 6 Weak | 4 Poor (26 linkedin / 9 freehire - title-level triage, no postings fetched)
+**Top pick:** #1 Policy Specialist, Saarthi Analytics (79, ✓ Remote) - direct policy research/writing fit
 ## October 28, 2026
 
 **Source:** LinkedIn jobs-guest (`linkedin-search` CLI): 25 keywords x 3 locations (remote / Hyderabad / Bengaluru) + freehire public API: India

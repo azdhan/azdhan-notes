@@ -10,8 +10,10 @@ but whya re we only looking at the hugging face incident as the only incident ou
 
 **how can AI agents escape the coded logic of sandboxed environments?** 
 the core question to answer in the hugging face incident is to go beyong the ai hype and ask if this is being done only to bring more regualtion into the ai tech industry (and possibly in the ay that they want to control the regulations? anthropic had a bil {[pdf](https://drive.google.com/file/d/1lJLyXL_2T6yc4rlKPqi6niMpfGucZ-oR/view)} that it was [pitching](https://www.semafor.com/article/10/20/2026/anthropics-leaked-ai-bill-sparks-backlash) into the US senate)
-- how can ai agents turn on wifi and access the internet? 
+- how can ai agents turn on wifi and access the internet?
 
+Instances where AI has found vulnerabilities in critical systems: 
+- claune's [unreleased model](https://www.anthropic.com/research/discovering-vulnerabilities-with-claude) found vulnerabilities in chrome, safari, android lockscreen bypass, windows, linux. later, linux guys [says](https://x.com/TimGarcia0/status/2117045179521921500) that they have foixed some vulnerability, not sure if these are related. 
 
 # ai gone rogue 
 ## openai 
@@ -27,6 +29,7 @@ the core question to answer in the hugging face incident is to go beyong the ai 
 
 
 # ai agents on darkweb
+
 
 
 # ai agents and weight behaviour 
