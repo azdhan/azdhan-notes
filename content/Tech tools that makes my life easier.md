@@ -60,6 +60,7 @@
 
 
 # issues and solutions 
+- APK files from google playstore: [APK Downloader | November 2026 | (Evozi Official)](https://apps.evozi.com/apk-downloader/) 
 - if you want to check if your data has been leaked online, you can check on [this](https://haveibeenpwned.com) site, there must be other similar sites as well. 
 - you can identify the owner of a email address using this [mailometer](https://mailmeteor.com/tools/reverse-email-lookup?email=sasch.matthew%40gmail.com) address.  
 - cant find the journalists, can use: https://journalisthunt.com/dashboard. the PII is only limited to paid subscribers but it can be used to browse and so third party search. 
