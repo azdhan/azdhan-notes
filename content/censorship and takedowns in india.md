@@ -13,6 +13,7 @@ TRACKERS: [SFLC](https://freespeech.sflc.in/) \ [geo blocked in india](https://x
 
 # fake copyright notices 
 - there is something [fishy](https://x.com/AzdhanB/status/2075167371283841353?s=20) going on someone is claiming the copyrights to original content creators and taking away the content + same copyright misuse is happening [internationally](https://www.instagram.com/reels/Dd5SygBTUW8/) too  (but this is relarted to anant ambani
+- another [one](https://x.com/geoblockedindia/status/2117289091327013273?a=VaqfhnK_Zo05P6qrR7c&s=20) in nov 2026
 
 meta's copyright system is also being [examnies](https://www.medianama.com/2026/08/223-metas-copyright-delhi-hc-examine/) in delhi hc. (not sure what happened in this case)
 
