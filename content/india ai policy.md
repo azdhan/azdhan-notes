@@ -2,7 +2,7 @@ ai regulations are coming to india. consultations may begin in nov 2026. [[meity
 
 # trivia 
 - sameer nigam says that government deosnt understand what the government want to regulate in ai in WTF with nikhil kamath. they take the approach of a very paternalistic approach by saying that he people cant handle on their own. 
-- 
+- inndian courts are using [adalat ai](https://x.com/akshitsoni_/status/2117662554789236932?a=-MEVeOqR-EOGJ0W_-qU&s=20) for transcripts in pronouncing judgements
 
 what are the current policy documents to refer: 
 

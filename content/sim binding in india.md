@@ -11,7 +11,8 @@ phonepe sends a sms to the bank that again checks if the user has the account wi
 
 
 
-
+[How OTP Verification Works and Why It’s Important | Veridas](https://veridas.com/en/what-is-otp/#:~:text=In%20the%20context%20of%20identity%20verification%2C%20OTPs,as%20one%20of%20the%20optional%20authentication%20layers) 
+TACKLING RETAIL FINANCIAL CYBER CRIMES IN INDIA - [PDF](https://thedialogue.org.in/wp-content/uploads/2022/05/Tackling-Retail-Financial-Cyber-Crimes-In-India-Deepstrat13.05.2022-1.pdf) 
 
 people whom i can ttalk to: simbinding event [speakers](https://docs.google.com/spreadsheets/d/14Fnrb0iaziQJ1GitgqqsnGbFaozwL3PO2uRk8_iQVKA/edit?gid=2068147646#gid=2068147646)
 

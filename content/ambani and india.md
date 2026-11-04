@@ -9,6 +9,10 @@ however, while there are [claims](https://www.instagram.com/reel/DeQafn4B8Pr/?ob
 
 amabni can only succeed in the sectors that are havily regulated by the govt where he has the leverage of preferential advantage of crony capitalism. jio has morethan a dozen of digital products, but almost none of them are successful. his recent venture inot campa cola business to challenge pepsi is not by competing with the cococola, but by removing them from the stalls. leaving consumers with no choice + luring the consumers with the lowest/predatory pricing 
 
+[Do not ‘engage formally’: UK officials advised against billionaire-run zoo ahead of CITES meeting](https://news.mongabay.com/2026/11/do-not-engage-formally-uk-officials-advised-against-billionaire-run-zoo-ahead-of-cites-meeting/)
+
+
+
 
 
 
