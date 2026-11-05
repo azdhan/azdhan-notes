@@ -1,5 +1,4 @@
  
-
 # trivia 
 1. [this](https://open.spotify.com/album/4KCUQdarlVhHwZnuzMYxAg) is the original song for the rang saari that came in 1982
 
@@ -9,9 +8,6 @@
 [[radio garden discoveries]]
 
 [[gulzar and music]]
-
-
-3. 
 # new discoveries (yet to listen)
 
 1. neha lagai \ ghir ghir advaita \ jee ve sohaneya  \ hona hai kya - ram sampath \ sneha khanwalkar \ behney do kasrsh kale - indian ocean \
@@ -21,6 +17,10 @@
 5. random list of [best](https://x.com/pnamblat/status/1999470785573060667?s=20) 2025
 6. Dicovering some good music: 
 - [Reel](https://www.instagram.com/reel/DY2rRKJSt-p/?utm_source=ig_web_copy_link&igsh=NTc4MTIwNjQ2YQ==) -- na bol | room jhoom | 
+
+# tech music 
+1. [Pardesi • Whoja Vu](https://open.spotify.com/album/6HUNNklu1ciloLfiWrzw4K) 
+2. 
 
 ### Females 
 1. artists from [poragallu](https://open.spotify.com/album/6Y6Dqa4tiMMKaJ8Bl7ggL8?si=tRvHOW6OQA6siytGUUGyvA) album

@@ -24,5 +24,13 @@ kinda, because theya re taking hte public money, says sohini.
 
 
 
+# crypto regulations in india
+crypto payments in [mumbai local train ](https://x.com/marketcallsHQ/status/2118043223885287463?a=ts01-oSe5WOGTPkF5-Q&s=20)
+
+
+
+
+
+# misc
 https://x.com/logic/status/2100091479721165138?s=20 
 

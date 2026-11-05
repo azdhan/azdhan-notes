@@ -1,4 +1,6 @@
 # policy fuckups of modi 
+[A decade after demonetisation, no dent in black money and corruption](https://scroll.in/article/1096851/a-decade-after-demonetisation-no-dent-in-black-money-and-corruption) 
+
 **surat diamon bourse is a falure and a ghost building,** 300/4.2k offices are operational, despite 4k offices were bought and paying hte maintainance fees but still they are ghosted buildings.. that is once valued as 3k cr: 
 - one of the businessman had to [move to mumbai](https://indianexpress.com/article/explained/explained-economics/surat-diamond-bourse-empty-offices-diamond-industry-crisis-10941578/) back because the business is still in bombay. 
 - 95% of worlds diamonds are polished  in suraj then why failed? because the business is in mumbai that the train were used to move, 
