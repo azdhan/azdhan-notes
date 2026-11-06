@@ -7,6 +7,9 @@ WIKI
  
  
  # supreme court aadhaar judgement
+
+- [ ] indian government now saying that they will use the voter id with biometrics fir beneficiaries and what the point of aadhaar then? this can backfire as the government may use this to say that you have to be a loyal voter if no rder to get the subsidies. [anand](https://x.com/iam_anandv/status/2118261202505888008?a=cmw4DeTqFcJ1eQXwyPw&s=20) v on this
+
 # arguments in support of aadhaar: 
 - **govt delivery services:** it will be a developed nation from developing nation by ensuring that the govt aid reaches to the intended people. 
 - ease of some services like opening bank account or a sim. 
@@ -31,8 +34,7 @@ BJP
 
 it was introduced as the money bill because of the PDS problem that it intended to solve. however, justice chandrachud [disagreed](https://www.thehindu.com/news/national/aadhaar-verdict-its-money-bill-says-majority-opinion/article25050600.ece) with this idea of aadhaar as a money bill; he viewed it as the identity project itself-- which it is imo. 
 
-- 
-- 
+
 
 
 

@@ -33,7 +33,10 @@ Website takedowns \:
 - 
 
 --- 
-- [The Wire on X: "The access to this content on The Wire’s Instagram and FB channels has been restricted “through an automated system,” citing implementation “pursuant to legal requirements under India’s Information Technology (Intermediary Guidelines and Digital Media Ethics Code) Rules.” https://t.co/XuuhWvEoRn" / X](https://x.com/thewire_in/status/2087765921389813982)
+
+
+- [(1) Gurmehar Kaur on X: ""Being diverse is a good thing... being divisive is not. India is a beautiful painting... if you remove even one colour, the painting is no longer a painting." – @iamsrk On November 2nd, @YasminKidwai shared this clip from her documentary Filmisthaan: The Euphoric State of https://t.co/p9vhEIAqWo" / X](https://x.com/mehartweets/status/2117989552292085922)
+-  [The Wire on X: "The access to this content on The Wire’s Instagram and FB channels has been restricted “through an automated system,” citing implementation “pursuant to legal requirements under India’s Information Technology (Intermediary Guidelines and Digital Media Ethics Code) Rules.” https://t.co/XuuhWvEoRn" / X](https://x.com/thewire_in/status/2087765921389813982)
 - [Siddharth on X: "Anybody who still lives under the illusion that there is censorship in India, see this tweet which has been “withheld in India”. So the government does not allow any public speculation about a rift between @AmitShah and the Union Home Secretary! https://t.co/hMMMl4lWlB" / X](https://x.com/svaradarajan/status/2087824624268529971
 - doxxing - [Krisha 🌸 on X: "This girl left school to build a career on social media. For nearly 30 days she went to the CJP protest, abused the country’s Prime Minister, mocked Hindu religion, spread as much hate as she could, and kept her entire focus on social media. Bcz of all this, her followers grew https://t.co/ggrrTdLuT3" / X](https://x.com/KrishaAsiagh/status/2087539646070993391)
 - someone [said](https://x.com/VikashK90017141/status/2087630815882858780?s=20) that abhijit dipke was the first suggestion for the new account. this kinda aligns with what BJP is accusing Meta of (encouraging the cjp protests). someone also [allege](https://x.com/abdullah_0mar/status/2087576108678152543?s=20) that new account of a girl who abused modi got 70k followers with just 10 posts. its a new account it seems. 

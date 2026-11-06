@@ -1,6 +1,7 @@
 
 # tech stack discoveries 
 
+- [GitHub - BookracyFOS/bookracy: Free, open-source book search, reader and library. · GitHub](https://github.com/BookracyFOS/bookracy) 
 - agents can search reddit and youtube with [this](https://x.com/DotTomedy/status/2117854044525842671?a=AUkDhhVvnRo11D5aZOw&s=20)
 - [Crawl4AI - README](https://crawl4ai.com/)
 - [hackertube](https://x.com/karpathy/status/2116957135661945283?a=uiO-OCU_-7tTccqrzTA&s=20), videos and playlists recommended on hackernews, built by andrej karpathy
