@@ -1,6 +1,57 @@
 # AI Job Search Dashboard
 
 <!-- NEW DAY BLOCKS GO DIRECTLY BELOW THIS LINE (latest day on top). One "## Month, Date, Year" block per day, table sorted by Score descending. -->
+## November 7, 2026
+
+**Source:** LinkedIn jobs-guest (`linkedin-search` CLI): 25 keywords x 3 locations (remote / Hyderabad / Bengaluru) + freehire public API: India
+**Queries:** `policy writer` | `policy researcher` | `culture writer` | `film critic` | `editorial writer` | `opinion writer` | `thought leadership` | `tech journalist` | `research writer` | `tech policy reporter` | `technology policy correspondent` | `digital policy analyst` | `internet governance fellow` | `staff writer` | `tech policy` | `assistant editor` | `content policy analyst` | `trust and safety analyst` | `editorial technologist` | `columnist` | `opinion editor` | `science writer` | `copy editor` | `sub-editor` | `features writer`
+**Results:** 36 new unique cards after dedupe
+**Filter:** posted in last 24 hours (`--jobage 1`), title gate applied | scored 2026-11-07 (title-level triage, no postings fetched)
+
+Ranking: same framework as the older blocks - Tech 30 / Exp 25 / Behavioral 15 / Career 30, title-level triage (no full postings fetched). `✓` = Remote / Hyderabad / Bengaluru | `?` = city not stated, remote unconfirmed | `⚠` = other city, relocation likely. Ties broken by location preference, then newer posting.
+
+| # | Score | Verdict | Role | Company | Loc | Posted | Apply | Notes |
+| --- | ----- | ------- | ---- | ------- | --- | ------ | ---- | ----- |
+| 1 | 70 | Good Fit | Research Associate (Public Policy) | India House | ⚠ Delhi | Nov 6 | [Apply](https://in.linkedin.com/jobs/view/research-associate-public-policy-at-india-house-4486997380) | [li] policy research associate, direct lane; Delhi onsite |
+| 2 | 68 | Good Fit | Associate Editor | Wood Mackenzie | ⚠ Gurugram | Nov 6 | [Apply](https://in.linkedin.com/jobs/view/associate-editor-at-wood-mackenzie-4488401485) | [li] energy research editing, publishing desk |
+| 3 | 66 | Good Fit | Technical Content Writer (Remote) | Joblet-AI | ✓ Remote | Nov 7 | [Apply](https://in.linkedin.com/jobs/view/technical-content-writer-remote-at-joblet-ai-4487389376) | [li] technical content writing, fully remote |
+| 4 | 65 | Good Fit | Senior Content Writer | Sapience Publications | ⚠ Chennai | Nov 7 | [Apply](https://www.linkedin.com/jobs/view/4487389844) | [li] senior content writing, publishing house |
+| 5 | 64 | Good Fit | Senior Content Writer — Technical & Product Marketing | Vebholic | ? India | Nov 6 | [Apply](https://in.linkedin.com/jobs/view/senior-content-writer-%E2%80%94-technical-product-marketing-at-vebholic-4486768105) | [li] technical/product marketing writing |
+| 6 | 63 | Good Fit | Content Writer | Social Matters | ✓ Hyderabad | Nov 6 | [Apply](https://in.linkedin.com/jobs/view/content-writer-at-social-matters-4486226541) | [li] content writing, Hyderabad agency |
+| 7 | 63 | Good Fit | Ai Governance | DHL Global Forwarding | ⚠ Mumbai | Nov 6 | [Apply](https://in.linkedin.com/jobs/view/ai-governance-at-dhl-global-forwarding-4488169115) | [li] AI governance, corporate compliance lane |
+| 8 | 62 | Good Fit | Senior Content Writer | EliteExpertise | ? India | Nov 7 | [Apply](https://in.linkedin.com/jobs/view/senior-content-writer-at-eliteexpertise-4487388998) | [li] senior content writing, India-wide |
+| 9 | 61 | Good Fit | Senior Content Writer | IJ Magazine (Indian Jeweller) | ⚠ Mumbai | Nov 6 | [Apply](https://in.linkedin.com/jobs/view/senior-content-writer-at-ij-magazine-indian-jeweller-4486981285) | [li] lifestyle magazine writing, Mumbai |
+| 10 | 60 | Good Fit | Content Writer and Reviewer | QA Solvers Inc. | ⚠ Varanasi | Nov 6 | [Apply](https://in.linkedin.com/jobs/view/content-writer-and-reviewer-at-qa-solvers-inc-4486989513) | [li] content writing plus review, academic |
+| 11 | 59 | Moderate Fit | Media Analyst - UK News | Onclusive | ⚠ Mumbai | Nov 6 | [Apply](https://in.linkedin.com/jobs/view/media-analyst-uk-news-at-onclusive-4488146702) | [li] UK news media analysis, Mumbai |
+| 12 | 59 | Moderate Fit | Technical Writer Consultant | JSM Consulting Inc | ⚠ Pune | Nov 6 | [Apply](https://www.naukri.com/job-listings-technical-writer-consultant-jsm-consulting-inc-pune-8-to-13-years-061126024365?utm_source=freehire.me) | [fh] technical writing, 8-13 yrs seniority |
+| 13 | 58 | Moderate Fit | Journalism Internship in Noida (Hybrid) | Saujil Global Pvt. Ltd. | ⚠ Noida | Nov 7 | [Apply](https://in.linkedin.com/jobs/view/journalism-internship-in-noida-hybrid-at-saujil-global-pvt-ltd-4488459464) | [li] journalism internship, below level |
+| 14 | 56 | Moderate Fit | content writer | Cygnus Advertising | ⚠ Kolkata | Nov 6 | [Apply](https://in.linkedin.com/jobs/view/content-writer-at-cygnus-advertising-4486249129) | [li] general content writing, ad agency |
+| 15 | 55 | Moderate Fit | Regulatory Conduct Risk Governance Lead | Standard Chartered India | ✓ Bengaluru | Nov 6 | [Apply](https://in.linkedin.com/jobs/view/regulatory-conduct-risk-governance-lead-at-standard-chartered-india-4486983316) | [li] regulatory conduct governance, Bengaluru |
+| 16 | 54 | Moderate Fit | Ad Creative Writer- Posters | Lokal | ✓ Bengaluru | Nov 6 | [Apply](https://in.linkedin.com/jobs/view/ad-creative-writer-posters-at-lokal-4488176020) | [li] ad creative writing, Bengaluru |
+| 17 | 54 | Moderate Fit | Energy Market Researcher- Power | ICF | ✓ Bengaluru | Nov 6 | [Apply](https://in.linkedin.com/jobs/view/energy-market-researcher-power-at-icf-4488137927) | [li] energy market research, power sector |
+| 18 | 50 | Moderate Fit | Research Development Lead | Brain Bristle | ⚠ Mumbai | Nov 6 | [Apply](https://in.linkedin.com/jobs/view/research-development-lead-at-brain-bristle-4486240667) | [li] research development lead, Mumbai |
+| 19 | 50 | Moderate Fit | Research Analyst Writer Intern Raipur Paid | CorenestTech LLP | ⚠ Raipur | Nov 6 | [Apply](https://in.linkedin.com/jobs/view/research-analyst-writer-intern-raipur-paid-at-corenesttech-llp-4486242010) | [li] research/writing internship, Raipur |
+| 20 | 49 | Moderate Fit | Video Editor & Motion Specialist | PhonePe | ✓ Bengaluru | Nov 6 | [Apply](https://in.linkedin.com/jobs/view/video-editor-motion-specialist-at-phonepe-4477370041) | [li] video editing/motion, Bengaluru brand |
+| 21 | 48 | Moderate Fit | Engineering Analyst, Trust and Safety Monetization | workog | ✓ Bengaluru | Nov 6 | [Apply](https://in.linkedin.com/jobs/view/engineering-analyst-trust-and-safety-monetization-at-workog-4487340281) | [li] trust & safety analyst, engineering side |
+| 22 | 48 | Moderate Fit | Senior Data Analyst- Scaled Moderation | Roblox | ⚠ Gurugram | Nov 6 | [Apply](https://in.linkedin.com/jobs/view/senior-data-analyst-scaled-moderation-at-roblox-4406253033) | [li] trust & safety data analytics |
+| 23 | 48 | Moderate Fit | AI Documentation Analyst (Freshers) | Tillvaxt Hr Solutions | ⚠ Chennai | Nov 6 | [Apply](https://www.naukri.com/job-listings-ai-documentation-analyst-freshers-tillvaxt-hr-solutions-chennai-0-to-0-years-061126025153?utm_source=freehire.me) | [fh] AI documentation analyst, fresher role |
+| 24 | 48 | Moderate Fit | Fresher Content Writer II - Dehradun | EbizON | ⚠ Dehradun | Nov 6 | [Apply](https://in.linkedin.com/jobs/view/ebizon-fresher-content-writer-ii-dehradun-at-ebizon-4488175769) | [li] fresher content writing, Dehradun |
+| 25 | 47 | Moderate Fit | GRC Analyst | Abacus | ⚠ Chennai | Nov 6 | [Apply](https://in.linkedin.com/jobs/view/grc-analyst-at-abacus-4486238284) | [li] GRC analyst, compliance side |
+| 26 | 46 | Moderate Fit | Video Editor in Bangalore | Pi42 | ✓ Bengaluru | Nov 7 | [Apply](https://in.linkedin.com/jobs/view/video-editor-in-bangalore-at-pi42-4488466163) | [li] video editing, Bengaluru fintech |
+| 27 | 44 | Weak Fit | Video Editor | Tendo (usetendo.com) | ⚠ Gurugram | Nov 7 | [Apply](https://www.linkedin.com/jobs/view/4486644157) | [li] video editing, off-lane editorial |
+| 28 | 43 | Weak Fit | Video Editor [ON-SITE] | YMGrad | ⚠ Delhi | Nov 7 | [Apply](https://in.linkedin.com/jobs/view/video-editor-on-site-at-ymgrad-4487396676) | [li] on-site video editing, Delhi |
+| 29 | 43 | Weak Fit | Medical/Scientific Writer-Gurgaon-AM | WNS | ⚠ Gurgaon | Nov 6 | [Apply](https://in.linkedin.com/jobs/view/medical-scientific-writer-gurgaon-am-at-wns-4488158106) | [li] medical/scientific writing, off-lane |
+| 30 | 42 | Weak Fit | Video Editor | Miya Infotech | ⚠ Jammu | Nov 7 | [Apply](https://in.linkedin.com/jobs/view/video-editor-at-miya-infotech-4487377366) | [li] video editing, off-lane editorial |
+| 31 | 42 | Weak Fit | Video Editor | Rioconn Interactive Pvt. Ltd | ⚠ Ahmedabad | Nov 6 | [Apply](https://in.linkedin.com/jobs/view/video-editor-at-rioconn-interactive-pvt-ltd-4488160484) | [li] video editing, Ahmedabad agency |
+| 32 | 39 | Weak Fit | Analyst - Medical Information | AstraZeneca | ✓ Bengaluru | Nov 6 | [Apply](https://in.linkedin.com/jobs/view/analyst-medical-information-at-astrazeneca-4487360186) | [li] medical information analyst, off-lane |
+| 33 | 36 | Weak Fit | Assistant General Manager - Operations & Regulatory Reporting - NBFC | VAYURA HR AND ADVISORS | ⚠ Chennai | Nov 6 | [Apply](https://www.iimjobs.com/j/assistant-general-manager-operations-regulatory-reporting-nbfc-1744554?utm_source=freehire.me) | [fh] regulatory reporting ops, finance |
+| 34 | 34 | Weak Fit | Business Analyst | Advy Chemical | ⚠ Mumbai | Nov 6 | [Apply](https://www.naukri.com/job-listings-business-analyst-advy-chemical-mumbai-2-to-5-years-240726025505?utm_source=freehire.me) | [fh] business analyst, chemicals |
+| 35 | 32 | Weak Fit | Procurement Analyst | Vultr | ⚠ Chennai | Nov 6 | [Apply](https://jobs.ashbyhq.com/vultr/1148d090-3501-4f38-b06e-2818d4759e6a?utm_source=freehire.me) | [fh] procurement analyst, off-lane |
+| 36 | 25 | Poor Fit | Malayalam Copywriter | Unico Creative Studios | ✓ Bengaluru | Nov 6 | [Apply](https://in.linkedin.com/jobs/view/malayalam-copywriter-at-unico-creative-studios-4486975798) | [li] Malayalam copywriting required |
+
+**Snapshot:** 0 Strong | 10 Good | 16 Moderate | 9 Weak | 1 Poor (31 linkedin / 5 freehire - title-level triage, no postings fetched)
+**Top pick:** #1 Research Associate (Public Policy), India House (70, ⚠ Delhi) - direct policy research lane, but relocation to Delhi likely
+
 ## November 5, 2026
 
 **Source:** LinkedIn jobs-guest (`linkedin-search` CLI): 25 keywords x 3 locations (remote / Hyderabad / Bengaluru) + freehire public API: India
