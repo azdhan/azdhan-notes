@@ -1,5 +1,7 @@
 stories that i want to write 
-= [[a legal ethical drama on a death bed]]
+[[a legal ethical drama on a death bed]]
+[[lady lady into the night]]
+[[freemake of better call saul but shouldn't]]
 
 
 

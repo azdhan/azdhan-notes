@@ -10,7 +10,7 @@
 - [[how spam works and regulated in india]]
 - [[sahyog portal and everything about it]]
 - [[ott and media policy in india]]
-- [[writing and arts]]
+- [[stories that i want to write]]
 - [[network slicing and net neutrality]]
 
 ## everything series 

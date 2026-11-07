@@ -1,7 +1,7 @@
 #writing/stories 
 a rural uneducated old villageman knows all the legal and ethical stuff he knows about the policy and rights, all through the cinema and youtube. he becomes more philosophical as he grows older and he finds the socrates-like debating companion in the neighbouring village, a small but young curious kid who is generally kicked out of any sociable event for his unfiltered but polite rebellious nature. 
 
-as the kids of the villageman avoid and leave him, very naturally and understanably, the youthful guy becomes the everything for the lonely old man. he finds comfort in the internet and a companion in the young boy. 
+as the kids of the vilageman avoid and leave him, very naturally and understanably, the youthful guy becomes the everything for the lonely old man. he finds comfort in the internet and a companion in the young boy. 
 
 when the oldman is in the bed-ridden and near to death eventually, after several years, the youngboy comes to the village and as the person who was very close to the oldman, in an intellectual way and a heartfelt-wholesome way (almost like sathyam sundaram types), he takes the initiation and the responsibility of him. the biological kids, the hypocrites who never really cared for their father claims more rights over the youngboy (now older). 
 
