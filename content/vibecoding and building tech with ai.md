@@ -1,10 +1,13 @@
-
+# to do tech
+- cleanyourtv 
+- stremiosetup
+- 
 # tech stack discoveries 
 
 - [GitHub - BookracyFOS/bookracy: Free, open-source book search, reader and library. · GitHub](https://github.com/BookracyFOS/bookracy) 
 - agents can search reddit and youtube with [this](https://x.com/DotTomedy/status/2117854044525842671?a=AUkDhhVvnRo11D5aZOw&s=20)
 - [Crawl4AI - README](https://crawl4ai.com/)
-- [hackertube](https://x.com/karpathy/status/2116957135661945283?a=uiO-OCU_-7tTccqrzTA&s=20), videos and playlists recommended on hackernews, built by andrej karpathy
+- [hackertube](https://x.com/karpathy/status/2116957135661945283?a=uiO-OCU_-7tTccqrzTA&s=20), videos and playlists recommended on hackernews, built by andrej karpathy  + another [one](https://x.com/karpathy/status/2119114537442189652?a=Nawoi06rEaL269CEV2I&s=20)
 - x api for [free](https://x.com/cruujon/status/2115906154719318505?a=aSLS2iCxBdtqaJG2CaY&s=20) inpoit seems 
 - some [crazy stuff](https://x.com/jackerhack/status/2111475191453041039?s=20) that is being built by kkiran jonnalagadda
 - t drive
