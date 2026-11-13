@@ -2,7 +2,8 @@
 
 **[MediaNama RTI Filing Form](https://docs.google.com/forms/d/e/1FAIpQLSdrlb5jk51NHFNpaYqhR4Dw4MkjweazdDyq0pB-_IuNNcfMfw/viewform)  /  Public authorities [list](https://rtionline.gov.in/request/allpa.php)   /  [RTI Record](https://docs.google.com/spreadsheets/d/10Z2DNI2coodcRNP9gNfCWn2YZc9QmUiyuR6yIJlIZA8/edit?gid=0#gid=0) MN internal** 
 
-
+# yet to file
+what happened at the NCPCR [meetings](https://x.com/aseemmanchanda/status/2120887352180842860?a=1KHUTh0hWY8fT6ruJV0&s=20) with tech companies? 
 
 # how many section 69a orders were withdrawn
 2026-11-03

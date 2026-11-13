@@ -1,231 +1,26 @@
-# Speaker Email Bodies: Technical Issues with SIM Binding (Nov 13, 2026)
 
----
 
-## 1. Meghna Bal
-
-Hi Meghna Bal,
-
-We're glad you're joining our online discussion on technical issues with SIM binding.
-
-Just as a quick reminder, the discussion will start at **1:30 PM IST on November 13, 2026**. We request you to join 10 minutes earlier to check the audio and video output and to solve any technical issues, if there are any.
-
-[Click here to join the Zoom link](https://us02web.zoom.us/w/87330223160?tk=skJx6Gq8jJMJTXBvk0dEalF0ikzmDK9n0awf3ObzSYU.DQkAAAAUVUl0OBZsc2c5WEdYZVRZQzlNSThUSWV5c2x3AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA&pwd=DfDRafgP4FEjSsWkSJtRmsiNQRo65t.1) (this link is unique to you, so please do not share it with anyone else).
-
-Alternatively, you can use the following webinar ID and passcode:
-
-Webinar ID: 873 3022 3160  
-Passcode: 288327
-
-If you are facing any issues, you can contact me at 6309502648.
-
-Regards,  
-Azdhan  
-MediaNama
-
----
-
-## 2. Ritesh Bhatia
-
-Hi Ritesh Bhatia,
-
-We're glad you're joining our online discussion on technical issues with SIM binding.
-
-Just as a quick reminder, the discussion will start at **1:30 PM IST on November 13, 2026**. We request you to join 10 minutes earlier to check the audio and video output and to solve any technical issues, if there are any.
-
-[Click here to join the Zoom link](https://us02web.zoom.us/w/87330223160?tk=vXsFIuYRh-dEFKulaceiFjut0m_sBsBoy8gS9y9wAFU.DQkAAAAUVUl0OBZaYTNmZk9rM1NlYXFxYUYyQ3hDbkt3AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA&pwd=DfDRafgP4FEjSsWkSJtRmsiNQRo65t.1) (this link is unique to you, so please do not share it with anyone else).
-
-Alternatively, you can use the following webinar ID and passcode:
-
-Webinar ID: 873 3022 3160  
-Passcode: 288327
-
-If you are facing any issues, you can contact me at 6309502648.
-
-Regards,  
-Azdhan  
-MediaNama
-
----
-
-## 3. Anivar Aravind
-
-Hi Anivar Aravind,
-
-We're glad you're joining our online discussion on technical issues with SIM binding.
-
-Just as a quick reminder, the discussion will start at **1:30 PM IST on November 13, 2026**. We request you to join 10 minutes earlier to check the audio and video output and to solve any technical issues, if there are any.
-
-[Click here to join the Zoom link](https://us02web.zoom.us/w/87330223160?tk=EkK4ax8Hqc-EixRZjfhlVkT4jIhGud7HRllO-29uPRw.DQkAAAAUVUl0OBZ1WnlUWjhwU1RzU0xWcENxOWlDY19nAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA&pwd=DfDRafgP4FEjSsWkSJtRmsiNQRo65t.1) (this link is unique to you, so please do not share it with anyone else).
-
-Alternatively, you can use the following webinar ID and passcode:
-
-Webinar ID: 873 3022 3160  
-Passcode: 288327
-
-If you are facing any issues, you can contact me at 6309502648.
-
-Regards,  
-Azdhan  
-MediaNama
-
----
-
-## 4. Suman Kar
-
-Hi Suman Kar,
-
-We're glad you're joining our online discussion on technical issues with SIM binding.
-
-Just as a quick reminder, the discussion will start at **1:30 PM IST on November 13, 2026**. We request you to join 10 minutes earlier to check the audio and video output and to solve any technical issues, if there are any.
-
-[Click here to join the Zoom link](https://us02web.zoom.us/w/87330223160?tk=EOPBLaEMqERn1F5ueRpF8oFkPIlCv1wbPjt4a2ZL0SI.DQkAAAAUVUl0OBZITXY2b2plcFFDNmdOM2gySGZieEdBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA&pwd=DfDRafgP4FEjSsWkSJtRmsiNQRo65t.1) (this link is unique to you, so please do not share it with anyone else).
-
-Alternatively, you can use the following webinar ID and passcode:
-
-Webinar ID: 873 3022 3160  
-Passcode: 288327
-
-If you are facing any issues, you can contact me at 6309502648.
-
-Regards,  
-Azdhan  
-MediaNama
-
----
-
-## 5. Prasanth Suganthan
-
-Hi Prasanth Suganthan,
-
-We're glad you're joining our online discussion on technical issues with SIM binding.
-
-Just as a quick reminder, the discussion will start at **1:30 PM IST on November 13, 2026**. We request you to join 10 minutes earlier to check the audio and video output and to solve any technical issues, if there are any.
-
-[Click here to join the Zoom link](https://us02web.zoom.us/w/87330223160?tk=3IZA3hzIxAlvgmrUFwbaBtpfgjrwC0KtNSQL-tI4YLg.DQkAAAAUVUl0OBZDeUlfUW1faVNHR0RSLWR6UXk3YjBRAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA&pwd=DfDRafgP4FEjSsWkSJtRmsiNQRo65t.1) (this link is unique to you, so please do not share it with anyone else).
-
-Alternatively, you can use the following webinar ID and passcode:
-
-Webinar ID: 873 3022 3160  
-Passcode: 288327
-
-If you are facing any issues, you can contact me at 6309502648.
-
-Regards,  
-Azdhan  
-MediaNama
-
----
-
-## 6. Parag Modi
-
-Hi Parag Modi,
-
-We're glad you're joining our online discussion on technical issues with SIM binding.
-
-Just as a quick reminder, the discussion will start at **1:30 PM IST on November 13, 2026**. We request you to join 10 minutes earlier to check the audio and video output and to solve any technical issues, if there are any.
-
-[Click here to join the Zoom link](https://us02web.zoom.us/w/87330223160?tk=_p9wvVOgFD2MPzM_f_ihFNN0rz9tErqdyJzcgnhEEvk.DQkAAAAUVUl0OBZaTXdvclNCUlJCTzdqNTlYWnBWYmdRAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA&pwd=DfDRafgP4FEjSsWkSJtRmsiNQRo65t.1) (this link is unique to you, so please do not share it with anyone else).
-
-Alternatively, you can use the following webinar ID and passcode:
-
-Webinar ID: 873 3022 3160  
-Passcode: 288327
-
-If you are facing any issues, you can contact me at 6309502648.
-
-Regards,  
-Azdhan  
-MediaNama
-
----
-
-## 7. Parag Kar
-
-Hi Parag Kar,
-
-We're glad you're joining our online discussion on technical issues with SIM binding.
-
-Just as a quick reminder, the discussion will start at **1:30 PM IST on November 13, 2026**. We request you to join 10 minutes earlier to check the audio and video output and to solve any technical issues, if there are any.
-
-[Click here to join the Zoom link](https://us02web.zoom.us/w/87330223160?tk=iER0venfMtWzwVC2vFLWEDV27eXAD6yxKOyBtXmqhAs.DQkAAAAUVUl0OBZSRjF5ZS1FcVNkMnhtdVhCdUZRZjRRAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA&pwd=DfDRafgP4FEjSsWkSJtRmsiNQRo65t.1) (this link is unique to you, so please do not share it with anyone else).
-
-Alternatively, you can use the following webinar ID and passcode:
-
-Webinar ID: 873 3022 3160  
-Passcode: 288327
-
-If you are facing any issues, you can contact me at 6309502648.
-
-Regards,  
-Azdhan  
-MediaNama
-
----
-
-## 8. Vinod Kumar
-
-Hi Vinod Kumar,
-
-We're glad you're joining our online discussion on technical issues with SIM binding.
-
-Just as a quick reminder, the discussion will start at **1:30 PM IST on November 13, 2026**. We request you to join 10 minutes earlier to check the audio and video output and to solve any technical issues, if there are any.
-
-[Click here to join the Zoom link](https://us02web.zoom.us/w/87330223160?tk=Sal8rtqdmhp05PaBXVVirY3UOSteV30JaJqi1GRpfxc.DQkAAAAUVUl0OBZjQ0ZKQVdzaFE2T1ZNUllDdGgyS19RAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA&pwd=DfDRafgP4FEjSsWkSJtRmsiNQRo65t.1) (this link is unique to you, so please do not share it with anyone else).
-
-Alternatively, you can use the following webinar ID and passcode:
-
-Webinar ID: 873 3022 3160  
-Passcode: 288327
-
-If you are facing any issues, you can contact me at 6309502648.
-
-Regards,  
-Azdhan  
-MediaNama
-
----
-
-## 9. Nikhil Pahwa
-
-Hi Nikhil Pahwa,
-
-We're glad you're joining our online discussion on technical issues with SIM binding.
-
-Just as a quick reminder, the discussion will start at **1:30 PM IST on November 13, 2026**. We request you to join 10 minutes earlier to check the audio and video output and to solve any technical issues, if there are any.
-
-[Click here to join the Zoom link](https://us02web.zoom.us/w/87330223160?tk=aAwqXF4QRDj50P2-MIhcxcFfBy7HFXQ0xlOVF9kAY2o.DQkAAAAUVUl0OBZ5bi0zUU9sVlE3QzVWaDl6WUVsVmVBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA&pwd=DfDRafgP4FEjSsWkSJtRmsiNQRo65t.1) (this link is unique to you, so please do not share it with anyone else).
-
-Alternatively, you can use the following webinar ID and passcode:
-
-Webinar ID: 873 3022 3160  
-Passcode: 288327
-
-If you are facing any issues, you can contact me at 6309502648.
-
-Regards,  
-Azdhan  
-MediaNama
-
----
-
-## 10. Azdhan Basha
-
-Hi Azdhan Basha,
-
-We're glad you're joining our online discussion on technical issues with SIM binding.
-
-Just as a quick reminder, the discussion will start at **1:30 PM IST on November 13, 2026**. We request you to join 10 minutes earlier to check the audio and video output and to solve any technical issues, if there are any.
-
-[Click here to join the Zoom link](https://us02web.zoom.us/w/87330223160?tk=sxDKpCaUM6kY_dSR4DZkIg0rWWiBMLzgq6rWkxyNxOg.DQkAAAAUVUl0OBZCTjhjN0t3U1RUS1hzUXFKaEVCalZ3AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA&pwd=DfDRafgP4FEjSsWkSJtRmsiNQRo65t.1) (this link is unique to you, so please do not share it with anyone else).
-
-Alternatively, you can use the following webinar ID and passcode:
-
-Webinar ID: 873 3022 3160  
-Passcode: 288327
-
-If you are facing any issues, you can contact me at 6309502648.
-
-Regards,  
-Azdhan  
-MediaNama
+In order to address the concerns around scams and digital arrest cases and many others ,do the panellists view a risk based approach as a proportionate solution. And if so be the case there would still be cases where access to app is denied, would that cost to consumer be justified in the name of safety and security concerns, and even regulatory cost to apps, telcos, etc. 
+
+- 
+    
+    Anonymous Attendee02:06 PM
+    
+    ···
+    
+    I believe SIM binding will happen only for login not regular usage. So it's a one time thing. So it should not matter if user is out of network or only on wifi after successful login. So the point of network is not correct. Also there are multiple forms of SIM binding and I don't think those have been mandated which form of binding apps need to do choose. So there is leeway there to keep it user friendly. UPI apps do binding already (there is no difference between banks and upi apps here) and success rates of some form of binding are as high as 97-98% at attempt basis. Lastly, there are a lot of WhatsApp takeovers that happen where user ends up sharing their WhatsApp login otp or install a malware on their phone and give all OTP access to malware like fake rto challan etc After takeovers, fraudsters message to all the contacts of victim to send them money and hence a lot of users end up losing money. So there is valid case for adding binding or adding slightly stronger controls.
+    
+    This question has been answered live
+    
+    Type Answer
+    
+
+- 
+    
+    Anonymous Attendee02:33 PM
+    
+    ···
+    
+    iOS does not give capability to check SIM id. Hence once binding is done if the SIM is changed, apps can't track it. Hence Parag was able to change his SIM. However on Android, apps can read SIM id of a SIM. So once binding is done, and apps can just keep checking if the same SIM id is present on device or not. UPI apps already do it at the time of each transaction where they validate if the original SIM on which binding was done is still present or not (OS polling - as Parag mentioned it). btw Apple now has ctCellularPlan API available on iOS 27 which checks if the mobile data of a number is present on device or not. It is publicly available now and apps are already using it.
+    
+    This question has been answered live
