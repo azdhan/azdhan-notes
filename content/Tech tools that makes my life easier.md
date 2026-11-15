@@ -58,6 +58,10 @@
 - VLC - the greatest open source invention ever (is there anything else? [android](https://www.medianama.com/2025/08/223-google-blocks-android-apk-sideloading-2026/) perhaps?)
 - - https://www.privacyguides.org/en/  
 
+## OSNIT
+[Revealer.US: Username Lookup, Email Lookup & Data Breach Search](https://revealer.us/) 
+
+
 
 # issues and solutions 
 - APK files from google playstore: [APK Downloader | November 2026 | (Evozi Official)](https://apps.evozi.com/apk-downloader/) 

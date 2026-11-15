@@ -17,3 +17,5 @@ blogs: [zerofox](https://www.zerofox.com/solutions/cyber-threat-intelligence/dar
 My stories related to data leaks:
  - [[when reliance data was leaked and kundankulam's data was also exposed]]
  - [[bank of baroda 1TB data breach]]
+
+ 
